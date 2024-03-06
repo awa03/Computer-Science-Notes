@@ -1,0 +1,18 @@
+Tree Traversal Practice
+1) Post Order - https://opendsa-server.cs.vt.edu/embed/btTravPostorderPRO
+2) Pre Order - https://opendsa-server.cs.vt.edu/embed/btTravPreorderPRO
+3) InOrder - https://opendsa-server.cs.vt.edu/embed/btTravInorderPRO
+4) Level Order - No Practice Website* Need To Study
+
+Search Algorithm Visualization
+1) Depth First Search - https://visualgo.net/en/dfsbfs?slide=4
+2) Single Source Shortest Path - https://visualgo.net/en/sssp 
+
+Sorting Algorithm Visualization
+1)https://visualgo.net/en/sorting?slide=1
+(Covers Bubble, Selection, Insertion, Merge, Quick, and Radix)
+2) https://algostructure.com/sorting/heapsort.php
+(Only Covers Heap Sort)
+
+
+

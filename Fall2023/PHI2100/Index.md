@@ -1,0 +1,2 @@
+- [Reasoning & Critical Thinking](Reasoning%20%26%20Critical%20Thinking.md)
+- [The Decider Principle](The%20Decider%20Principle.md)
