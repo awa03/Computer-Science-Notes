@@ -88,3 +88,74 @@ cv2.waitKey()
 ```
 
 ## Image Translation
+
+<blockquote>"Let’s say we want to move the image within our frame of reference. In computer vision terminology, this is referred to as translation."</blockquote>
+
+```py
+
+# ---------------- Imports ---------------- #
+import cv2
+import numpy as np
+
+# ---------------- Reading ---------------- #
+img = cv2.imread('images/input.jpg')
+
+# ---------------- Translate ---------------- #
+num_rows, num_cols = img.shape[:2]
+translation_matrix = np.float32([ [1,0,70], [0,1,110] ])
+img_translation = cv2.warpAffine(img, translation_matrix, (num_cols,
+num_rows))
+cv2.imshow('Translation', img_translation)
+cv2.waitKey()
+```
+
+We are shifting the image by subtracting from either the x or y values of the image. In order to do this we are creating a translation matrix. The next line `cv2.warpAffine(img, translation_matrix, (num_cols, num_rows))`
+is applying this translation to our image, and maintaining the original values of the view container. We can make the image entirely visible by modifying the line as such; 
+
+```py
+# Adding padding to ensure image is not cropped
+img_translation = cv2.warpAffine(img, translation_matrix, (num_cols + 70,
+num_rows + 110))
+
+# num_col + x is increasing the columns 
+# num_rows + y is increasing the rows
+```
+
+## Image Rotation
+
+We need to again create a matrix in order to adjust the image. In order to do this we use the following line: 
+```py
+matrix = cv2.getRotationMatrix2D((num_cols/2, num_rows/2), 30, 1)
+```
+
+This line can then be applied again using `warpAffine`. 
+```py
+cv2.warpAffine(img, rotation_matrix, (num_cols, num_rows))
+```
+
+Rotation must be understood mathematically. Rotation is also a form of translation, which we can create using the following matrix
+
+```
+c = [ [cosø, -sinø] ,
+	  [sinø, cosø ] ]
+```
+
+ø represents the angle of rotation in the counter clockwise direction. We can specify the point in which the image is rotated around, using `getRotationMatrix2D`. Then we use `warpAffine` to apply this matrix. 
+
+## Image Scaling
+
+One of the most common operations in computer vision is image scaling. This can be accomplished by using the `resize` functionality. 
+
+```py
+img_scaled = cv2.resize(img,None,fx=1.2, fy=1.2, interpolation =
+cv2.INTER_LINEAR)
+cv2.imshow('Scaling - Linear Interpolation', img_scaled) img_scaled =
+cv2.resize(img,None,fx=1.2, fy=1.2, interpolation = cv2.INTER_CUBIC)
+cv2.imshow('Scaling - Cubic Interpolation', img_scaled) img_scaled =
+cv2.resize(img,(450, 400), interpolation = cv2.INTER_AREA)
+cv2.imshow('Scaling - Skewed Size', img_scaled) cv2.waitKey()
+```
+
+<blockquote>Whenever we resize an image, there are multiple ways to fill in the pixel values. When we
+are enlarging an image, we need to fill up the pixel values in between pixel locations.</blockquote>
+
