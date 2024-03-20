@@ -1,4 +1,6 @@
 [
   "table-editor-obsidian",
-  "markdown-blogger"
+  "markdown-blogger",
+  "highlightr-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]

@@ -1,4 +1,4 @@
-- [Index.md](Index.md) 
+- [Index.md](Spring2024/German/Index.md) 
 - [Capital_4_Notes.md](Capital_4_Notes.md) 
 - [Das_Perfect.md](Das_Perfect.md)
 - [Ordinal_Time.md](Ordinal_Time.md)
@@ -14,3 +14,5 @@
 - [Self_Study_7.md](Self_Study_7.md)
 - [Week_8.md](Week_8.md)
 - [Week 9 Notes](Week_9.md)
+- [Week 10](Week_10.md)
+- 

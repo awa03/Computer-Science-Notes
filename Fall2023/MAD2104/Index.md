@@ -1,4 +1,4 @@
-- [Index](Index.md)
+- [Index](Fall2023/MAD2104/Index.md)
 - [Formal_Logic_1](Formal_Logic_1.md)
 - [Lecture_10](Lecture_10.md)
 - [Notes_5](Notes_5.md)

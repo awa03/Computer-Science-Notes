@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Week_9.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Week_9.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Week_9.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Week_9.md"
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md"
               }
             }
           }
@@ -148,14 +149,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c43856023657ee4f",
+  "active": "4168f87afd5168cd",
   "lastOpenFiles": [
+    "Study_Notes_2024/OpenCV_With_Python/Untitled.md",
+    "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
+    "Untitled 1.md",
+    "Study_Notes_2024/OpenCV_With_Python/Index.md",
+    "README.md",
+    "Study_Notes_2024/OpenCV_With_Python",
+    "Study_Notes_2024/OpenCV_",
+    "Study_Notes_2024",
+    "Spring2024/DataStructures2/Deque.md",
+    "Spring2024/DataStructures2/Index.md",
+    "Spring2024/DataStructures2/Linked_List.md",
     "Spring2024/German/Week_9.md",
+    "Spring2024/German/Week_10.md",
+    "Spring2024/DataStructures2/Exam_1_Review.md",
     "Spring2024/German/Index.md",
     "Spring2024/German/Week_8.md",
     "Spring2024/German/Week_7.md",
     "Spring2024/DataStructures2/Trees_2.md",
-    "Spring2024/DataStructures2/Index.md",
     "Fall2023/COP4530/Trees_2.md",
     "Spring2024/DataStructures2/Trees_1.md",
     "Spring2024/German/Self_Study_7.md",
@@ -166,9 +179,6 @@
     "Spring2024/German/Self_Study_2.md",
     "Untitled 2.md",
     "Spring2024/German/Ordinal_Time.md",
-    "Spring2024/German/Das_Perfect.md",
-    "Spring2024/German/Capital_4_Notes.md",
-    "Spring2024/German/Week_5.md",
-    "Spring2024/German/Self_Study_4.md"
+    "Spring2024/German/Das_Perfect.md"
   ]
 }

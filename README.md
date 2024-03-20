@@ -36,3 +36,13 @@ Other C# Stuff | [C# Stuff/ConsoleApp1](Spring2024/CSharpStuff/ConsoleApp1/Index
 Data Structures 2 | [DataStructures2](Spring2024/DataStructures2/Index.md)
 Fullstack Dev | [FullStackCSharp](Spring2024/FullStackCSharp/Index.md)
 German 2 | [German](Spring2024/German/Index.md)
+
+#### Studying for Fun
+
+I would like to diversify my note set so I will also be adding sections for independent study notes. I will be covering multiple books and placing my notes in this section from now on. I hope that this section serves to build upon many of the notes taken in my undergraduate study areas, and can help others. All books used will be cited below, and all of these books can be found for free online. 
+
+| Book                                                                   | Note                                                  |
+| ---------------------------------------------------------------------- | ----------------------------------------------------- |
+| Open CV with python by Example<br>By: Prateek Joshi - PACKT Publishing | [Index](Study_Notes_2024/OpenCV_With_Python/Index.md) |
+
+
