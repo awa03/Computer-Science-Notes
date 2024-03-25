@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c43856023657ee4f",
+            "id": "2c1221474f45d0eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +140,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4168f87afd5168cd",
+  "active": "2c1221474f45d0eb",
   "lastOpenFiles": [
-    "Study_Notes_2024/OpenCV_With_Python/Untitled.md",
+    "Spring2024/German/Week_11.md",
+    "Spring2024/DataStructures2/Trees_3.md",
+    "Spring2024/German/Week_8.md",
+    "Spring2024/German/Index.md",
+    "Spring2024/DataStructures2/Index.md",
+    "Spring2024/DataStructures2/Trees_3 2.md",
+    "Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png",
+    "Spring2024/DataStructures2/Vector.md",
+    "Spring2024/DataStructures2/Trees_2.md",
+    "Spring2024/German/Week_10.md",
     "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
+    "Study_Notes_2024/OpenCV_With_Python/Untitled.md",
     "Untitled 1.md",
     "Study_Notes_2024/OpenCV_With_Python/Index.md",
     "README.md",
@@ -160,25 +161,16 @@
     "Study_Notes_2024/OpenCV_",
     "Study_Notes_2024",
     "Spring2024/DataStructures2/Deque.md",
-    "Spring2024/DataStructures2/Index.md",
     "Spring2024/DataStructures2/Linked_List.md",
     "Spring2024/German/Week_9.md",
-    "Spring2024/German/Week_10.md",
     "Spring2024/DataStructures2/Exam_1_Review.md",
-    "Spring2024/German/Index.md",
-    "Spring2024/German/Week_8.md",
     "Spring2024/German/Week_7.md",
-    "Spring2024/DataStructures2/Trees_2.md",
     "Fall2023/COP4530/Trees_2.md",
     "Spring2024/DataStructures2/Trees_1.md",
     "Spring2024/German/Self_Study_7.md",
     "Fall2023/MAD2104/Modular_Arithmetic.md",
     "Fall2023/MAD2104/Index.md",
     "Fall2023/MAD2104/RSA_Security_Protocol.md",
-    "Fall2023/MAD2104/Notes_7.md",
-    "Spring2024/German/Self_Study_2.md",
-    "Untitled 2.md",
-    "Spring2024/German/Ordinal_Time.md",
-    "Spring2024/German/Das_Perfect.md"
+    "Fall2023/MAD2104/Notes_7.md"
   ]
 }
