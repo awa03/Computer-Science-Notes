@@ -29,7 +29,7 @@
 - [Stacks.md](Stacks.md) 
 - [Trees.md](Trees.md)
 - [Trees_2.md](Fall2023/COP4530/Trees_2.md)
-- [Trees_3.md](Trees_3.md)
+- [Trees_3.md](Fall2023/COP4530/Trees_3.md)
 - [Untitled.md](Self_Study_4.md) 
 - [Variable_Scope_and_Program.md](Variable_Scope_and_Program.md)
 - [package-lock.json](package-lock.json) 

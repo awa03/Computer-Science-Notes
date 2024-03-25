@@ -158,4 +158,39 @@ cv2.imshow('Scaling - Skewed Size', img_scaled) cv2.waitKey()
 
 <blockquote>Whenever we resize an image, there are multiple ways to fill in the pixel values. When we
 are enlarging an image, we need to fill up the pixel values in between pixel locations.</blockquote>
+There are multiple ways to accomplish interpolation. For enlargement use _linear_ or _cubic_ interpolation. For shrinking we should use _area-based interpolation_. _Cubic interpolation_ is more complex computationally, slower than linear. However the quality of the image will also be higher. 
 
+## Affine Transformations
+
+Affine transformations are generalizations of Euclidean transformations. Lines will be the same, but squares may be transformed into rectangles or parallelograms. This is because affine transformations do not preserve length or angles. 
+
+```py
+import cv2
+import numpy as np
+
+# Load The Image into a var 
+img = cv2.imread('images/input.jpg')
+
+# Define Source and Destination Points
+rows, cols = img.shape[:2]
+src_points = np.float32([[0,0], [cols-1,0], [0,rows-1]])
+dst_points = np.float32([[0,0], [int(0.6*(cols-1)),0], [int(0.4*(cols- 1)),rows-1]])
+
+# Get Location and - Apply the transformations
+affine_matrix = cv2.getAffineTransform(src_points, dst_points)
+img_output = cv2.warpAffine(img, affine_matrix, (cols,rows))
+
+# Display the images
+cv2.imshow('Input', img)
+cv2.imshow('Output', img_output)
+cv2.waitKey()
+```
+
+We are mapping the source points to the destination points. Then getting the transformation matrix, storing it in `affine_matrix`
+
+If we wish to mirror the image we need to change the control points in the following way
+
+```py
+src_points = np.float32([[0,0], [cols-1,0], [0,rows-1]])
+dst_points = np.float32([[cols-1,0], [0,0], [cols-1,rows-1]])
+```
