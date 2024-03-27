@@ -6,7 +6,8 @@ The <b>Balance Condition</b>, ensures for every node the height of their left an
 - Maintain by rotation if the condition is <b>violated</b>
 - Assuming lazy deletion
 
-![[Firefox_Screenshot_2024-03-22T19-51-53.025Z.png]]
+![Screenshot](../../Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png)
+
 
 
 ### Balance Condition Violation
