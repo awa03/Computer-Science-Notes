@@ -8,3 +8,4 @@
 - [Trees 2🌳](Trees_2.md)
 - [Exam #1 Review](Exam_1_Review.md)
 - [Tree's - AVL Tree's](Spring2024/DataStructures2/Trees_3.md)
+- [Priority Queue](Heap_1.md)

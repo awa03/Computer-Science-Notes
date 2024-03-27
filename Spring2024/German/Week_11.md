@@ -62,3 +62,25 @@ Wir sprechen _über das Buch_ - We are talking about the book.
 | 8      | Er freut sich auf seine Reise               | Er freut sich darauf.                 |
 | 9      | Katja dankt Georg für seine Hilfe           | Er freut sich darauf.                 |
 | 10     | Die studentin freuen sich über den Lehrer   | Die Studentinnen freuen sich darüber. |
+## Wo - Compounds
+
+Are used in questions when asking about the object of the preposition ('for what', 'about what', etc). 
+
+| Sentence                                     | Wo                                 |
+| -------------------------------------------- | ---------------------------------- |
+| Ich habe Angst vor Prüfungen                 | Wovor hast du Angst?               |
+| Er bittet um ein bisschen Zeit               | Worauf hofft Sabine?               |
+| Sabine hofftauf eine gute Note               |                                    |
+| Werner hat sich für ein Motorrad entschieden | Wovon handelt das Buch?            |
+| Das Buch handelt von der Nazizeit            | Da Sabine hofft auf eine gute Note.    ich ärgere mich über meine Note in Mathe     | Wovon handelt das Buch?            |
+
+## Wem / Wen
+
+| Sentence                                       | -                                   |
+| ---------------------------------------------- | ----------------------------------- |
+| Hans hat sich Sabine verliebt                  | In wen hat Hans sich verliebt?      |
+| Reinhard hat sich von seiner Freundin getrennt | Von wem hat sich Reinhard getrennt? |
+| Die kinder lachen über den jungen Mann         | Über wen lachen die Kinder?         |
+| Wir erinnern uns an unsere Freunde             | An wen erinnern wir uns?            |
+| Ich muss heute mit meinem Vater sprechen       | Mit wem muss ich heute sprechen?    |
+| Maria achtet nie auf ihre Eltern               | Auf wen achtet Maria nie?           |

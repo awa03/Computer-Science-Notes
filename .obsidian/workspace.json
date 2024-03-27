@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Week_11.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ccd761b74732bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring2024/DataStructures2/Heap_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Week_11.md",
+                "file": "Spring2024/DataStructures2/Heap_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Week_11.md",
+                "file": "Spring2024/DataStructures2/Heap_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Week_11.md"
+                "file": "Spring2024/DataStructures2/Heap_1.md"
               }
             }
           }
@@ -148,19 +161,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c1221474f45d0eb",
+  "active": "9ccd761b74732bab",
   "lastOpenFiles": [
+    "Spring2024/DataStructures2/Index.md",
+    "Spring2024/DataStructures2/Heap_1.md",
+    "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
     "Spring2024/German/Week_11.md",
     "Spring2024/DataStructures2/Trees_3.md",
     "Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png",
     "Spring2024/German/Week_8.md",
     "Spring2024/German/Index.md",
-    "Spring2024/DataStructures2/Index.md",
     "Spring2024/DataStructures2/Trees_3 2.md",
     "Spring2024/DataStructures2/Vector.md",
     "Spring2024/DataStructures2/Trees_2.md",
     "Spring2024/German/Week_10.md",
-    "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
     "Study_Notes_2024/OpenCV_With_Python/Untitled.md",
     "Untitled 1.md",
     "Study_Notes_2024/OpenCV_With_Python/Index.md",

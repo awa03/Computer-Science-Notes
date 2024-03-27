@@ -194,3 +194,47 @@ If we wish to mirror the image we need to change the control points in the follo
 src_points = np.float32([[0,0], [cols-1,0], [0,rows-1]])
 dst_points = np.float32([[cols-1,0], [0,0], [cols-1,rows-1]])
 ```
+
+## Projective Transformations
+
+Affine transformations impose certain restrictions. To remedy this we are able to use a projective transformation. This is referred to as <b>homography</b>. 
+
+<blockquote>We basically describe what happens to an image when
+the point of view is changed. For example, if you are standing right in front of a sheet of
+paper with a square drawn on it, it will look like a square. Now, if you start tilting that
+sheet of paper, the square will start looking more and more like a trapezoid. Projective
+transformations allow us to capture this dynamic in a nice mathematical way. These
+transformations preserve neither sizes nor angles, but they do preserve incidence and
+cross-ratio.</blockquote> 
+Any two images on a given plane are related via homography. As long as they are in the same plane we can transform anything into something else. This is useful for things such as augmented reality, or image rectification. For instance if we would like to make the top of the image appear as though it is closer to the camera, by making it larger than the bottom of the image. We can do this using the following code: 
+
+```py
+# Imports -------------------
+import cv2
+import numpy as np
+
+# Perspective manipulation --
+img = cv2.imread('images/input.jpg')
+rows, cols = img.shape[:2]
+src_points = np.float32([[0,0], [cols-1,0], [0,rows-1], [cols-1,rows-1]])
+dst_points = np.float32([[0,0], [cols-1,0], [int(0.33*cols),rows-1], [int(0.66*cols),rows-1]])
+
+# Create The Perspectives ---
+projective_matrix = cv2.getPerspectiveTransform(src_points, dst_points)
+img_output = cv2.warpPerspective(img, projective_matrix, (cols,rows))
+
+# Show images ---------------
+cv2.imshow('Input', img)
+cv2.imshow('Output', img_output)
+cv2.waitKey()
+```
+
+We chose control points in the source image and map them to the destination image. Another example of this being: 
+
+```py
+src_points = np.float32([[0,0], [0,rows-1], [cols/2,0], [cols/2,rows-1]])
+dst_points = np.float32([[0,100], [0,rows-101], [cols/2,0], [cols/2,rows-
+1]])
+```
+
+
