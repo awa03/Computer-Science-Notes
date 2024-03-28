@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "27f0ac3e5669d06c",
+        "id": "3c50443164a40f46",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1221474f45d0eb",
+            "id": "5f64a1c0d298bbf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ccd761b74732bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/DataStructures2/Heap_1.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/DataStructures2/Heap_1.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/DataStructures2/Heap_1.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/DataStructures2/Heap_1.md"
+                "file": "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md"
               }
             }
           }
@@ -161,37 +147,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ccd761b74732bab",
+  "active": "5f64a1c0d298bbf8",
   "lastOpenFiles": [
-    "Spring2024/DataStructures2/Index.md",
-    "Spring2024/DataStructures2/Heap_1.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/2D_Convolution.md",
+    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
+    "README.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Edge_Detection.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/kernel.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Embossing.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Summary.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/color_img.md",
+    "vingnette.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Erosion.md",
+    "Understanding_Pattern.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/sharpening.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Under_The_Hood.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Motion_Blur.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
+    "Study_Notes_2024/OpenCV_With_Python/Index.md",
     "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2",
+    "Spring2024/DataStructures2/Heap_1.md",
+    "Spring2024/DataStructures2/Index.md",
+    "Heap_1.md",
+    "Head_1.md",
     "Spring2024/German/Week_11.md",
     "Spring2024/DataStructures2/Trees_3.md",
     "Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png",
     "Spring2024/German/Week_8.md",
     "Spring2024/German/Index.md",
     "Spring2024/DataStructures2/Trees_3 2.md",
-    "Spring2024/DataStructures2/Vector.md",
-    "Spring2024/DataStructures2/Trees_2.md",
-    "Spring2024/German/Week_10.md",
-    "Study_Notes_2024/OpenCV_With_Python/Untitled.md",
-    "Untitled 1.md",
-    "Study_Notes_2024/OpenCV_With_Python/Index.md",
-    "README.md",
     "Study_Notes_2024/OpenCV_With_Python",
     "Study_Notes_2024/OpenCV_",
-    "Study_Notes_2024",
-    "Spring2024/DataStructures2/Deque.md",
-    "Spring2024/DataStructures2/Linked_List.md",
-    "Spring2024/German/Week_9.md",
-    "Spring2024/DataStructures2/Exam_1_Review.md",
-    "Spring2024/German/Week_7.md",
-    "Fall2023/COP4530/Trees_2.md",
-    "Spring2024/DataStructures2/Trees_1.md",
-    "Spring2024/German/Self_Study_7.md",
-    "Fall2023/MAD2104/Modular_Arithmetic.md",
-    "Fall2023/MAD2104/Index.md",
-    "Fall2023/MAD2104/RSA_Security_Protocol.md"
+    "Study_Notes_2024"
   ]
 }
