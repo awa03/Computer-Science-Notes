@@ -2,6 +2,7 @@ This chapter will cover the application of visual effects to images. Overall the
 
 ## Index 
 
+- [Root Dir](Index.md) <img src="Assets/root.png" alt="Root Dir Folder" style="width:10px;height:10px;">
 - [2D Convolution](2D_Convolution.md)
 - [Blurring](Blurring.md)
 - [The Size of Kernel vs blurriness](kernel.md)
