@@ -19,18 +19,18 @@ Worüber sprichst du? - Ich spreche über den film
 Page 273 - 128 in the online version
 Rechts neben der Tür ist eine Kommode. Ein Lampe steht _darauf_. Rechts _daran_ steht der Schreibtisch. _Darunter_ steht Hannahs Tasche. An der Wand steht ein Schrank, _darin_ hängen Hannahs Sachen. Links an der Wand steht Hannahs Bett. _Daneben_ liegt die Katze auf dem Teppich. An der Wand _dafür_ hängt ein Bild. Auf dem Bild ist eine Wiese mit einem Baum. _Daran_ hängen Äpfel. Mitten im Zimmer steht ein Sessel. _Darin_ sieht man Hannahs Schuhe und _dazwischen_ hat sich Philip versteckt.
 
-| Preposition  | Definition                                  | Example                                    |
-|--------------|---------------------------------------------|--------------------------------------------|
-| dahinter     | Behind (physically)                        | Das Buch liegt _dahinter_ auf dem Tisch.  |
-| darauf       | On (top of)                                 | Bitte legen Sie das Buch _darauf_.        |
-| darunter     | Underneath                                  | Die Schuhe stehen _darunter_.             |
-| dazwischen  | In between                                  | Die beiden Stühle stehen _dazwischen_.    |
-| davor        | In front (of)                               | Bitte stellen Sie sich _davor_.           |
-| darüber      | Above (physically)                          | Das Bild hängt _darüber_.                 |
-| daran        | On (attached to)                            | Das Bild hängt _daran_.                   |
-| darin        | In (inside of)                              | Das Wasser befindet sich _darin_.         |
-| davor        | Before (in front of, in time or sequence)  | Ich stand direkt _davor_, als es passierte.|
-| daneben      | Next to                                     | Der Stuhl steht _daneben_.                |
+| Preposition | Definition                                | Example                                     |
+| ----------- | ----------------------------------------- | ------------------------------------------- |
+| dahinter    | Behind (physically)                       | Das Buch liegt _dahinter_ auf dem Tisch.    |
+| darauf      | On (top of)                               | Bitte legen Sie das Buch _darauf_.          |
+| darunter    | Underneath                                | Die Schuhe stehen _darunter_.               |
+| dazwischen  | In between                                | Die beiden Stühle stehen _dazwischen_.      |
+| davor       | In front (of)                             | Bitte stellen Sie sich _davor_.             |
+| darüber     | Above (physically)                        | Das Bild hängt _darüber_.                   |
+| daran       | On (attached to)                          | Das Bild hängt _daran_.                     |
+| darin       | In (inside of)                            | Das Wasser befindet sich _darin_.           |
+| davor       | Before (in front of, in time or sequence) | Ich stand direkt _davor_, als es passierte. |
+| daneben     | Next to                                   | Der Stuhl steht _daneben_.                  |
 
 1) Hast du das Handy von Mia? Sie hat _danach_ gefragt.
 2) Laura hat eine gute Note bekommen. Sie freut sich _darüber_.
@@ -66,13 +66,13 @@ Wir sprechen _über das Buch_ - We are talking about the book.
 
 Are used in questions when asking about the object of the preposition ('for what', 'about what', etc). 
 
-| Sentence                                     | Wo                                 |
-| -------------------------------------------- | ---------------------------------- |
-| Ich habe Angst vor Prüfungen                 | Wovor hast du Angst?               |
-| Er bittet um ein bisschen Zeit               | Worauf hofft Sabine?               |
-| Sabine hofftauf eine gute Note               |                                    |
-| Werner hat sich für ein Motorrad entschieden | Wovon handelt das Buch?            |
-| Das Buch handelt von der Nazizeit            | Da Sabine hofft auf eine gute Note.    ich ärgere mich über meine Note in Mathe     | Wovon handelt das Buch?            |
+| Sentence                                     | Wo                                                                              |                         |
+| -------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------- |
+| Ich habe Angst vor Prüfungen                 | Wovor hast du Angst?                                                            |                         |
+| Er bittet um ein bisschen Zeit               | Worauf hofft Sabine?                                                            |                         |
+| Sabine hofftauf eine gute Note               |                                                                                 |                         |
+| Werner hat sich für ein Motorrad entschieden | Wovon handelt das Buch?                                                         |                         |
+| Das Buch handelt von der Nazizeit            | Da Sabine hofft auf eine gute Note.    ich ärgere mich über meine Note in Mathe | Wovon handelt das Buch? |
 
 ## Wem / Wen
 

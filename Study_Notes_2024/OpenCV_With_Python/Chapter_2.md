@@ -2,7 +2,7 @@ This chapter will cover the application of visual effects to images. Overall the
 
 ## Index 
 
-- [Root Dir](Index.md) <img src="Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Root Dir](Study_Notes_2024/OpenCV_With_Python/Index.md) <img src="Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
 - [2D Convolution](Ch2/2D_Convolution.md)
 - [Blurring](Ch2/Blurring.md)
 - [The Size of Kernel vs blurriness](Ch2/kernel.md)

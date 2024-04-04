@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
+                "file": "Spring2024/German/Self_Study_11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18fb5e49a5054b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study_Notes_2024/Leetcode/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fe8a6f98329a361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study_Notes_2024/Leetcode/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
+                "file": "Study_Notes_2024/Leetcode/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
+                "file": "Study_Notes_2024/Leetcode/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md"
+                "file": "Study_Notes_2024/Leetcode/Index.md"
               }
             }
           }
@@ -147,34 +172,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9749035897544ace",
+  "active": "0fe8a6f98329a361",
   "lastOpenFiles": [
+    "README.md",
+    "Study_Notes_2024/Leetcode/Easy/Index.md",
+    "Study_Notes_2024/Leetcode/Hard/Index.md",
+    "Study_Notes_2024/Leetcode/Medium/Index.md",
+    "Study_Notes_2024/Leetcode/Index.md",
+    "Untitled 3.md",
+    "Easy/Index.html.md",
+    "Easy",
+    "Study_Notes_2024/Leetcode/Leetcode_75.md",
+    "Study_Notes_2024/Leetcode/Hard",
+    "Study_Notes_2024/Leetcode/Medium",
+    "Study_Notes_2024/Leetcode/Easy",
     "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
     "Study_Notes_2024/OpenCV_With_Python/Index.md",
+    "Spring2024/German/Self_Study_11.md",
+    "Study_Notes_2024/Leetcode",
+    "Spring2024/German/Week_11.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/2D_Convolution.md",
     "Spring2024/German/Week_12.md",
-    "Untitled 1.md",
-    "Spring2024/German/Week_11.md",
     "Spring2024/German/Index.md",
-    "Spring2024/German/Self_Study_11.md",
     "Spring2024/German/Self_Study_2.md",
     "Spring2024/German/Das_Perfect.md",
     "Spring2024/German/Capital_4_Notes.md",
     "Spring2024/German/Week_1.md",
     "Spring2024/DataStructures2/Heap_1.md",
-    "Untitled 2.md",
-    "Untitled.md",
     "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/vignette.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Under_The_Hood.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Summary.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/sharpening.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Motion_Blur.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/kernel.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Erosion.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Embossing.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Edge_Detection.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/color_img.md",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
     "Ch2",
@@ -183,7 +213,6 @@
     "Study_Notes_2024/OpenCV_With_Python/Ch2",
     "Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png",
     "Study_Notes_2024/OpenCV_With_Python",
-    "Study_Notes_2024/OpenCV_",
-    "Study_Notes_2024"
+    "Study_Notes_2024/OpenCV_"
   ]
 }

@@ -44,5 +44,6 @@ I would like to diversify my note set so I will also be adding sections for inde
 | Book                                                                   | Note                                                  |
 | ---------------------------------------------------------------------- | ----------------------------------------------------- |
 | Open CV with python by Example<br>By: Prateek Joshi - PACKT Publishing | [Index](Study_Notes_2024/OpenCV_With_Python/Index.md) |
+| Leetcode Explanations                                                  | [Index](Study_Notes_2024/Leetcode/Index.md)           |
 
 

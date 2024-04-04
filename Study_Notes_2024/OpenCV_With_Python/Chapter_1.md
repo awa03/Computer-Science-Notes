@@ -239,5 +239,5 @@ dst_points = np.float32([[0,100], [0,rows-101], [cols/2,0], [cols/2,rows-
 
 ## Navigation
 
-- [Root Dir](Index.md) <img src="Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Root Dir](Study_Notes_2024/OpenCV_With_Python/Index.md) <img src="Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
 
