@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md"
+                "file": "Study_Notes_2024/Leetcode/Easy/GCD_STR.md"
               }
             }
           }
@@ -149,27 +149,27 @@
   },
   "active": "0fe8a6f98329a361",
   "lastOpenFiles": [
-    "Study_Notes_2024/Leetcode/Index.md",
-    "Study_Notes_2024/Leetcode/Leetcode_75.md",
     "Study_Notes_2024/Leetcode/Easy/Index.md",
+    "Study_Notes_2024/Leetcode/Hard/Index.md",
+    "Study_Notes_2024/Leetcode/Leetcode_75.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/2D_Convolution.md",
+    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
     "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
+    "Study_Notes_2024/Leetcode/Index.md",
     "Understanding_Pattern.md",
     "Easy/Index.html.md",
     "Easy",
     "README.md",
-    "Study_Notes_2024/Leetcode/Hard/Index.md",
     "Study_Notes_2024/Leetcode/Medium/Index.md",
     "Untitled 3.md",
     "Study_Notes_2024/Leetcode/Hard",
     "Study_Notes_2024/Leetcode/Medium",
     "Study_Notes_2024/Leetcode/Easy",
-    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
     "Study_Notes_2024/OpenCV_With_Python/Index.md",
     "Spring2024/German/Self_Study_11.md",
     "Study_Notes_2024/Leetcode",
     "Spring2024/German/Week_11.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/2D_Convolution.md",
     "Spring2024/German/Week_12.md",
     "Spring2024/German/Index.md",
     "Spring2024/German/Self_Study_2.md",

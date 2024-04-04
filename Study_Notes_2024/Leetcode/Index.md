@@ -17,4 +17,4 @@ Welcome To Leetcode! Here I will provide explanations and and solutions to some 
 ****
 ## Navigation
 
-- [Root Dir](Study_Notes_2024/Leetcode/Index.md) <img src="Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Root Dir](Index.md) 
