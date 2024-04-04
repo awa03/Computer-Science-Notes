@@ -1,6 +1,6 @@
 ## Leetcode 75
 
-<b>1071</b> - [Greatest Common Divisor of Strings](Easy/GCD_STR.md)
+<b>1071</b> - [Greatest Common Divisor of Strings](GCD_STR.md)
 
 
 ****

@@ -10,11 +10,11 @@ Welcome To Leetcode! Here I will provide explanations and and solutions to some 
 ****
 ## Difficulty
 
-- [Easy](Easy/Index.md)
+- [Easy](Study_Notes_2024/Leetcode/Easy/Index.md)
 - [Medium](Medium/Index.md)
 - [Hard](Hard/Index.md)
 
 ****
 ## Navigation
 
-- [Root Dir](Index.md) 
+- [Root Dir](../README.md) 
