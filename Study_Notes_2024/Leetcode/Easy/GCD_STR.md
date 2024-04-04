@@ -22,6 +22,6 @@ public:
 
 ## Navigation
 
-- [Root Dir](Study_Notes_2024/Leetcode/Index.md) <img src="../../../Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
-- [Parent Dir](Study_Notes_2024/Leetcode/Easy/Index.md) <img src="../../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Root Dir](Index.md) <img src="../../../Assets/root.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Parent Dir](Index.md) <img src="../../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
 
