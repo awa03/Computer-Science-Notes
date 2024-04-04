@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9749035897544ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/German/Self_Study_11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18fb5e49a5054b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study_Notes_2024/Leetcode/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0fe8a6f98329a361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Index.md",
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Index.md",
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Index.md",
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Index.md"
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md"
               }
             }
           }
@@ -174,15 +149,17 @@
   },
   "active": "0fe8a6f98329a361",
   "lastOpenFiles": [
-    "README.md",
-    "Study_Notes_2024/Leetcode/Easy/Index.md",
-    "Study_Notes_2024/Leetcode/Hard/Index.md",
-    "Study_Notes_2024/Leetcode/Medium/Index.md",
     "Study_Notes_2024/Leetcode/Index.md",
-    "Untitled 3.md",
+    "Study_Notes_2024/Leetcode/Leetcode_75.md",
+    "Study_Notes_2024/Leetcode/Easy/Index.md",
+    "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
+    "Understanding_Pattern.md",
     "Easy/Index.html.md",
     "Easy",
-    "Study_Notes_2024/Leetcode/Leetcode_75.md",
+    "README.md",
+    "Study_Notes_2024/Leetcode/Hard/Index.md",
+    "Study_Notes_2024/Leetcode/Medium/Index.md",
+    "Untitled 3.md",
     "Study_Notes_2024/Leetcode/Hard",
     "Study_Notes_2024/Leetcode/Medium",
     "Study_Notes_2024/Leetcode/Easy",
@@ -203,8 +180,6 @@
     "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/vignette.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Under_The_Hood.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Summary.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/sharpening.md",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
     "Ch2",
