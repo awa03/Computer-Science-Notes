@@ -17,3 +17,6 @@ English speakers normally put the prepositions at the end of the sentence but ot
 3) Lisa, wo kannst du nicht ein bisschen lauter sprechen?
 4) Wo sagst du?
 
+<b>Reminder: No Test 03/04/2024</b>
+
+

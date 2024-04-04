@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Week_12.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Week_12.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Week_12.md",
+                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Week_12.md"
+                "file": "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md"
               }
             }
           }
@@ -150,7 +149,11 @@
   },
   "active": "9749035897544ace",
   "lastOpenFiles": [
+    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
+    "Study_Notes_2024/OpenCV_With_Python/Index.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/2D_Convolution.md",
     "Spring2024/German/Week_12.md",
+    "Untitled 1.md",
     "Spring2024/German/Week_11.md",
     "Spring2024/German/Index.md",
     "Spring2024/German/Self_Study_11.md",
@@ -162,7 +165,6 @@
     "Untitled 2.md",
     "Untitled.md",
     "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
-    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/vignette.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Under_The_Hood.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Summary.md",
@@ -173,11 +175,8 @@
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Embossing.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Edge_Detection.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/color_img.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/2D_Convolution.md",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
-    "Ch2/Understanding_Pattern.md",
     "Ch2",
     "Study_Notes_2024/OpenCV_With_Python/Assets",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
