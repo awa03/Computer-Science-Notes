@@ -1,6 +1,6 @@
 ## Welcome Statement
 
-Welcome To Leetcode! Here I will provide explanations and and solutions to some of the Leetcode problems. I will be separating them by study plan and by problem difficulty. I will also providing any assistance videos, if utilized. 
+Welcome To Leetcode! Here I will provide explanations and and solutions to some of the Leetcode problems. I will be separating them by study plan and by problem difficulty. I will also provide any assistance videos if utilized. 
 
 ****
 ## Study Plan
@@ -10,9 +10,9 @@ Welcome To Leetcode! Here I will provide explanations and and solutions to some 
 ****
 ## Difficulty
 
-- [Easy](Easy/Index.html)
-- [Medium](Medium/Index.html)
-- [Hard](Hard/Index.html)
+- [Easy](Easy/Index.md)
+- [Medium](Medium/Index.md)
+- [Hard](Hard/Index.md)
 
 ****
 ## Navigation
