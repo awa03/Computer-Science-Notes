@@ -10,7 +10,7 @@ Welcome To Leetcode! Here I will provide explanations and and solutions to some 
 ****
 ## Difficulty
 
-- [Easy](Study_Notes_2024/Leetcode/Easy/Index.md)
+- [Easy](Easy/Index.md)
 - [Medium](Medium/Index.md)
 - [Hard](Hard/Index.md)
 
