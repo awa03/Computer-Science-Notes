@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a76376bde87f0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring2024/German/Self_Study_12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
+                "file": "Spring2024/German/Self_Study_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
+                "file": "Spring2024/German/Self_Study_12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md"
+                "file": "Spring2024/German/Self_Study_12.md"
               }
             }
           }
@@ -172,11 +185,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f835f99edbcaed5",
+  "active": "4a76376bde87f0f2",
   "lastOpenFiles": [
+    "Spring2024/German/Index.md",
+    "Spring2024/German/Week_12.md",
+    "Spring2024/German/Week_11.md",
+    "Spring2024/German/Self_Study_12.md",
+    "Study_Notes_2024/Leetcode/Leetcode_75.md",
     "Study_Notes_2024/Leetcode/Index.md",
     "Study_Notes_2024/Leetcode/Easy/Index.md",
-    "Study_Notes_2024/Leetcode/Leetcode_75.md",
     "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
     "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
     "Study_Notes_2024/Leetcode/Easy/Reverse_Vowel.md",
@@ -199,14 +216,10 @@
     "Study_Notes_2024/OpenCV_With_Python/Index.md",
     "Spring2024/German/Self_Study_11.md",
     "Study_Notes_2024/Leetcode",
-    "Spring2024/German/Week_11.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
-    "Spring2024/German/Week_12.md",
-    "Spring2024/German/Index.md",
     "Spring2024/German/Self_Study_2.md",
     "Spring2024/German/Das_Perfect.md",
     "Spring2024/German/Capital_4_Notes.md",
-    "Spring2024/German/Week_1.md",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
     "Ch2",
