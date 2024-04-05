@@ -1,5 +1,6 @@
 ## Leetcode 75
 
+- <b>283</b> - [Move Zeros](Easy/MoveZeros.md) 
 - <b>345</b> - [Reverse Vowels of a String](Easy/Reverse_Vowel.md)
 - <b>1071</b> - [Greatest Common Divisor of Strings](Easy/GCD_STR.md)
 - <b>1768</b> - [Merge Strings Alternatively](Easy/Merge_Str_Alternative.md)
