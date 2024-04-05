@@ -1,7 +1,9 @@
 ## Easy
 
+<b>345</b> - [Reverse Vowels of a String](Reverse_Vowel.md)
 <b>1071</b> - [Greatest Common Divisor of Strings](GCD_STR.md)
 <b>1768</b> - [Merge Strings Alternately](Merge_Str_Alternative.md)
+
 
 ***
 ## Navigation

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f835f99edbcaed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Easy/Index.md",
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Easy/Index.md",
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study_Notes_2024/Leetcode/Easy/Index.md"
+                "file": "Study_Notes_2024/Leetcode/Leetcode_75.md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "faba25923b26710b",
+  "active": "3f835f99edbcaed5",
   "lastOpenFiles": [
+    "Study_Notes_2024/Leetcode/Easy/Index.md",
+    "Study_Notes_2024/Leetcode/Easy/Reverse_Vowel.md",
     "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
     "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
-    "Study_Notes_2024/Leetcode/Easy/Index.md",
     "Study_Notes_2024/Leetcode/Leetcode_75.md",
     "Study_Notes_2024/Leetcode/Index.md",
     "Assets/root.png",
@@ -194,7 +207,6 @@
     "Spring2024/German/Capital_4_Notes.md",
     "Spring2024/German/Week_1.md",
     "Spring2024/DataStructures2/Heap_1.md",
-    "Study_Notes_2024/OpenCV_With_Python/Chapter_1.md",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
     "Ch2",
