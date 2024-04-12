@@ -1,5 +1,6 @@
 ## Easy
 
+- <b>1</b> - [Two Sum](Two_Sum.md)
 - <b>283</b> - [Move Zeros](MoveZeros.md) 
 - <b>345</b> - [Reverse Vowels of a String](Reverse_Vowel.md)
 - <b>1071</b> - [Greatest Common Divisor of Strings](GCD_STR.md)

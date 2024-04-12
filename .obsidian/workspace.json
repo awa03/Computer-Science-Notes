@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Week_13.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6807c594361d7c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Week_13.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Week_13.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Week_13.md"
+                "file": "Study_Notes_2024/Leetcode/Easy/Two_Sum.md"
               }
             }
           }
@@ -148,20 +161,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "168f8ade43e666ec",
+  "active": "6807c594361d7c26",
   "lastOpenFiles": [
-    "Spring2024/German/Index.md",
+    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
+    "Study_Notes_2024/Leetcode/Easy/Index.md",
+    "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
     "Spring2024/German/Week_13.md",
+    "Spring2024/German/Index.md",
     "Spring2024/German/Capital_4_Notes.md",
     "Study_Notes_2024/Leetcode/Leetcode_75.md",
-    "Study_Notes_2024/Leetcode/Easy/Index.md",
     "Study_Notes_2024/Leetcode/Easy/Find_Highest_Alt.md",
     "Study_Notes_2024/Leetcode/Easy/GCD_STR.md",
     "Spring2024/German/Self_Study_12.md",
     "Spring2024/German/Week_12.md",
     "Spring2024/German/Week_11.md",
     "Study_Notes_2024/Leetcode/Index.md",
-    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
     "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
     "Study_Notes_2024/Leetcode/Easy/Reverse_Vowel.md",
     "Assets/root.png",
@@ -182,7 +196,6 @@
     "Study_Notes_2024/OpenCV_With_Python/Index.md",
     "Spring2024/German/Self_Study_11.md",
     "Study_Notes_2024/Leetcode",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/Blurring.md",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
     "Ch2",
