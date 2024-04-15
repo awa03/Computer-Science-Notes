@@ -13,5 +13,11 @@ In meiner Gruppe von Freunden gibt es Greg, die mit 20 Jahren die Jüngste ist, 
 In den Frühlingsferien ging ich zu meiner Oma und passte auf ihre Katze auf. Wir verbrachten die Tage damit, im Garten zu spielen und die Blumen zu bewundern. Die Katze war so niedlich und schmiegte sich gerne an uns, während wir sie streichelten und mit ihr spielten. Es war eine schöne Zeit, umgeben von der Liebe meiner Oma und der sanften Ruhe des Landlebens.
 
 ****
-## Listening Comprehension
 
+### Exam Day - No Notes
+
+****
+
+## In Class Writing 
+
+Ich koche sechs kilo chicken Huhnchen. Ich koche die chicken in die Luftfritteuse.  
