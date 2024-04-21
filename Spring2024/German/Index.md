@@ -20,6 +20,7 @@
 - [Week 12](Week_12.md)
 - [Self Study 12](Self_Study_12.md)
 - [Week 13](Week_13.md)
+- [Week 14](Week_14.md)
 
 
 
