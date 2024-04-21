@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Week 14.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Week 14.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Week 14.md",
+                "file": "Study_Notes_2024/Leetcode/Easy/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Week 14.md"
+                "file": "Study_Notes_2024/Leetcode/Easy/Index.md"
               }
             }
           }
@@ -175,12 +174,14 @@
   },
   "active": "28e8927374f17d06",
   "lastOpenFiles": [
-    "Spring2024/German/Index.md",
-    "Spring2024/German/Week 14.md",
-    "Spring2024/German/Week_13.md",
-    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
-    "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
+    "Study_Notes_2024/Leetcode/Easy/Number_Of_Occurences.md",
     "Study_Notes_2024/Leetcode/Easy/Index.md",
+    "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
+    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
+    "Spring2024/German/Week 14.md",
+    "Spring2024/German/Index.md",
+    "Spring2024/German/Week_13.md",
+    "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
     "Spring2024/German/Capital_4_Notes.md",
     "Study_Notes_2024/Leetcode/Leetcode_75.md",
     "Study_Notes_2024/Leetcode/Easy/Find_Highest_Alt.md",
@@ -189,7 +190,6 @@
     "Spring2024/German/Week_12.md",
     "Spring2024/German/Week_11.md",
     "Study_Notes_2024/Leetcode/Index.md",
-    "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
     "Study_Notes_2024/Leetcode/Easy/Reverse_Vowel.md",
     "Assets/root.png",
     "Assets/parent.png",
@@ -206,7 +206,6 @@
     "Study_Notes_2024/Leetcode/Hard",
     "Study_Notes_2024/Leetcode/Medium",
     "Study_Notes_2024/Leetcode/Easy",
-    "Study_Notes_2024/OpenCV_With_Python/Index.md",
     "Study_Notes_2024/Leetcode",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
