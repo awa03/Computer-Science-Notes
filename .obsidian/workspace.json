@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99057ac521619250",
+        "id": "0715d249ec5880d6",
         "type": "tabs",
         "children": [
           {
-            "id": "168f8ade43e666ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6807c594361d7c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/German/Week_13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28e8927374f17d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/German/Self_Study_11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ce7971663af86bd",
+            "id": "43dd95330db5eb4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2de1de340864da4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/German/Self_Study_10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c9ba88e5697a145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/German/Self_Study_13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b957c802d124d12a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring2024/German/Self_Study_14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -158,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Self_Study_14.md",
+                "file": "Spring2024/German/Self_Study_9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Self_Study_14.md",
+                "file": "Spring2024/German/Self_Study_9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Self_Study_14.md"
+                "file": "Spring2024/German/Self_Study_9.md"
               }
             }
           }
@@ -220,23 +148,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2377ad0be49ff6e9",
+  "active": "43dd95330db5eb4e",
   "lastOpenFiles": [
+    "Spring2024/German/Index.md",
+    "Spring2024/German/Self_Study_10.md",
+    "Spring2024/German/Self_Study_9.md",
+    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
+    "Spring2024/German/Week_13.md",
+    "Spring2024/German/Self_Study_11.md",
     "Spring2024/German/Self_Study_13.md",
     "Spring2024/German/Self_Study_14.md",
     "Spring2024/German/Self_Study_12.md",
-    "Spring2024/German/Self_Study_11.md",
-    "Spring2024/German/Self_Study_10.md",
-    "Spring2024/German/Self_Study_9.md",
     "Spring2024/German/Self_Study_8.md",
     "Spring2024/German/Week_15.md",
-    "Spring2024/German/Index.md",
     "Study_Notes_2024/Leetcode/Easy/Index.md",
     "Study_Notes_2024/Leetcode/Easy/Number_Of_Occurences.md",
     "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
-    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
     "Spring2024/German/Week 14.md",
-    "Spring2024/German/Week_13.md",
     "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
     "Spring2024/German/Capital_4_Notes.md",
     "Study_Notes_2024/Leetcode/Leetcode_75.md",

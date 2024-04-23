@@ -14,6 +14,7 @@
 - [Self_Study_7.md](Self_Study_7.md)
 - [Week_8.md](Week_8.md)
 - [Week 9 Notes](Week_9.md)
+- [Self Study 9](Self_Study_9.md)
 - [Week 10](Week_10.md)
 - [Week 11](Week_11.md)
 - [Self Study 11](Spring2024/German/Self_Study_11.md)
