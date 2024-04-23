@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Self_Study_9.md",
+                "file": "Spring2024/DataStructures2/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Self_Study_9.md",
+                "file": "Spring2024/DataStructures2/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Self_Study_9.md",
+                "file": "Spring2024/DataStructures2/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Self_Study_9.md"
+                "file": "Spring2024/DataStructures2/Graphs.md"
               }
             }
           }
@@ -150,9 +150,11 @@
   },
   "active": "43dd95330db5eb4e",
   "lastOpenFiles": [
+    "Spring2024/DataStructures2/Index.md",
+    "Spring2024/DataStructures2/Graphs.md",
+    "Spring2024/German/Self_Study_9.md",
     "Spring2024/German/Index.md",
     "Spring2024/German/Self_Study_10.md",
-    "Spring2024/German/Self_Study_9.md",
     "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
     "Spring2024/German/Week_13.md",
     "Spring2024/German/Self_Study_11.md",
@@ -176,8 +178,6 @@
     "Study_Notes_2024/Leetcode/Easy/Reverse_Vowel.md",
     "Assets/root.png",
     "Assets/parent.png",
-    "Study_Notes_2024/Leetcode/Medium/Index.md",
-    "Study_Notes_2024/Leetcode/Hard/Index.md",
     "Easy",
     "Study_Notes_2024/Leetcode/Hard",
     "Study_Notes_2024/Leetcode/Medium",
