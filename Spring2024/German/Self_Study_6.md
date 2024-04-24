@@ -137,3 +137,6 @@ The dative object usually indicates the person whom or for whom something is don
 Dative verbs are verbs that require a dative object. There is no accusative object. These fall into two groups:
 1) Both the subject and the dative object are persons or other living things
 2) The subject is usually a thing, the dative object is often a person who experiences or owns the thing
+
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

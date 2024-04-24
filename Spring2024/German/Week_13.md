@@ -21,3 +21,5 @@ In den Frühlingsferien ging ich zu meiner Oma und passte auf ihre Katze auf. Wi
 ## In Class Writing 
 
 Ich koche sechs kilo chicken Huhnchen. Ich koche die chicken in die Luftfritteuse.  
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

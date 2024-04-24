@@ -43,3 +43,5 @@ Page 123 - digital page number
 10) Ich mag ein Auto, das fahren.
 
 
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

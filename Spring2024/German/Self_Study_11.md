@@ -32,3 +32,5 @@ Dieses Buch ist spannender (Komparativ) - This book is exciting
 | das Fahrrad          | the bike       |
 | das Motorrad         | the motorcycle |
 |                      |                |
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

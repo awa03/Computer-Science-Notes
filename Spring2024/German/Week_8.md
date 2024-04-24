@@ -51,3 +51,5 @@ Bei - with, at, for
 Ich wohne bei meine Eltern
 Maria arbeitet bei BMW.
 
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

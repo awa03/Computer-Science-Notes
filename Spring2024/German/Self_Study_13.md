@@ -93,4 +93,5 @@ In forming the past paticiple strong verbs add the prefix ge- and the ending -en
 
 
 
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
 

@@ -66,3 +66,4 @@ Ich werde ein Professor in informatik. Ich werde studieret informatik.
 No Notes Today... Oral Exam
 
 
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

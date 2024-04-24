@@ -255,3 +255,7 @@ At 7am we left the apartment.
 #### “Struwwelpeter,” langsam gelesen
 
 No Notes taken from this section. [Video Link](https://www.youtube.com/watch?v=GED78JPsN1c) 
+
+
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

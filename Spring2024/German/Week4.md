@@ -55,3 +55,7 @@ Indirect Object - Who something is for
 #### Post Quiz Verb
 
 Ich werde ein Softwareentwicklung. Ich werde Deutsch learnen. 
+
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+

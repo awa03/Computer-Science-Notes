@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Ordinal_Time.md",
+                "file": "Spring2024/German/Week4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Ordinal_Time.md",
+                "file": "Spring2024/German/Week4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Ordinal_Time.md",
+                "file": "Spring2024/German/Week4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Ordinal_Time.md"
+                "file": "Spring2024/German/Week4.md"
               }
             }
           },
@@ -158,36 +158,36 @@
   },
   "active": "43dd95330db5eb4e",
   "lastOpenFiles": [
-    "Spring2024/German/Index.md",
-    "Study_Notes_2024/Leetcode/Easy/Reverse_Vowel.md",
-    "Spring2024/German/Ordinal_Time.md",
-    "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
-    "Spring2024/German/Capital_4_Notes.md",
-    "Spring2024/DataStructures2/Graphs.md",
-    "Assets/GraphExample_2.drawio.png",
-    "Assets/GraphExample_2.drawio.png.crdownload",
-    "Assets/GraphExample_1.drawio.png",
-    "Assets/GraphExample_1.drawio.png.crdownload",
-    "Spring2024/German/Self_Study_14.md",
-    "Untitled.md",
-    "Spring2024/German/Self_Study_13.md",
+    "Spring2024/German/Week3.md",
     "Spring2024/German/Week_15.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
+    "Spring2024/German/Week_13.md",
+    "Spring2024/German/Week_12.md",
+    "Spring2024/German/Week_11.md",
+    "Spring2024/German/Week_10.md",
+    "Spring2024/German/Week_9.md",
+    "Spring2024/German/Week_8.md",
+    "Spring2024/German/Week_7.md",
+    "Spring2024/German/Week_6.md",
+    "Spring2024/German/Week_5.md",
+    "Spring2024/German/Week_1.md",
+    "Spring2024/German/Week 14.md",
+    "Spring2024/German/Self_Study_14.md",
+    "Spring2024/German/Self_Study_13.md",
     "Spring2024/German/Self_Study_12.md",
     "Spring2024/German/Self_Study_11.md",
     "Spring2024/German/Self_Study_10.md",
     "Spring2024/German/Self_Study_9.md",
-    "Spring2024/German/Week 14.md",
-    "Spring2024/DataStructures2/Index.md",
-    "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
-    "Spring2024/German/Week_13.md",
     "Spring2024/German/Self_Study_8.md",
-    "Study_Notes_2024/Leetcode/Easy/Index.md",
-    "Study_Notes_2024/Leetcode/Easy/Number_Of_Occurences.md",
-    "Study_Notes_2024/Leetcode/Easy/Merge_Str_Alternative.md",
+    "Spring2024/German/Self_Study_7.md",
+    "Spring2024/German/Self_Study_6.md",
+    "Spring2024/German/Self_Study_4.md",
+    "Spring2024/German/Self_Study_3.md",
+    "Spring2024/German/Self_Study_2.md",
+    "Spring2024/German/Ordinal_Time.md",
+    "Assets/GraphExample_2.drawio.png",
+    "Assets/GraphExample_2.drawio.png.crdownload",
+    "Assets/GraphExample_1.drawio.png",
+    "Assets/GraphExample_1.drawio.png.crdownload",
     "Assets/root.png",
     "Assets/parent.png",
     "Easy",

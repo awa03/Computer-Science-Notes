@@ -196,3 +196,5 @@ We make this plural by adding a _"-en"_. However if there is a _"-eln"_ ending w
 | sozial | socially |
 | deschalb | therefore, thats why |
 | sich | oneself / himself / herself |
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

@@ -19,4 +19,6 @@ vielleicht - maybe
 | In welchem Beruf muss man gut in Sprachen sein? | Informatik |
 | In welchem Beruf muss man viel reisen? | Schauspieler |
 | In welchem Beruf muss mann viel Kraft haben? | Footballspieler |
-		
+
+
+- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
