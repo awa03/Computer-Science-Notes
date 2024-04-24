@@ -3,5 +3,6 @@
   "markdown-blogger",
   "highlightr-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "obsidian-relative-line-numbers"
 ]

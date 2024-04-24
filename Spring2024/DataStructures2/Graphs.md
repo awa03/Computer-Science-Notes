@@ -94,6 +94,15 @@ A **graph** is defined as G = (v, e), where v is a set of vertices and e is a se
 
 The number of edges connecting upon a vertex: coming in - **indegree**, coming out - **outdegree**. If there are two vertices connected by an edge these are known as adjacent vertices. 
 
+If a graph contains more than one component than it is said to be **non connected**. If we were to connect these components then it would become a **connected** graph. If a part of the graph will not become a separate component when an edge is removed than it is a **bi-connected components**.
+
+If there is a path that returns to the original node than this is known as a **cycle**, starts at one vertex ends at the same vertex. 
+
+If graph traversal only moves in the forward direction, this is known as **topological ordering**.   
+
+![Graph Image](Assets/GraphExample_2.drawio.png)
+
+If from every vertex their is a path than it is known as **strongly connected**. 
 
 ### DFS & BFS
 
