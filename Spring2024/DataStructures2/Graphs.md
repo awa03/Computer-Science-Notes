@@ -77,11 +77,71 @@ Undirected graphs consist of edges that contain two elements, each edge {u, v} i
 	- assign it a rank, 
 	- reduce the indegrees of the vertices in its adjacency list
 
+```cpp
+void topsort(){
+	for( int counter = 0; counter < NUM_VERTICES; counter++){
+		Vertex v = findNewVertexOfIndegreeZero();	
+		if( v == NOT_A_VERTEX ){
+			throw CycleFoundException();	
+		}
+		v.topNum = counter;
+		for each Vertex w adjacent to v
+			w.indegree--;    // O(|V|^2)
+	}
+}
+```
+
+A better Algorithm separating nodes with indegree 0 would be. This algorithm uses a queue to maintain nodes. O(|E| + |V|) time complexity. 
+
+```cpp
+void topsort(){
+	Queue<Vertex> q;
+	int counter = 0;
+	q.makeEmpty();
+	for each Vertex v
+		if(v.indegree == 0)
+			q.enqueue( v );
+	while(!q.empty()){
+		Vertex v = q.dequeue();
+		v.topNum = ++counter;  // Assign next number	
+
+		for each Vertex w adjacent to v
+			if( --w.indegree == 0)
+				q.enqueue( w );
+	}
+	if( counter != NUM_VERTICES) 
+		throw CycleFoundException();
+}
+```
+
 ****
 
 ## Single Source Shortest Path
 
+Given a graph (g), and a distinguished vertex (s), find the shortest path from s to every other vertex in G. For **Unweighted** shortest path we use BFS, for weighted shortest paths we use Dijkstra's algorithm (Assuming no negative edges in the graph). 
 
+```cpp
+// dist - distance
+void UnweightedShortestPath(Vertex s){
+	for each Vertex v{
+		v.dist = INFINITY;	
+		v.known = false;
+	}
+	s.dist = 0;
+	for( int currDist = 0; currDist < NUM_VERTICES; currDist++){
+		for each Vertex v {
+			if( !v.known && v.dis == currDist){
+				v.known = true;	
+				for each Vertex w adjacent to v
+					if(w.dist == INFINITY){
+						w.dist = currDist + 1;	
+						w.path = v;
+					}
+			}	
+		}	
+	}
+}
+```
 
 ****
 
@@ -118,5 +178,6 @@ If applying this to a tree, a breadth first search may be represented as a level
 For BFS we will utilize a queue data structure. We can select any vertex to begin. Once we have completely explored the neighboring vertexes we can say that it has been completely explored. We will then continue this pattern, ensuring that the each node has not already been explored in order to avoid cycling. We will accomplish this by removing elements from the queue and checking them against our visited nodes. This will convert our graph into a **BFS spanning tree**. 
 
 For a DFS we will use the stack data structure. We will visit one of the first nodes neighbors (it doesn't matter the order of implementation the result will be the same). Then when their are no other vertex's to move to we pop the stack (effectively going to the previous element), and visit its neighbors. If we have a visited node present within the stack it will be skipped. This will also reorder the graph into a "tree like structure". We will draw dotted lines to signify these cycles (**Back edges**). 
+
 
 
