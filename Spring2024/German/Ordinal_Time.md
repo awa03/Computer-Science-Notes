@@ -5,7 +5,7 @@ Am Abend, Am Mittag
 
 sufffix: _"-te"_
 
-- [Parent Dir](Index.md) <img src="../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Parent Dir](Index.md) <img src="Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
 
 
 
