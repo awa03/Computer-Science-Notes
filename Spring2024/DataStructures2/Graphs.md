@@ -82,3 +82,32 @@ Undirected graphs consist of edges that contain two elements, each edge {u, v} i
 ## Single Source Shortest Path
 
 
+
+****
+
+# Non Course Notes 
+
+From Abdul Bari youtube channel. 
+
+### Terminology Use In Graphs
+A **graph** is defined as G = (v, e), where v is a set of vertices and e is a set of edges. If an edge loops onto itself then it is known as a **self loop**. If two edges are repeated across vertices (a points to b, b points to a), this is known as a **Parallel Edge**.
+
+The number of edges connecting upon a vertex: coming in - **indegree**, coming out - **outdegree**. If there are two vertices connected by an edge these are known as adjacent vertices. 
+
+
+### DFS & BFS
+
+For BFS we visit every adjacent vertex then repeat this cycle. So we could say the only order that is important in storing them is the vertex's should come before their adjacent vertices.  The Traversal of the below graph would then be: A, B, C, F, D, E
+
+For DFS we explore the vertex's neighbors individually. This means that if we have the following graph, that the traversal would be as follows:  A, C, F, D, E, B
+
+![Graph Image](Assets/GraphExample_1.drawio.png)
+
+
+If applying this to a tree, a breadth first search may be represented as a level order traversal. Similarly, a depth first search may be represented as a preorder traversal. 
+
+For BFS we will utilize a queue data structure. We can select any vertex to begin. Once we have completely explored the neighboring vertexes we can say that it has been completely explored. We will then continue this pattern, ensuring that the each node has not already been explored in order to avoid cycling. We will accomplish this by removing elements from the queue and checking them against our visited nodes. This will convert our graph into a **BFS spanning tree**. 
+
+For a DFS we will use the stack data structure. We will visit one of the first nodes neighbors (it doesn't matter the order of implementation the result will be the same). Then when their are no other vertex's to move to we pop the stack (effectively going to the previous element), and visit its neighbors. If we have a visited node present within the stack it will be skipped. This will also reorder the graph into a "tree like structure". We will draw dotted lines to signify these cycles (**Back edges**). 
+
+

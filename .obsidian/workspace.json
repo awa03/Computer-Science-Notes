@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2024/German/Index.md",
+                "file": "Spring2024/DataStructures2/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring2024/German/Index.md",
+                "file": "Spring2024/DataStructures2/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring2024/German/Index.md",
+                "file": "Spring2024/DataStructures2/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring2024/German/Index.md"
+                "file": "Spring2024/DataStructures2/Graphs.md"
               }
             }
           },
@@ -158,6 +159,9 @@
   },
   "active": "43dd95330db5eb4e",
   "lastOpenFiles": [
+    "Assets/GraphExample_1.drawio.png",
+    "Assets/GraphExample_1.drawio.png.crdownload",
+    "Spring2024/German/Index.md",
     "Spring2024/German/Self_Study_14.md",
     "Untitled.md",
     "Spring2024/German/Self_Study_13.md",
@@ -173,7 +177,6 @@
     "Spring2024/German/Week 14.md",
     "Spring2024/DataStructures2/Graphs.md",
     "Spring2024/DataStructures2/Index.md",
-    "Spring2024/German/Index.md",
     "Study_Notes_2024/Leetcode/Easy/MoveZeros.md",
     "Spring2024/German/Week_13.md",
     "Spring2024/German/Self_Study_8.md",
@@ -183,7 +186,6 @@
     "Study_Notes_2024/Leetcode/Easy/Two_Sum.md",
     "Spring2024/German/Capital_4_Notes.md",
     "Study_Notes_2024/Leetcode/Leetcode_75.md",
-    "Study_Notes_2024/Leetcode/Easy/Find_Highest_Alt.md",
     "Assets/root.png",
     "Assets/parent.png",
     "Easy",
@@ -198,7 +200,6 @@
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Ch2",
     "Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png",
-    "Study_Notes_2024/OpenCV_With_Python",
-    "Study_Notes_2024/OpenCV_"
+    "Study_Notes_2024/OpenCV_With_Python"
   ]
 }
