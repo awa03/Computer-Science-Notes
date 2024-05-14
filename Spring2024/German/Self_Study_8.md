@@ -87,4 +87,4 @@ The preposition "bei" is always used with the dative case. Here are some more ex
 | wohnen - to live       | etwas bewohnen - to inhabit something   |
 
 
-- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Parent Dir](Spring2024/German/Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

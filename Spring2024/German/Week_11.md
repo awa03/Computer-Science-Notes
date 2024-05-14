@@ -85,4 +85,4 @@ Are used in questions when asking about the object of the preposition ('for what
 | Ich muss heute mit meinem Vater sprechen       | Mit wem muss ich heute sprechen?    |
 | Maria achtet nie auf ihre Eltern               | Auf wen achtet Maria nie?           |
 
-- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Parent Dir](Spring2024/German/Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">

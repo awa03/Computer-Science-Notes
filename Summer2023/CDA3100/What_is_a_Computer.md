@@ -90,5 +90,5 @@ Assembler | Symbolic representation of instructions
 Linker | Combines multiple files into a single ex
 
 
-For day 2 notes check [[Performance]]
+For day 2 notes check [[Summer2023/CDA3100/Performance]]
 

@@ -16,7 +16,7 @@
 - [MIPS_Assembly File.md](MIPS_Assembly_File.md)
 - [Mips_6.md](Mips_6.md)
 - [Mips_Registers.md](Mips_Registers.md)
-- [Performance.md](Performance.md)
+- [Performance.md](Summer2023/CDA3100/Performance.md)
 - [Program_Translation.md](Program_Translation.md)
 - [Recursion.md](Recursion.md)
 - [Syllabus.md](Syllabus.md)

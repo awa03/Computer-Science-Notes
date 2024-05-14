@@ -48,4 +48,4 @@ Die katze ist unter dem Sofa. der Hund is auf dem sofa. Die lampe ist über das 
 | ---- | ---- | ---- |
 | Heuten Nachmittag | bei Freunden | Heute Nachmittag wollen wir bei Freunden sein und sagen, das es wunderbar ist. |
 
-- [Parent Dir](Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
+- [Parent Dir](Spring2024/German/Index.md) <img src="../../Assets/parent.png" alt="Root Dir Folder" style="width:20px;height:20px;">
