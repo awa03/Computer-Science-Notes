@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CDA3100/Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CDA3100/Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CDA3100/Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CDA3100/Index.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "4928255e5c73ac1f",
   "lastOpenFiles": [
-    "Summer2024/CDA3100/Binary.md",
-    "Summer2024/CDA3100/Index.md",
-    "Summer2024/CNT4603/Day1.md",
     "Summer2024/CNT4603/Index.md",
+    "README.md",
+    "Summer2024/CDA3100/Index.md",
     "Summer2024/CDA3100/Performance.md",
+    "Summer2024/CDA3100/Binary.md",
+    "Summer2024/CNT4603/Day1.md",
     "Summer2024/CDA3100/Day1.md",
     "Spring2024/German/Self_Study_14.md",
     "Untitled.md",
-    "README.md",
     "Untitled 1.md",
     "Spring2024/FullStackCSharp/Index.md",
     "Summer2024/CNT4603",
