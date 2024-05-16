@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CDA3100/Binary.md",
+                "file": "Summer2024/CDA3100/FloatingPoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CDA3100/Binary.md",
+                "file": "Summer2024/CDA3100/FloatingPoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CDA3100/Binary.md",
+                "file": "Summer2024/CDA3100/FloatingPoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CDA3100/Binary.md"
+                "file": "Summer2024/CDA3100/FloatingPoint.md"
               }
             }
           },
@@ -156,16 +157,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2377ad0be49ff6e9",
+  "active": "4928255e5c73ac1f",
   "lastOpenFiles": [
+    "Summer2024/CDA3100/Index.md",
+    "Summer2024/CDA3100/FloatingPoint.md",
+    "Summer2024/CDA3100/Translations.md",
+    "Assets/Stack.png",
+    "Summer2024/CDA3100/C1.md",
+    "Summer2024/CDA3100/Binary.md",
     "Assets/Binary-Subtraction-Step-2.webp",
     "Assets/rules-of-binary-addition.webp",
     "Untitled.md",
-    "Summer2024/CDA3100/Binary.md",
     "Summer2024/CDA3100/Performance.md",
     "README.md",
     "Summer2024/CNT4603/Index.md",
-    "Summer2024/CDA3100/Index.md",
     "Summer2024/CNT4603/Day1.md",
     "Summer2024/CDA3100/Day1.md",
     "Spring2024/German/Self_Study_14.md",
@@ -186,8 +191,6 @@
     "Spring2024/German/Week_15.md",
     "Spring2024/German/Week 14.md",
     "Spring2024/German/Self_Study_9.md",
-    "Spring2024/German/Self_Study_8.md",
-    "Spring2024/German/Self_Study_7.md",
     "Assets/GraphExample_2.drawio.png",
     "Assets/GraphExample_2.drawio.png.crdownload",
     "Assets/GraphExample_1.drawio.png",
@@ -201,7 +204,6 @@
     "Study_Notes_2024/Leetcode",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/noun-directory-4213506.png",
-    "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
-    "Assets/Firefox_Screenshot_2024-03-22T19-51-53.025Z.png"
+    "Study_Notes_2024/OpenCV_With_Python/Assets/root.png"
   ]
 }

@@ -23,7 +23,7 @@ $$
 - Sometimes we use a hexadecimal system to make reading binary representations 'easier'. $23_{10} = 0x17(17_{16})$
 
 `cout` converts the binary storage of the number into the requested format
-The C language uses specifiers to convert within `scanf()` this can be seen in [[C for C++ Users]]
+The C language uses specifiers to convert within `scanf()` this can be seen in [[C1]]
 
 Base 10|Base 2 |Base 8|Base 16
 -|-|-|-
