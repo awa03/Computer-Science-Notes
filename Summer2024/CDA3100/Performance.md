@@ -67,3 +67,20 @@ States that the performance improvement to be gained from using some faster mode
 
 $$ImprovedTime = \frac{AffectedTime}{AmountOfImprovement} + UnaffectedTime$$
 
+Amdahl's law is more of an economic theory, you can only optimize and improve one part of a problem. Commonly this case is a central portion of your program, not 100% just some percent. 
+
+
+### Energy Efficiency Processors
+
+- Extend battery life for mobile systems
+- Reduce heat dissipation for general-purpose processors. 
+- Energy cost for computing is increasing.
+- **The power wall** refers to the issue that clock rates are not able to increase further due to temperature limitations.
+
+### Trends in Implementation Technology
+
+- Transistors count on a chip is increasing by about %40 - 55 a year or doubling every 18 to 24 months (Moore's Law)
+- DRAM capacity per chip is increasing by about 25% to 40% a year doubling every two to three years. 
+- Flash capacity per chip is increasing by about 50% to 60% a year, doubling recently about every 1.5 years. Flash memory is about 15 to 20% cheaper per byte than DRAM
+
+****
