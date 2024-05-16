@@ -33,4 +33,7 @@ Double's have double precision, floats have single precision.
 - To accommodate for negative numbers we need to move the digits
 	- Add 127 to the number
 
+### Over / Under Flow
 
+- Outside of the range: Applies to both int and float
+- The mantissa can be adjusted with the exponent for loss of precision
