@@ -1,1 +1,4 @@
-- [IpAddress](Summer2024/CDA3100/Day1.md)
+- [Ip Address](Day1.md)
+- [Microsoft Azure](Day2.md)
+
+
