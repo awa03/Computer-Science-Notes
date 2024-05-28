@@ -222,7 +222,75 @@ $$
 
 The branch target is the number of lines from the next instruction, so this can be positive or negative (given jumps).
 
-
-
 ****
+
+## Mips 6
+
+We can allocate memory starting at the stack pointer. `$sp` needs to be subtracted from since it grow's downwards. 
+
+Hence, `addi $sp, $sp, -4` will subtract from the current stack allocating the memory downwards.  
+
+
+### Recursive Functions
+
+- Recursive functions will keep calling themself until the terminating condition is met 
+- There is an implicit loop built into this structure
+
+### Floating Point 
+
+- Integers are stored as 2's complement binary numbers, floating point numbers are stored in the IEEE 754 sign-magnitude notation.
+- This means we need different hardware to do the same operations for integers and floating point numbers
+- Mips gives us **32** general purpose single precision floating point registers
+- The SAME registers can also be combined to hold 16 double precision floating point registers
+- The use of single / double precision arithmetic is chosen by the instruction suffix
+- Every floating point instruction specifies whether we are doing single precision or double precision arithmetic
+
+```asm
+# Loads the single precision float stored at that address
+L.S $f0, LABEL
+
+# Loads immediate value into a register
+LI.S $f2, 3.141592
+
+# move a value from co processor to the main processor
+MFC1 $t0, $f0 # copy
+
+# move a value from the main processor to coprocessor
+MTC1 $t0, $f0
+
+# copy values within coprocessor
+MOV.S $f2, $f8
+
+# converts from int to float
+CVT.S.W $f0, $f1
+
+# convert from float to int 
+CVT.W.S $f0, $f3
+
+# other operations
+add.s
+abs.s
+div.s
+mult.s
+
+# comparision
+c.le.s # set less than
+bc1t l1 # branch if flag set
+
+# printing
+li $v0, 2
+li.s $f10, 0.5
+syscall
+
+# read
+li $v0, 6
+syscall
+```
+
+
+
+
+
+
+
 
