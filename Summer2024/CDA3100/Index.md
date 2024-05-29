@@ -7,3 +7,4 @@
 - [Floating Point](FloatingPoint.md)
 - [Floating Point 2](FloatingPoint2.md)
 - [Mips](Mips.md)
+- [Digital Logic](DigitalLogic.md)

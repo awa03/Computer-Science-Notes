@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CDA3100/Mips.md",
+                "file": "Summer2024/CDA3100/DigitalLogic.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CDA3100/Mips.md",
+                "file": "Summer2024/CDA3100/DigitalLogic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CDA3100/Mips.md",
+                "file": "Summer2024/CDA3100/DigitalLogic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CDA3100/Mips.md"
+                "file": "Summer2024/CDA3100/DigitalLogic.md"
               }
             }
           },
@@ -159,18 +160,18 @@
   },
   "active": "5675628e65a9cbe0",
   "lastOpenFiles": [
+    "Summer2024/CDA3100/Index.md",
+    "Summer2024/CDA3100/DigitalLogic.md",
+    "Summer2024/CDA3100/Mips.md",
     "Summer2024/CNT4603/Assignment1.md",
     "ip1.png",
-    "Summer2024/CDA3100/Mips.md",
     "Untitled.md",
-    "Summer2024/CDA3100/Untitled.md",
     "ip3.png",
     "ip2.png",
     "Summer2024/CNT4603/Index.md",
     "Summer2024/CNT4603/Day2.md",
     "Summer2024/CDA3100/Performance.md",
     "Assets/Final Exam Practice.md",
-    "Summer2024/CDA3100/Index.md",
     "Summer2024/CDA3100/FloatingPoint2.md",
     "Summer2024/CNT4603/Day1.md",
     "Summer2024/CDA3100/FloatingPoint.md",
