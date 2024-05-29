@@ -16,11 +16,11 @@
 
 ### Addition in Binary
 
-![[Assets/rules-of-binary-addition.webp]]
+![](/Assets/rules-of-binary-addition.webp)
 
 ### Subtraction In Binary
 
-![[Assets/Binary-Subtraction-Step-2.webp]]
+![](/Assets/Binary-Subtraction-Step-2.webp)
 
 ****
 
