@@ -8,3 +8,4 @@
 - [Floating Point 2](FloatingPoint2.md)
 - [Mips](Mips.md)
 - [Digital Logic](DigitalLogic.md)
+- [Mid Term Study Guide](Midterm-Study-Guide.md)
