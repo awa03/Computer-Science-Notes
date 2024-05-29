@@ -16,12 +16,15 @@ Discussing performance mandates that we understand **Latency (response Time)**, 
 
 **Performance** has an inverse relationship with execution time, aka the less execution time the better the performance and vice versa. This means that we can use the following formula to determine the performance.
 
-![[equation(1).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(1).png" alt="Equation image" />
+</div>
 
 Therefore we can also use this formula to determine the difference in performance (also used to determine which is greater). This comparison can be done using the following formula. We can use this to our advantage to be able to gauge **Relative Performance**. This will allow us to declare statements such as _Program A is N times faster than Program B_. To understand this we use the following formula:
 
-
-![[equation.png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation.png" alt="Equation image" />
+</div>
 
 There are several ways in which we can measure the execution time on a machine.
 - **Elapsed Time**: Total wall clock time needed to perform a task
@@ -35,31 +38,41 @@ It may be useful to look at performance through other metrics than time, such as
 - **Clock Rate**: inverse of the clock period
 
 In order to determine the effect of a change on performance we must apply the following:
-
-![[equation(2).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(2).png" alt="Equation image" />
+</div>
 
 This can alternatively be expressed as, 
 
-![[equation(3).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(3).png" alt="Equation image" />
+</div>
 
 From this we can see that we can reduce the execution time by either reducing the number of clock cycles required or the length of each clock cycle.
 
 Another useful formula is for the CPU clock cycles. This can be calculated by finding the number of instructions for a program and multiplying it by the Average Clock Cycles per instruction. This can be seen below, as well as the formula for the **CPI**.
 
-![[equation(4).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(4).png" alt="Equation image" />
+</div>
 
-
-![[equation(5).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(5).png" alt="Equation image" />
+</div>
 
 The **CPI** is the clock cycles per instruction.
 
 Now rewriting the basic equation in terms of the instruction count, CPI, and clock cycle time we achieve.
 
-![[equation(7).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(7).png" alt="Equation image" />
+</div>
 
 Or Alternatively, 
 
-![[equation(6).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(6).png" alt="Equation image" />
+</div>
 
 #### **What is AMDAHL'S Law?**
 
@@ -69,8 +82,9 @@ This means that Amdahl's law is dependent on two factors
 - The fraction of time the enhancement can be exploited
 - The improvement gained by the enhancement while it is exploited
 
- 
-![[equation(8).png]]
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="../../equation(8).png" alt="Equation image" />
+</div>
 
 #### **Converting decimal numbers to binary**
 
@@ -106,5 +120,9 @@ This means that Amdahl's law is dependent on two factors
 
 
 #### PDF Version (If Color Issues)
-
-![[Midterm-Study-Guide.pdf]]
+<div style="background-color: white; display: inline-block; padding: 10px; border: 1px solid #ddd;">
+    <a href="../../Midterm-Study-Guide.pdf" style="text-decoration: none; color: black;">
+        <img src="pdf-icon.png" alt="PDF icon" style="vertical-align: middle;"/>
+        <span style="vertical-align: middle;">Midterm Study Guide</span>
+    </a>
+</div>
