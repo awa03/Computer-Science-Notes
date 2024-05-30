@@ -98,3 +98,16 @@ $$Carry = AB$$
 **Idempotent Laws**
 `A.A = A and A + A = A`
 
+****
+### Karnaugh Maps
+
+- Uses two rules: `A + A = A` and `AB + AB' = A`
+- Arrange rows in the truth table as square's on a K-Map, using gray-coded ordering
+- Place 1's in the squares corresponding to the True Rows.
+- Group consecutive 1's in groups of powers of 2 - 16
+- Reduce the terms by writing down the variables who's values do not change in the group
+- Cannot group 3, because groupings must be powers of 2. 
+
+
+
+
