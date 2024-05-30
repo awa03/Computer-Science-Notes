@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CDA3100/Midterm-Study-Guide.md",
+                "file": "Summer2024/CDA3100/DigitalLogic.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CDA3100/Midterm-Study-Guide.md",
+                "file": "Summer2024/CDA3100/DigitalLogic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CDA3100/Midterm-Study-Guide.md",
+                "file": "Summer2024/CDA3100/DigitalLogic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CDA3100/Midterm-Study-Guide.md"
+                "file": "Summer2024/CDA3100/DigitalLogic.md"
               }
             }
           },
@@ -160,6 +159,12 @@
   },
   "active": "5675628e65a9cbe0",
   "lastOpenFiles": [
+    "Summer2024/CDA3100/Midterm-Study-Guide.md",
+    "Summer2024/CDA3100/Index.md",
+    "Summer2024/CDA3100/DigitalLogic.md",
+    "Summer2024/CDA3100/Day1.md",
+    "Summer2024/CDA3100/C1.md",
+    "Summer2024/CDA3100/Performance.md",
     "Midterm-Study-Guide.pdf",
     "equation(8).png",
     "equation(7).png",
@@ -170,25 +175,19 @@
     "equation(2).png",
     "equation(1).png",
     "equation.png",
-    "Summer2024/CDA3100/Index.md",
-    "Summer2024/CDA3100/Midterm-Study-Guide.md",
-    "Summer2024/CDA3100/DigitalLogic.md",
     "Summer2024/CDA3100/Mips.md",
     "Summer2024/CNT4603/Assignment1.md",
     "ip1.png",
     "Untitled.md",
     "Summer2024/CNT4603/Index.md",
     "Summer2024/CNT4603/Day2.md",
-    "Summer2024/CDA3100/Performance.md",
     "Assets/Final Exam Practice.md",
     "Summer2024/CDA3100/FloatingPoint2.md",
     "Summer2024/CNT4603/Day1.md",
     "Summer2024/CDA3100/FloatingPoint.md",
     "Summer2024/CDA3100/Translations.md",
-    "Summer2024/CDA3100/C1.md",
     "Summer2024/CDA3100/Binary.md",
     "README.md",
-    "Summer2024/CDA3100/Day1.md",
     "Spring2024/German/Self_Study_14.md",
     "Untitled 1.md",
     "Spring2024/FullStackCSharp/Index.md",
@@ -204,7 +203,6 @@
     "Easy",
     "Study_Notes_2024/Leetcode/Hard",
     "Study_Notes_2024/Leetcode/Medium",
-    "Study_Notes_2024/Leetcode/Easy",
-    "Study_Notes_2024/Leetcode"
+    "Study_Notes_2024/Leetcode/Easy"
   ]
 }

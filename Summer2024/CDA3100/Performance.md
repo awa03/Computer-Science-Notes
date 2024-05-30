@@ -84,3 +84,4 @@ Amdahl's law is more of an economic theory, you can only optimize and improve on
 - Flash capacity per chip is increasing by about 50% to 60% a year, doubling recently about every 1.5 years. Flash memory is about 15 to 20% cheaper per byte than DRAM
 
 ****
+
