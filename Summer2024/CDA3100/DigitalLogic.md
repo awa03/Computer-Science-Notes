@@ -108,6 +108,20 @@ $$Carry = AB$$
 - Reduce the terms by writing down the variables who's values do not change in the group
 - Cannot group 3, because groupings must be powers of 2. 
 
+****
+
+### ALU With Subtraction
+If subtraction we need to
+- Invert the second operand
+- Set the Carry in of the last bit of the full adder to be 1
+- Select the adder output
+
+Every time we want the ALU to subtract, we set both the carry in and binvert to one. For add or logic operations we want these lines to be 0.
+
+We can therefore simply control of the ALU by combining the Carry In and Binvert to a single control line called BNE gate.
+
+
+
 
 
 
