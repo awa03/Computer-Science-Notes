@@ -120,8 +120,66 @@ Every time we want the ALU to subtract, we set both the carry in and binvert to 
 
 We can therefore simply control of the ALU by combining the Carry In and Binvert to a single control line called BNE gate.
 
+For the **SLT** (Set Less Than), operation we simply need to subtract the source from the destination and see if the value is less than 0. To do this we only need to check the sign bit (31). However this arises the problem of overflow. We can identify this by checking if the carryIn and carryOut of the most significant are different.
+
+### Less Than Line
+- The less than line used the sign bit of the result
+- The sign bit is correct when there is no overflow
+
+### Sequential Logic 
+- Uses the concept of an internal state which reflects a current snapshot of the circuit. This state may change over time
+
+#### Clocks
+- n sequential logic, there is also the notion of a clock, which is used to decide when an element that contains a state should be updated
+- Clocks are simply a free-running signal with a fixed cycle time (clock period). The clock period is divided into two portions: high and low voltage.
+- Rising edge
+- Falling Edge
+- **Edge Triggered clocking** refers to the scheme in which all state changes occur on some particular 
+
+****
+
+### Finite State Machines
+- The counter will have a load input and an "L" input. When load is 1, Q = L at the next clock cycle. Otherwise Q = D at the next clock cycle
+- How do we make this happen
+- Use a 2-1 selector in front of each D input. Use load as the select signal. One of the input is the D feedback signal from the counter, the other is L. 
+
+#### States
+- The set of states correspond to all the possible combinations of the internal storage
+
+> [!IMPORTANT]
+> Regular Expressions lack context
+
+### The Program Counter
+- We have seen the PC in passing before. It is the special register that contains the address of the instruction being executed right now.
+- The PC is implemented as a counter with a second load input
+- The PC will
+	- Increment by 4 if there no jump or branches
+	- Be loaded with the address of the instruction to be jumped if there is a jump or a branch
+
+### Combinational and Sequential Circuits
 
 
+### Parody Checker
+- Checks the number of odd bits, output based on this
+- X many change evert clock cycle.
+- The circuit samples the input at every rising edge of the clock. If the input is 1 consider it as read a 1, else read a 0.
+- When we design states:
+	- The value of the output can be uniquely determined just by knowing the current state
+	- The future state transitions depend only on the current state and the input, not on the past inputs
 
+### Four Steps To Build an FSM
+- State Diagram and State Table
+- State assignment
+- Combinational logic
+- Implementation
 
+### Sequence Detector
+- One input X, one output O
+- X may change every clock cycle,. The change happens at the falling edge
+- The circuit samples the input at every rising edge of the clock. If the input is 1, consider as read a 1, else read a0.
+- 0 is 1 (for one clock cycle, from positive edge to positive edge) if the last three bits are 101
 
+> [!NOTE]
+> Information Needed for Assignment 4 stop
+
+**** 

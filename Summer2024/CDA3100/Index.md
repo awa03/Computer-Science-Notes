@@ -9,3 +9,4 @@
 - [Mips](Mips.md)
 - [Digital Logic](DigitalLogic.md)
 - [Mid Term Study Guide](Midterm-Study-Guide.md)
+- [Mips Data Path](DataPath.md)
