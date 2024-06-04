@@ -16,3 +16,9 @@
 - The pointers are turned into memory references - names of the variables are replaced by their addresses - just like labels in the text segment
 - Just before a program is run, it is "loaded" by the Operating system, onto ram.
 - Therefore to run a MIPS program, each instruction has to be brought from RAM into the processor before it is executed
+
+### The Register File
+- Organized as a bank of D flip flops
+- Since there are 32 registers, "choosing" a register is a 32 - 1 selector, and the 5 bit representing the register in the encoding are used as the select bits.
+- We need to choose 3 registers, 2 sources and 1 target. We also need to write the result to the target so we have 4 inputs
+- We also have 2 outputs. The contents of the source registers
