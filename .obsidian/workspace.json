@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CDA3100/DigitalLogic.md",
+                "file": "Summer2024/CDA3100/DataPath.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CDA3100/DigitalLogic.md",
+                "file": "Summer2024/CDA3100/DataPath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CDA3100/DigitalLogic.md",
+                "file": "Summer2024/CDA3100/DataPath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CDA3100/DigitalLogic.md"
+                "file": "Summer2024/CDA3100/DataPath.md"
               }
             }
           },
@@ -159,10 +160,13 @@
   },
   "active": "5675628e65a9cbe0",
   "lastOpenFiles": [
+    "Summer2024/CDA3100/C1.md",
+    "Summer2024/CDA3100/Index.md",
+    "Summer2024/CDA3100/DataPath.md",
+    "Summer2024/CDA3100/DigitalLogic.md",
     "Untitled.md",
     "Assets/S1-CLOUD.png",
     "Assets/S7-CLOUD.png",
-    "Summer2024/CDA3100/DigitalLogic.md",
     "Summer2024/CNT4603/Assignment2.md",
     "Assets/S6-CLOUD.png",
     "Assets/S5-CLOUD.png",
@@ -172,9 +176,7 @@
     "Summer2024/CDA3100/Midterm-Study-Guide.md",
     "Summer2024/CDA3100/Mips.md",
     "Assets/equation.png",
-    "Summer2024/CDA3100/Index.md",
     "Summer2024/CDA3100/Day1.md",
-    "Summer2024/CDA3100/C1.md",
     "Summer2024/CDA3100/Performance.md",
     "Assets/Midterm-Study-Guide.pdf",
     "Assets/equation(8).png",
