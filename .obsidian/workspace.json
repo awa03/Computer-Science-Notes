@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e991c7062a8761",
+        "id": "7de06f650f23908c",
         "type": "tabs",
         "children": [
           {
-            "id": "5675628e65a9cbe0",
+            "id": "e7842b7a705c49ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CDA3100/DataPath.md",
+                "file": "Summer2024/CNT4603/Assignment6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fbe31d07ae9d7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summer2024/CNT4603/Assignment7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97d267cd9057aba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "295e04bd75d0ead1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fall2024/German3/Index.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CDA3100/DataPath.md",
+                "file": "Fall2024/German3/Index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CDA3100/DataPath.md",
+                "file": "Fall2024/German3/Index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CDA3100/DataPath.md"
+                "file": "Fall2024/German3/Index.md.md"
               }
             }
           },
@@ -158,29 +192,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5675628e65a9cbe0",
+  "active": "295e04bd75d0ead1",
   "lastOpenFiles": [
-    "Summer2024/CDA3100/C1.md",
+    "README.md",
+    "Fall2024/German3/Index.md.md",
+    "Fall2024/DistributedApplications",
+    "Fall2024/CyberCrime",
+    "Fall2024/DataScience",
+    "Fall2024/German3",
+    "Fall2024",
+    "Work-Information.png",
+    "Active_Domain.png",
+    "pic21.png",
+    "pic13 3.png",
+    "pic12 3.png",
+    "pic11 2.png",
+    "pic10 2.png",
+    "pic9 3.png",
+    "pic8 3.png",
+    "pic7 3.png",
+    "Summer2024/CNT4603/Assignment6.md",
+    "Summer2024/CNT4603/Assignment7.md",
+    "Summer2024/CNT4603/Assignment5.md",
+    "Summer2024/CNT4603/Assignment4.md",
+    "Summer2024/Young-Engineers/Computer Literacy.md",
+    "Summer2024/Young-Engineers",
     "Summer2024/CDA3100/Index.md",
     "Summer2024/CDA3100/DataPath.md",
     "Summer2024/CDA3100/DigitalLogic.md",
-    "Untitled.md",
-    "Assets/S1-CLOUD.png",
-    "Assets/S7-CLOUD.png",
+    "Summer2024/CDA3100/C1.md",
     "Summer2024/CNT4603/Assignment2.md",
-    "Assets/S6-CLOUD.png",
-    "Assets/S5-CLOUD.png",
-    "Assets/S4-CLOUD.png",
-    "Assets/S3-CLOUD.png",
-    "Assets/S2-CLOUD.png",
     "Summer2024/CDA3100/Midterm-Study-Guide.md",
     "Summer2024/CDA3100/Mips.md",
-    "Assets/equation.png",
     "Summer2024/CDA3100/Day1.md",
     "Summer2024/CDA3100/Performance.md",
     "Assets/Midterm-Study-Guide.pdf",
-    "Assets/equation(8).png",
-    "Assets/equation(7).png",
     "Summer2024/CNT4603/Assignment1.md",
     "Summer2024/CNT4603/Index.md",
     "Summer2024/CNT4603/Day2.md",
@@ -190,21 +236,9 @@
     "Summer2024/CDA3100/FloatingPoint.md",
     "Summer2024/CDA3100/Translations.md",
     "Summer2024/CDA3100/Binary.md",
-    "README.md",
     "Spring2024/German/Self_Study_14.md",
-    "Untitled 1.md",
-    "Spring2024/FullStackCSharp/Index.md",
     "Summer2024/CNT4603",
     "Summer2024/CDA3100",
-    "Summer2024",
-    "Spring2024/German/Self_Study_13.md",
-    "Spring2024/German/Self_Study_12.md",
-    "Spring2024/German/Self_Study_11.md",
-    "Assets/GraphExample_2.drawio.png.crdownload",
-    "Assets/GraphExample_1.drawio.png.crdownload",
-    "Easy",
-    "Study_Notes_2024/Leetcode/Hard",
-    "Study_Notes_2024/Leetcode/Medium",
-    "Study_Notes_2024/Leetcode/Easy"
+    "Summer2024"
   ]
 }
