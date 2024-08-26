@@ -4,9 +4,10 @@
   "showLineNumber": true,
   "promptDelete": false,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 99
+    "downscalePercent": 81
   }
 }

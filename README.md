@@ -20,23 +20,23 @@ This repository is a compilation of my notes from Florida State University. With
 
 # Glossary
 
-| Class                                     | Course Code                                                         |
-| ----------------------------------------- | ------------------------------------------------------------------- |
-| Web Design                                | [CGS2821](Summer2023/CGS2821/Index.md)                              |
-| Object Oriented Programming               | [COP3330](Summer2023/COP3330/Index.md)                              |
-| Intro To Unix                             | [COP3353](Summer2023/COP3353/Index.md)                              |
-| Screening Science                         | [HPS3320](Summer2023/HPS3320/Index.md)                              |
-| Software Engineering                      | [CEN4020](Fall2023/CEN4020/Index.md)                                |
-| Capstone                                  | [CEN4090L](Fall2023/CEN4090L/Index.md)                              |
-| Data Structures                           | [COP4530](Fall2023/COP4530/Index.md)                                |
-| Discrete Math                             | [MAD2104](Fall2023/MAD2104/Index.md)                                |
-| Reasoning and Critical Thinking           | [PHI2100](Fall2023/PHI2100/Index.md)                                |
-| Other C# Stuff                            | [C# Stuff/ConsoleApp1](Spring2024/CSharpStuff/ConsoleApp1/Index.md) |
-| Data Structures 2                         | [DataStructures2](Spring2024/DataStructures2/Index.md)              |
-| Fullstack Dev                             | [FullStackCSharp](Spring2024/FullStackCSharp/Index.md)              |
-| German 2                                  | [German](Spring2024/German/Index.md)                                |
-| Computer Organization                     | [CDA3100](Summer2024/CDA3100/Index.md)                              |
-| Computer Networks & System Administration | [CNT4603](Summer2024/CNT4603/Index.md)                              |
+| Class                           | Course Code                                                         |
+| ------------------------------- | ------------------------------------------------------------------- |
+| Web Design                      | [CGS2821](Summer2023/CGS2821/Index.md)                              |
+| Object Oriented Programming     | [COP3330](Summer2023/COP3330/Index.md)                              |
+| Intro To Unix                   | [COP3353](Summer2023/COP3353/Index.md)                              |
+| Screening Science               | [HPS3320](Summer2023/HPS3320/Index.md)                              |
+| Software Engineering            | [CEN4020](Fall2023/CEN4020/Index.md)                                |
+| Capstone                        | [CEN4090L](Fall2023/CEN4090L/Index.md)                              |
+| Data Structures                 | [COP4530](Fall2023/COP4530/Index.md)                                |
+| Discrete Math                   | [MAD2104](Fall2023/MAD2104/Index.md)                                |
+| Reasoning and Critical Thinking | [PHI2100](Fall2023/PHI2100/Index.md)                                |
+| Other C# Stuff                  | [C# Stuff/ConsoleApp1](Spring2024/CSharpStuff/ConsoleApp1/Index.md) |
+| Data Structures 2               | [DataStructures2](Spring2024/DataStructures2/Index.md)              |
+| Fullstack Dev                   | [FullStackCSharp](Spring2024/FullStackCSharp/Index.md)              |
+| German 2                        | [German](Spring2024/German/Index.md)                                |
+| Computer Organization           | [CDA3100](Summer2024/CDA3100/Index.md)                              |
+| German 3                        | [German](Fall2024/German3/Index.md)                                 |
 #### Studying for Fun
 
 I would like to diversify my note set so I will also be adding sections for independent study notes. I will be covering multiple books and placing my notes in this section from now on. I hope that this section serves to build upon many of the notes taken in my undergraduate study areas, and can help others. All books used will be cited below, and all of these books can be found for free online. 
