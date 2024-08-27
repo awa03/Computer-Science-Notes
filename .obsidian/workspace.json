@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e991c7062a8761",
+        "id": "9dd175c097f4b4a9",
         "type": "tabs",
         "children": [
           {
-            "id": "5675628e65a9cbe0",
+            "id": "58ec6efa0f40ff48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer2024/CNT4603/Assignment3.md",
+                "file": "Fall2024/Data_Science/Book/CH1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80bcb1b48be097b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fall2024/Data_Science/Index.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer2024/CNT4603/Assignment3.md",
+                "file": "Fall2024/Data_Science/Index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer2024/CNT4603/Assignment3.md",
+                "file": "Fall2024/Data_Science/Index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer2024/CNT4603/Assignment3.md"
+                "file": "Fall2024/Data_Science/Index.md.md"
               }
             }
           },
@@ -157,53 +170,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5675628e65a9cbe0",
+  "active": "80bcb1b48be097b7",
   "lastOpenFiles": [
-    "Screenshot from 2024-06-10 21-02-38.png",
-    "Screenshot from 2024-06-10 21-02-17.png",
-    "Screenshot from 2024-06-10 20-54-18.png",
-    "Screenshot from 2024-06-10 20-48-31.png",
-    "Screenshot from 2024-06-10 20-46-59.png",
-    "Screenshot from 2024-06-10 20-45-18.png",
-    "Screenshot from 2024-06-10 20-42-21.png",
+    "Fall2024/Data_Science/Book/CH2.md",
+    "Fall2024/Data_Science/Book/CH1.md",
+    "Fall2024/Data_Science/Index.md.md",
+    "Fall2024/Data_Science/Class",
+    "Fall2024/Data_Science/Untitled.md",
+    "Fall2024/Data_Science/Book",
+    "README.md",
+    "Fall2024/Data_Science/Data_Science.md",
+    "Untitled.md",
     "Screenshot from 2024-06-10 20-19-03.png",
-    "Summer2024/CDA3100/DataPath.md",
+    "Fall2024/Data_Science",
+    "Summer2024/CNT4603/Assignment7.md",
+    "Summer2024/CNT4603/Assignment6.md",
+    "Summer2024/CNT4603/Assignment5.md",
+    "Summer2024/CNT4603/Assignment4.md",
+    "Fall2024/German3/Index.md.md",
+    "Fall2024/German3",
+    "Fall2024",
+    "Spring2024/German/Week_1.md",
+    "Spring2024/German/Index.md",
+    "Assignment8.md",
+    "Screenshot from 2024-07-28 14-16-44.png",
+    "Screenshot from 2024-07-28 14-12-37.png",
+    "Screenshot from 2024-07-28 13-57-59.png",
+    "Screenshot from 2024-07-28 13-56-03.png",
+    "Screenshot from 2024-07-28 13-44-50.png",
+    "Screenshot from 2024-07-28 13-39-15 1.png",
+    "Screenshot from 2024-07-28 13-43-17.png",
+    "Screenshot from 2024-07-28 13-39-15.png",
+    "Screenshot from 2024-07-28 13-31-25.png",
+    "Florida CS Policy Review.md",
     "Summer2024/CNT4603/Assignment3.md",
+    "Summer2024/CDA3100/DataPath.md",
     "Summer2024/CDA3100/C1.md",
     "Summer2024/CDA3100/Index.md",
     "Summer2024/CDA3100/DigitalLogic.md",
-    "Untitled.md",
-    "Assets/S1-CLOUD.png",
-    "Assets/S7-CLOUD.png",
     "Summer2024/CNT4603/Assignment2.md",
-    "Assets/S6-CLOUD.png",
     "Summer2024/CDA3100/Midterm-Study-Guide.md",
     "Summer2024/CDA3100/Mips.md",
     "Summer2024/CDA3100/Day1.md",
     "Summer2024/CDA3100/Performance.md",
     "Assets/Midterm-Study-Guide.pdf",
-    "Summer2024/CNT4603/Assignment1.md",
-    "Summer2024/CNT4603/Index.md",
-    "Summer2024/CNT4603/Day2.md",
-    "Assets/Final Exam Practice.md",
-    "Summer2024/CDA3100/FloatingPoint2.md",
-    "Summer2024/CNT4603/Day1.md",
-    "Summer2024/CDA3100/FloatingPoint.md",
-    "Summer2024/CDA3100/Translations.md",
-    "Summer2024/CDA3100/Binary.md",
-    "README.md",
-    "Spring2024/German/Self_Study_14.md",
-    "Untitled 1.md",
-    "Spring2024/FullStackCSharp/Index.md",
     "Summer2024/CNT4603",
     "Summer2024/CDA3100",
     "Summer2024",
-    "Spring2024/German/Self_Study_13.md",
-    "Assets/GraphExample_2.drawio.png.crdownload",
-    "Assets/GraphExample_1.drawio.png.crdownload",
-    "Easy",
-    "Study_Notes_2024/Leetcode/Hard",
-    "Study_Notes_2024/Leetcode/Medium",
-    "Study_Notes_2024/Leetcode/Easy"
+    "Assets/GraphExample_2.drawio.png.crdownload"
   ]
 }
