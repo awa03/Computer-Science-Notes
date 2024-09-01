@@ -1,2 +1,2 @@
 ### Book Notes
-- [Chapter 1](Book/CH1.md)
+- [Chapter 1](Book/Ch1.md)
