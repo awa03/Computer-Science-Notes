@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Data_Science/Book/CH2.md",
+                "file": "Fall2024/AI/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/Data_Science/Book/CH2.md",
+                "file": "Fall2024/AI/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/Data_Science/Book/CH2.md",
+                "file": "Fall2024/AI/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/Data_Science/Book/CH2.md"
+                "file": "Fall2024/AI/Index.md"
               }
             }
           },
@@ -180,14 +180,15 @@
   },
   "active": "9e200a527e279656",
   "lastOpenFiles": [
-    "Fall2024/Data_Science/Book/CH1.md",
-    "Fall2024/Data_Science/Class/lecture1.md",
-    "Fall2024/Data_Science/Index.md",
     "Fall2024/German3/Index.md",
+    "Fall2024/Data_Science/Index.md",
+    "Fall2024/Data_Science/Class/lecture1.md",
+    "Fall2024/Data_Science/Book/CH1.md",
+    "Fall2024/AI/Index.md",
+    "Fall2024/Data_Science/Book/CH2.md",
     "Fall2024/German3/wk1.md",
     "Fall2024/Forensic/day1.md",
     "Fall2024/AI/Book/Ch1.md",
-    "Fall2024/AI/Index.md",
     "Fall2024/AI/Class/CH1.md.md",
     "README.md",
     "Fall2024/AI/Class",
@@ -196,7 +197,6 @@
     "Fall2024/German3/wk1_self_study.md.md",
     "Fall2024/Forensic",
     "Fall2024/AI",
-    "Fall2024/Data_Science/Book/CH2.md",
     "Fall2024/Data_Science/Class",
     "Fall2024/Data_Science/Untitled.md",
     "Fall2024/Data_Science/Book",
