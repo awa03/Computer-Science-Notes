@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9e200a527e279656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fall2024/AI/Book/Ch1.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80bcb1b48be097b7",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,12 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58ec6efa0f40ff48",
+  "active": "2377ad0be49ff6e9",
   "lastOpenFiles": [
+    "Fall2024/AI/Index.md.md",
+    "Fall2024/AI/Book/Ch1.md.md",
+    "Fall2024/AI/Class/CH1.md.md",
+    "README.md",
     "Fall2024/Forensic/day1.md.md",
     "Fall2024/Data_Science/Class/lecture1.md",
-    "Fall2024/AI/Class/CH1.md",
-    "Fall2024/AI/Book/Ch1.md.md",
     "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/German3/wk1.md.md",
     "Fall2024/AI/Class",
@@ -180,14 +195,12 @@
     "Fall2024/German3/Index.md.md",
     "Fall2024/German3/wk1_self_study.md.md",
     "Fall2024/Forensic",
-    "Fall2024/AI/Index.md.md",
     "Fall2024/AI",
     "Fall2024/Data_Science/Index.md.md",
     "Fall2024/Data_Science/Book/CH2.md",
     "Fall2024/Data_Science/Class",
     "Fall2024/Data_Science/Untitled.md",
     "Fall2024/Data_Science/Book",
-    "README.md",
     "Fall2024/Data_Science/Data_Science.md",
     "Fall2024/Forensic/Untitled 1.md",
     "Screenshot from 2024-06-10 20-19-03.png",

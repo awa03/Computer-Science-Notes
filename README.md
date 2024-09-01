@@ -38,7 +38,7 @@ This repository is a compilation of my notes from Florida State University. With
 | Computer Organization           | [CDA3100](Summer2024/CDA3100/Index.md)                              |
 | German 3                        | [German](Fall2024/German3/Index.md)                                 |
 | Intro To Data Science           | [Data Science](Fall2024/Data_Science/Index.md)                      |
-|                                 |                                                                     |
+| Intro To AI                     | [AI](Fall2024/AI/Index.md)                                          |
 #### Studying for Fun
 
 I would like to diversify my note set so I will also be adding sections for independent study notes. I will be covering multiple books and placing my notes in this section from now on. I hope that this section serves to build upon many of the notes taken in my undergraduate study areas, and can help others. All books used will be cited below, and all of these books can be found for free online. 

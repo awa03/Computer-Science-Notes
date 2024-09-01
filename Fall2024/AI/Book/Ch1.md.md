@@ -55,4 +55,21 @@ For Kant knowledge contains two collaborating energies, these are an **a priori*
 <blockquote>Kant claims, passing images or representations are bound together by the active subject and taken as the diverse appearances of an identity, of an “object”</blockquote> 
 
 ### The Development of Formal Logic
-Euler introduced the study of representations that can abstractly capture the structure of relationships in the world as well as discrete steps within a computation about these relationships. The creation of graph theory allowed for state space search, which is used largely within artificial intelligence.
+Euler introduced the study of representations that can abstractly capture the structure of relationships in the world as well as discrete steps within a computation about these relationships. The creation of graph theory allowed for state space search, which is used largely within artificial intelligence. The nodes of a state space graph represent the possible stages of a problem solution, the arcs being inferences, moves in a game, or other steps within a problems solution. State space graphs provide a tool for measuring the structure and complexity of problems, as well as analyzing the efficiency, correctness, and solution strategies.
+
+Charles Babbage **difference engine** was a machine for computing values of certain polynomial functions and was the forerunner to his **analytical engine**. He included within his analytical engine many modern solutions such as the separation of the memory and the processor. He referred to these as the *store* and the *mill*.
+
+<blockquote>
+The importance of Boole’s accomplishment is in the extraordinary power and simplicity of
+the system he devised: three operations, “AND” (denoted by ∗ or ∧), “OR” (denoted by + or lor), and “NOT” (denoted by ¬), formed the heart of his logical calculus.</blockquote>
+
+Boole's influence has carried to modern forms of logic, including the design of modern computers. Bools system additionally provided a basis for binary arithmetic. Frege later added the logical "IMPLIES" and "EXISTS" operations, which formalized the mathematical concept of a proof using these concepts. First order predicate calculus offers all of the tools necessary in creating a theory of representation for Artificial Intelligence. 
+
+1. A language for expression
+2. A theory for assumptions related to the meaning of expressions
+3. A logically sound calculus for inferring new true expressions
+
+Russell's and Whiteheads work is very important to the foundations of artificial intelligence. Their goal was to derive the whole of mathematics through formal operations on a collection of axioms.
+
+
+
