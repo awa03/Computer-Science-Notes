@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/AI/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/AI/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/AI/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md"
+                "file": "Fall2024/AI/Index.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   "active": "58ec6efa0f40ff48",
   "lastOpenFiles": [
     "Fall2024/AI/Homework/hw1.md",
-    "hw1.pdf",
     "Fall2024/AI/Book/Ch1.md",
+    "hw1.pdf",
     "Fall2024/AI/Homework",
     "Fall2024/AI/Index.md",
     "Fall2024/Data_Science/Book/CH1.md",

@@ -119,6 +119,8 @@ it finds itself.</blockquote>
 
 Intelligence emerges from the interactions of individual elements of a society. Culture is just as important in forming human intelligence as humans are in forming culture.
 
+### Biological and Social Models of Intelligence: Agents Theories
+
 
 
 
