@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Index.md"
+                "file": "Fall2024/AI/Book/Ch1.md"
               }
             }
           },
@@ -180,12 +181,12 @@
   },
   "active": "9e200a527e279656",
   "lastOpenFiles": [
-    "Fall2024/German3/Index.md",
-    "Fall2024/Data_Science/Index.md",
-    "Fall2024/Data_Science/Class/lecture1.md",
-    "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/AI/Index.md",
+    "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/Data_Science/Book/CH2.md",
+    "Fall2024/Data_Science/Class/lecture1.md",
+    "Fall2024/Data_Science/Index.md",
+    "Fall2024/German3/Index.md",
     "Fall2024/German3/wk1.md",
     "Fall2024/Forensic/day1.md",
     "Fall2024/AI/Book/Ch1.md",

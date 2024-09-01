@@ -1,4 +1,5 @@
 ### Class Notes
+- [Intro To Course](Class/lecture1.md)
 
 ****
 
