@@ -97,5 +97,29 @@ Russell's and Whiteheads work is very important to the foundations of artificial
 
 ### The Turing Test 
 
+The turing test attempts to measure the performance of an intelligent machine against that of a human being. This is arguably the only thing we can compare against to decipher intelligence. The test isolates the machine and the interrogator in order to ensure the interrogator is unbiased. The interrogator is free to ask any question in order to uncover the computers identity. Turing argues that if the interrogator is unable to identify the human than the machine is assumed to be intelligent. 
+
+Important features of Turing's test are:
+
+1. It attempts to give an objective notion of intelligence, human nature being posited as the basis of what we classify as intelligent. 
+2. It prevents us from being side tracked by such confusing and currently unanswerable questions.
+3. It eliminates any biases that may be placed.
+
+Some criticisms of this test is that it: does not test ability requiring perceptual skill or manual dexterity, and that he needlessly constrains machine intelligence to a human mold (intelligence is not only bound to human intelligence). Machine intelligence may just in fact differ from human intelligence. 
+
+**Lady Lovelace Objection** states that machines can only do as they are told and consequently cannot perform original actions.
+
+Another objection towards machine intelligence asserts that it is impossible to create a set of rules that will tell an individual exactly what to do in every possible circumstance. Humans however can respond to an infinite amount of situations in a reasonable manner. However as we can see through modern generative AI this is not the case. 
+
+Herbert Simon argues, however, that humans only posses originality and variability due to the richness of their environment. 
+
+<blockquote>An ant, viewed as a behaving system, is quite simple. The apparent complexity of its
+behavior over time is largely a reflection of the complexity of the environment in which
+it finds itself.</blockquote>
+
+Intelligence emerges from the interactions of individual elements of a society. Culture is just as important in forming human intelligence as humans are in forming culture.
+
+
+
 
 
