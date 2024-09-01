@@ -93,5 +93,9 @@ Boole's influence has carried to modern forms of logic, including the design of 
 
 Russell's and Whiteheads work is very important to the foundations of artificial intelligence. Their goal was to derive the whole of mathematics through formal operations on a collection of axioms.
 
+**Intelligence** is a form of information processing. Formal logic is an important representational tool for AI research. Tools are essential to understanding information, tools shape the basis for semantic networks and models of semantic meaning. A tool is developed to solve a specific problem, it is then refined to fit other use cases, leading to the development of new tools. 
+
+### The Turing Test 
+
 
 
