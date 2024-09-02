@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/German3/wk1.md",
+                "file": "Fall2024/AI/Homework/hw1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/German3/wk1.md",
+                "file": "Fall2024/AI/Homework/hw1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/German3/wk1.md",
+                "file": "Fall2024/AI/Homework/hw1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/German3/wk1.md"
+                "file": "Fall2024/AI/Homework/hw1.md"
               }
             }
           },
@@ -159,12 +159,18 @@
   },
   "active": "1bbf1126d7aa424f",
   "lastOpenFiles": [
-    "Fall2024/Forensic/day1.md",
-    "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/Data_Science/Book/CH2.md",
-    "Fall2024/AI/Book/Ch1.md",
+    "Fall2024/German3/wk1.md",
+    "Fall2024/Forensic/day1.md",
+    "Fall2024/AI/Homework/hw1.md",
     "Fall2024/AI/Book2/Ch1.md",
+    "Fall2024/AI/Book/Ch1.md",
     "Fall2024/AI/Index.md",
+    "Fall2024/Data_Science/Index.md",
+    "Fall2024/Forensic/Index.md",
+    "Fall2024/German3/Index.md",
+    "Fall2024/Data_Science/Book/CH1.md",
+    "Fall2024/Data_Science/Class/lecture1.md",
     "Fall2024/AI/Book3",
     "Fall2024/AI/Book2",
     "hw1.pdf",
@@ -182,12 +188,6 @@
     "Summer2024/CDA3100/Performance.md",
     "Summer2024/CDA3100/Mips.md",
     "Summer2024/CDA3100/Midterm-Study-Guide.md",
-    "Summer2024/CDA3100/Index.md",
-    "Summer2024/CDA3100/FloatingPoint2.md",
-    "Summer2024/CDA3100/FloatingPoint.md",
-    "Summer2024/CDA3100/DigitalLogic.md",
-    "Summer2024/CDA3100/Day1.md",
-    "Summer2024/CDA3100/DataPath.md",
     "Summer2024/CNT4603",
     "Summer2024/CDA3100",
     "Summer2024",

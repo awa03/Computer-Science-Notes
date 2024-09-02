@@ -1,6 +1,7 @@
-# Chapter 1: AI Early History and Applications
 
 [Back](../Index.md)
+# Chapter 1: AI Early History and Applications
+
 
 
 The notion of gaining knowledge often constitutes a transgression against the laws of god (nature more aptly put) is deeply ingrained into western thought. This can be seen through examples such as the garden of Eden or Prometheus. In other words the quest for knowledge is a dangerous one. 

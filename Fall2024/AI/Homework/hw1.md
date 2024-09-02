@@ -1,3 +1,5 @@
+
+[Back](../Index.md)
 ### Homework #1
 **September 1st, 2024**
 **Aiden Allen**
@@ -43,3 +45,5 @@ I do not believe this to be true.
 - Luger, G. F. (2009). Artificial Intelligence: Structures and Strategies for Complex Problem Solving (6th ed.). Pearson.
 - Google’s AI passed the Turing test — and showed how it’s broken - The Washington Post. (n.d.). https://www.washingtonpost.com/technology/2022/06/17/google-ai-lamda-turing-test/
 
+
+[Back](../Index.md)
