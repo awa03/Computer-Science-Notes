@@ -5,7 +5,7 @@
 
 ### Class Book Notes
 
-- [Chapter 1: AI: Ear;y History and Applications](Book/Ch1.md)
+- [Chapter 1: AI: Early History and Applications](Book/Ch1.md)
 
 ### AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java (Luger) Notes
 

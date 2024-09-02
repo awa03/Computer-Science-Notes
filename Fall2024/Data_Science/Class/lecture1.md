@@ -1,3 +1,5 @@
+
+[Back](../Index.md)
 ### What is Data Science
 Systems, algorithms, and processes managing and deriving insights from **heterogeneous and/or large data science**. 
 
@@ -23,3 +25,4 @@ A **Tuple** t is an element of $S_1xS_2x...xS_2$
 - A set of all relation schema's
 
 
+[Back](../Index.md)
