@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd175c097f4b4a9",
+        "id": "ccdd4a5540362bba",
         "type": "tabs",
         "children": [
           {
-            "id": "58ec6efa0f40ff48",
+            "id": "1bbf1126d7aa424f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9e200a527e279656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2024/AI/Homework/hw1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bcb1b48be097b7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -107,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Index.md"
+                "file": "Fall2024/AI/Book/Ch1.md"
               }
             }
           },
@@ -178,52 +158,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58ec6efa0f40ff48",
+  "active": "2377ad0be49ff6e9",
   "lastOpenFiles": [
-    "Fall2024/AI/Homework/hw1.md",
-    "Fall2024/AI/Book/Ch1.md",
-    "hw1.pdf",
-    "Fall2024/AI/Homework",
-    "Fall2024/AI/Index.md",
     "Fall2024/Data_Science/Book/CH1.md",
-    "Fall2024/Data_Science/Book/CH2.md",
-    "Fall2024/Data_Science/Class/lecture1.md",
-    "Fall2024/Data_Science/Index.md",
-    "Fall2024/German3/Index.md",
-    "Fall2024/German3/wk1.md",
-    "Fall2024/Forensic/day1.md",
-    "Fall2024/AI/Class/CH1.md.md",
-    "README.md",
-    "Fall2024/AI/Class",
-    "Fall2024/AI/Book",
+    "hw1.pdf",
     "Untitled.md",
-    "Fall2024/German3/wk1_self_study.md.md",
-    "Fall2024/Forensic",
-    "Fall2024/AI",
-    "Fall2024/Data_Science/Class",
-    "Fall2024/Data_Science/Untitled.md",
-    "Fall2024/Data_Science/Book",
-    "Fall2024/Data_Science/Data_Science.md",
-    "Fall2024/Forensic/Untitled 1.md",
-    "Screenshot from 2024-06-10 20-19-03.png",
-    "Fall2024/Data_Science",
+    "Summer2024/CNT4603/Index.md",
+    "Summer2024/CNT4603/Day2.md",
+    "Summer2024/CNT4603/Day1.md",
     "Summer2024/CNT4603/Assignment7.md",
     "Summer2024/CNT4603/Assignment6.md",
     "Summer2024/CNT4603/Assignment5.md",
     "Summer2024/CNT4603/Assignment4.md",
-    "Fall2024/German3",
-    "Spring2024/German/Week_1.md",
-    "Spring2024/German/Index.md",
-    "Assignment8.md",
-    "Screenshot from 2024-07-28 14-16-44.png",
-    "Screenshot from 2024-07-28 14-12-37.png",
-    "Screenshot from 2024-07-28 13-57-59.png",
-    "Screenshot from 2024-07-28 13-56-03.png",
-    "Screenshot from 2024-07-28 13-44-50.png",
-    "Screenshot from 2024-07-28 13-39-15 1.png",
-    "Screenshot from 2024-07-28 13-43-17.png",
-    "Screenshot from 2024-07-28 13-39-15.png",
-    "Screenshot from 2024-07-28 13-31-25.png",
-    "Florida CS Policy Review.md"
+    "Summer2024/CNT4603/Assignment3.md",
+    "Summer2024/CNT4603/Assignment2.md",
+    "Summer2024/CDA3100/Translations.md",
+    "Summer2024/CDA3100/Performance.md",
+    "Summer2024/CDA3100/Mips.md",
+    "Summer2024/CDA3100/Midterm-Study-Guide.md",
+    "Summer2024/CDA3100/Index.md",
+    "Summer2024/CDA3100/FloatingPoint2.md",
+    "Summer2024/CDA3100/FloatingPoint.md",
+    "Summer2024/CDA3100/DigitalLogic.md",
+    "Summer2024/CDA3100/Day1.md",
+    "Summer2024/CDA3100/DataPath.md",
+    "Summer2024/CDA3100/C1.md",
+    "Summer2024/CDA3100/Binary.md",
+    "Summer2024/CNT4603",
+    "Summer2024/CDA3100",
+    "Summer2024",
+    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/vignette.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2/sharpening.md",
+    "Study_Notes_2024/OpenCV_With_Python/Ch2",
+    "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
+    "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
+    "Study_Notes_2024/OpenCV_With_Python/Assets",
+    "Study_Notes_2024/Leetcode/Medium",
+    "Study_Notes_2024/Leetcode/Hard",
+    "Study_Notes_2024/Leetcode/Easy",
+    "Study_Notes_2024/Leetcode",
+    "Assets/rules-of-binary-addition.webp",
+    "Assets/root.png",
+    "Assets/parent.png",
+    "Assets/equation.png",
+    "Assets/equation(8).png",
+    "Assets/equation(7).png",
+    "Assets/equation(6).png",
+    "Assets/equation(5).png"
   ]
 }

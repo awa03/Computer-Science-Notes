@@ -121,6 +121,33 @@ Intelligence emerges from the interactions of individual elements of a society. 
 
 ### Biological and Social Models of Intelligence: Agents Theories
 
+So far the discussions have been from the rationalist perspective. Forms of relativism question the basis of language, science, and society. Wittgenstein instructed us to reconsider the basis of meaning in natural and formal languages. 
+
+Witty old boy stated that our understanding of what something is, is our culture understanding of the object. Take the example of a throne, what makes it different than a chair. Wittgenstein extended these theories to science and mathematics as well.
+
+For **Husserl** as well as **Heidegger** intelligence was not knowing what is true but rather knowing how to cope in a world that was constantly changing and evolving. For existentialists / phenomenologists intelligence means survival in the world, rather than a set of logical propositions about the world.
+
+Neural models of intelligence emphasize the brains ability to the world in which it is situated by modifying relationships between neurons. They capture patterns of relationship. Intelligence may be reflected by a collective of behaviors of large numbers of very simple interacting, semi autonomous agents.
+
+- Each agent has certain responsibilities in problem solving with little or no knowledge of either what agents do or how they do it.
+- Agents are situated. Each agent is sensitive to its environment, having no knowledge of full domain of agents.
+- Agents are interactional. They work together sharing knowledge and responsibilities.
+- The society of agents is structured. Coordination with other agents, collective and cooperative.
+- The phenomenon of intelligence in this environment is emergent. Sum of agents is greater than its whole efforts.
+
+Agents are elements of society that can perceive aspects of their environment either directly or indirectly through cooperation with other agents.
+
+
+<blockquote>Knowledge-based systems, though they have achieved marketable engineering successes, still have
+many limitations in the quality and generality of their reasoning. These include their inability to
+perform commonsense reasoning or to exhibit knowledge of rudimentary physical reality, such as
+how things change over time</blockquote>
+
+
+### AI and Philosphy
+
+
+
 
 
 
