@@ -1,5 +1,8 @@
 # Chapter 1: AI Early History and Applications
 
+[Back](../Index.md)
+
+
 The notion of gaining knowledge often constitutes a transgression against the laws of god (nature more aptly put) is deeply ingrained into western thought. This can be seen through examples such as the garden of Eden or Prometheus. In other words the quest for knowledge is a dangerous one. 
 
 Some other examples of this phenomenon within literature being Frankenstein monster, as well as Dante and Milton's work, and many Shakespearean plays. Some more practical examples within real life may include the creation of nuclear weapons and now the rising threat of Artificial Intelligence. Modern technology has only caused these fears to rise, creating a sentiment of imminent danger in many.
@@ -146,9 +149,10 @@ how things change over time</blockquote>
 
 ### AI and Philosphy
 
+page 17
 
 
-
+[Back](../Index.md)
 
 
 

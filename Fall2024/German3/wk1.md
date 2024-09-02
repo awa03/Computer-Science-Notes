@@ -1,4 +1,7 @@
+
+[Back](../Index.md)
 ### Wednesday 
+
 **Maskulin: -es + s**
 Das Buro  eines Buschhalters
 
@@ -30,4 +33,4 @@ Er hat ein prakatikun zu software technique gearbieten.
 
 ****
 
-
+[Back](../Index.md)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/German3/wk1.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/German3/wk1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/German3/wk1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md"
+                "file": "Fall2024/German3/wk1.md"
               }
             }
           },
@@ -158,9 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2377ad0be49ff6e9",
+  "active": "1bbf1126d7aa424f",
   "lastOpenFiles": [
+    "Fall2024/Forensic/day1.md",
     "Fall2024/Data_Science/Book/CH1.md",
+    "Fall2024/Data_Science/Book/CH2.md",
+    "Fall2024/AI/Book/Ch1.md",
+    "Fall2024/AI/Book2/Ch1.md",
+    "Fall2024/AI/Index.md",
+    "Fall2024/AI/Book3",
+    "Fall2024/AI/Book2",
     "hw1.pdf",
     "Untitled.md",
     "Summer2024/CNT4603/Index.md",
@@ -182,22 +188,15 @@
     "Summer2024/CDA3100/DigitalLogic.md",
     "Summer2024/CDA3100/Day1.md",
     "Summer2024/CDA3100/DataPath.md",
-    "Summer2024/CDA3100/C1.md",
-    "Summer2024/CDA3100/Binary.md",
     "Summer2024/CNT4603",
     "Summer2024/CDA3100",
     "Summer2024",
-    "Study_Notes_2024/OpenCV_With_Python/Chapter_2.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/vignette.md",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2/sharpening.md",
     "Study_Notes_2024/OpenCV_With_Python/Ch2",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets",
     "Study_Notes_2024/Leetcode/Medium",
     "Study_Notes_2024/Leetcode/Hard",
-    "Study_Notes_2024/Leetcode/Easy",
-    "Study_Notes_2024/Leetcode",
     "Assets/rules-of-binary-addition.webp",
     "Assets/root.png",
     "Assets/parent.png",
