@@ -1,5 +1,5 @@
 
-[Back](../../README..md)
+[Back](../../README.md)
 ### Class Notes
 - [Intro To Course](Class/lecture1.md)
 
@@ -10,4 +10,4 @@
 - [Chapter 2: Traditional RDBMS Systems](Book/CH2.md)
 
 
-[Back](../../README..md)
+[Back](../../README.md)
