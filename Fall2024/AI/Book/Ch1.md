@@ -148,12 +148,36 @@ perform commonsense reasoning or to exhibit knowledge of rudimentary physical re
 how things change over time</blockquote>
 
 
-### AI and Philosphy
+### AI and Philosophy
 
-page 17
+Newell and Simon proposed that, the necessary and sufficient condition for a physical system to exhibit intelligence is that it be a physical symbol system. A system must understand, and interpret symbols. The Chinese Room argument posed that if a subject feeds English (for the example: could be any language) into a room with another subject translating each line into Chinese and then feeding a response back in Chinese, it would appear that the subject within the room understand Chinese. However we know this not to be true. The Chinese room argument holds to show that digital computers, regardless of how intelligent they may seem cannot be shown to have a mind, understanding, or consciousness. This is however not an argument against AI research, because it does not explicitly limit the amount of intelligence that a machine can display, rather a lack of understanding of what it is perceiving.  
+
+
+> [!Note]
+> I love this argument (Chinese Room) because it shows a limitation of AI, as well as dispels some worries about AI. The AI cannot "want" to take over the world and kill all humans, it is at the behest of us because it knows not what it does. Connected in a way to the love lace objection in this way as well.
+
+
+This is the distinction to what we call strong and weak AI. **Strong** AI possess the ability to understand the information that it is being fed, and respond based on its understanding. **Weak** AI on the other hand may simulate a response that can perceived as an understanding, however, it does not truly understand the subject matter. It is rather simulating the ability to think. The argument thus must form more around intention rather than our perceptions of thinking. This would effectively disprove Simon and Newels hypothesis however.
+
+### Overview of AI Applications
+
+The two fundamental concerns of AI are knowledge representation, and searching. **Search** is a problem solving technique that explores a set of problem states, successful and alternative stages. Take for example a chess board. A chess board may be trained on multiple positions as well as their successive moves. Newel and Simon argue that this is essential to the basis of human problem solving.
+
+**Heuristics** allow us to determine alternatives to explore space. This also constitutes a large area of AI research. Heuristics operate in much the same way (supposedly) as human intelligence. We seek to find alternative forms to our solutions (in a game setting this can be a win or a loss) in order to optimize our results, as well as find a more meaningful path (in a game setting this may be seen as a win). This is common within many board games, such as chess for example. The exploration of alternate paths can lead us to various outcomes is crucial to finding a suitable path (win in chess). 
+
+It is interesting to note that back in 2007 the entire state space was mapped out in checkers, this allows for it to be fully deterministic.  
+
+
+### Automated Reasoning and Theorem Proving
+
+Early efforts of theorem proving were difficult seeing as any reasonably complex logical system can generate an infinite amount of provable theorems, however, without guidance through heuristics a large number of the proofs are irrelevant. This issue caused for the development of alternative ad hoc strategies that humans seem to use in solving problems, this is the basis of expert systems. In the modern day we do have tools in which logic is automated, however, it is used mainly for tools in order to ensure the design of computer programs and control of complex systems 
+
+### Expert Systems
+
+Page 21
+
 
 
 [Back](../Index.md)
-
 
 
