@@ -177,7 +177,6 @@ Early efforts of theorem proving were difficult seeing as any reasonably complex
 Page 21
 
 
-
 [Back](../Index.md)
 
 

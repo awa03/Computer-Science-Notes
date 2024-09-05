@@ -1,7 +1,7 @@
 
 [Back](../../README.md)
 ### Class Notes
-
+- [Notes 1](Class/wk2)
 
 ### Class Book Notes
 
