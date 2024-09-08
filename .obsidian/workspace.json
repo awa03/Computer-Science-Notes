@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/Forensic/Reading/r1.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/Forensic/Reading/r1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md",
+                "file": "Fall2024/Forensic/Reading/r1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Book/Ch1.md"
+                "file": "Fall2024/Forensic/Reading/r1.md"
               }
             }
           },
@@ -160,12 +159,19 @@
   },
   "active": "1bbf1126d7aa424f",
   "lastOpenFiles": [
+    "Fall2024/Forensic/Reading/r2.md",
+    "Fall2024/Forensic/Reading/r3.md",
+    "Fall2024/Forensic/Reading/r4.md",
+    "Fall2024/Forensic/Index.md",
+    "Fall2024/Forensic/Reading/r1.md",
+    "Fall2024/AI/Book/Ch1.md",
+    "Fall2024/Forensic/Class",
+    "Fall2024/Forensic/Reading",
     "Fall2024/AI/Homework/hw1.md",
     "Fall2024/AI/Class/wk2.md",
     "www.bestcolleges.com/research/most-college-students-have-used-ai-survey.md",
     "www.bestcolleges.com/research",
     "www.bestcolleges.com",
-    "Fall2024/AI/Book/Ch1.md",
     "Fall2024/German3/wk2.md",
     "Untitled 3.md",
     "Untitled 2.md",
@@ -178,9 +184,8 @@
     "Fall2024/Data_Science/Class/lecture1.md",
     "Fall2024/Data_Science/Book/CH2.md",
     "Fall2024/Data_Science/Index.md",
-    "Fall2024/Forensic/Index.md",
     "Fall2024/German3/wk1.md",
-    "Fall2024/Forensic/day1.md",
+    "Fall2024/Forensic/Class/day1.md",
     "Fall2024/AI/Book2/Ch1.md",
     "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/AI/Book3",
@@ -188,14 +193,8 @@
     "Summer2024/CNT4603/Index.md",
     "Summer2024/CNT4603/Day2.md",
     "Summer2024/CNT4603/Day1.md",
-    "Summer2024/CNT4603/Assignment7.md",
-    "Summer2024/CNT4603/Assignment6.md",
-    "Summer2024/CNT4603/Assignment5.md",
-    "Summer2024/CNT4603/Assignment4.md",
     "Summer2024/CNT4603",
     "Summer2024/CDA3100",
-    "Summer2024",
-    "Study_Notes_2024/OpenCV_With_Python/Ch2",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Assets/rules-of-binary-addition.webp",
