@@ -174,8 +174,49 @@ Early efforts of theorem proving were difficult seeing as any reasonably complex
 
 ### Expert Systems
 
-Page 21
+An important insight gained from early work in problem solving was the importance of domain specific knowledge. This is the basis of expert systems. **Expert systems** are constructed through obtaining domain specific knowledge and relying upon these to solve specific issues.  The domain expert will critique its behavior until it has achieved the desired level of performance. 
 
+One of the earliest Expert systems was known as the **DENDRAL**. The Dendral was designed to infer the structure of organic molecules from their chemical formulas and mass stenographic information about chemical bonds present in the molecules. Dendral addresses the problem of a large search space by applying the heuristic knowledge of expert chemists to structure the problem. Extensions of the DENDRAL are currently used in chemical and pharmaceutical laboratories throughout the world. 
+
+"Common Sense" problems are more loosely defined, which means that they are more difficult to solve in the world of computing. This is because they do not have specific knowledge that we can place onto them.  This has led to many problems in developing expert systems due to:
+
+1. Difficulty capturing deep knowledge of the problems domain. For Example MYCIN lacks knowledge of human physiology and function. 
+2. Lack of Flexibility and Robustness
+3. Inability to provide deep explanation
+4. Difficult verification
+5. Little learning from experience
+
+However, Expert systems have proved their value in many important applications.
+
+### Natural Language Understanding and Semantics
+
+Natural language understanding has been a long standing goal of artificial intelligence, due to its importance in generating human intelligence. Real understanding behind natural language processing requires background knowledge about the domain of discourse and the idioms used in that domain as well as an ability to apply general contextual knowledge to resolve the omissions and ambiguities that are a part of normal human speech. 
+
+<blockquote>Consider, for example, the difficulties in carrying on a conversation
+about baseball with an individual who understands English but knows nothing about the rules,
+players, or history of the game. Could this person possibly understand the meaning of the sentence:
+“With none down in the top of the ninth and the go-ahead run at second, the manager called his
+relief from the bull pen”? Even though all of the words in the sentence may be individually
+understood, this sentence would be gibberish to even the most intelligent non-baseball fan.</blockqoute>
+
+<br>
+
+### Modeling Human Performance
+
+Often non human problem solving, chess for example, is more performant than the human counterpart. Many psychologists have found the language and theory's of Computer Science in order to better describe human intelligence. These techniques have improved vocabulary for describing human intelligence, as well as offering a way to empirically test, critique, and refine their ideas.
+
+
+### Planning and Robotics
+
+R&D has begun in an effort to design robots to perform tasks with a degree of flexibility as well as responsiveness to the world around them. **Planning** is a difficult problem due to the size of the space as well as the possible movement sequences. 
+
+One method that humans typically use is is hierarchical problem decomposition. Take for planning a trip. The problems that you need to address when planning a trip are packing, flights, hotels, location, events, etc. These problems are all separately handled however they join together to form a larger problem of planning a trip. This is known as **hierarchical problem decomposition**. While humans can easily accomplish this task it is difficult to perform on a computer, issues need to be well understood, meaning it requires sophisticated heuristics and extensive knowledge of the problem domain.
+
+Robots must respond to change within their environment, as well as be able to detect and correct errors in its own plan in order to be considered intelligent (Not the only criteria).
+
+### Languages and Environments for AI
+
+page 25
 
 [Back](../Index.md)
 

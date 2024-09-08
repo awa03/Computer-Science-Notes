@@ -1,5 +1,3 @@
-
-[Back](../Index.md)
 ### Homework #1
 **September 1st, 2024**
 **Aiden Allen**
@@ -7,11 +5,11 @@
 1) **Answer the following**
 - Explain what is meant by Artificial Intelligence.
 
-Artificial intelligence is the attempt to automate human intelligent behavior or actions. Generally speaking artificial intelligence is difficult to define, what we commonly refer to in the modern day when colloquially describing Artificial Intelligence is a large language model or generative AI. These can produce responses to questions simulating human conversation, as well as create photos, videos, and music. This definition only covers a small fraction of the applications of AI. We can define AI through its function, much like Francis Bacons *features*. AI is comprised of some form of pattern recognition, some form of reasoning in about the situation for which it is presented, attempts to deal with both the meaning as well as the surface form of the problem, as well as attempting to use large amounts of knowledge (data) in order to solve a specific problem. 
+Artificial intelligence is the attempt to automate tasks that typically require human intelligence. Generally speaking artificial intelligence is difficult to define, what we commonly refer to in the modern day when colloquially describing Artificial Intelligence is a large language model or generative AI. These can produce responses to questions simulating human conversation, as well as create photos, videos, and music. This definition only covers a small fraction of the applications of AI. AI encompasses a large number of technologies including but not limited to robotics, expert systems, LLM's, and Computer Vision. We can define AI through its function, much like Francis Bacons *features*. AI is comprised of some form of pattern recognition, some form of reasoning in about the situation for which it is presented, attempts to deal with both the meaning as well as the surface form of the problem, as well as attempting to use large amounts of knowledge (data) in order to solve a specific problem. There are many conflicting ideas of what makes something intelligent, and somewhat requires a definition of what intelligence is, which is another problem within itself.  
 
 - Ada Lovelace was a collaborator and supporter of Charles Babbage and is sometimes regarded as the first computer programmer. She is quoted as saying in reference to Babbage’s Analytical Engine: “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform. It can follow analysis; but it has no power of anticipating any analytical relations or truths. Its province is to assist us to making available what we are already acquainted with.” Do you agree with Lovelace’s statement in the context of modern-day computing? Explain your answer, i.e., state why you agree or disagree.
 
-I do agree with her statements. Specifically in the context of artificial intelligence her statement, "It can follow analysis; but it has no power of anticipating any analytical relations or truths. Its province is to assist us to making available what we are already acquainted with." Generative AI such has chatgpt has been poised as a revolutionary technology, that will replace jobs, however, it does not currently have the capacity to generate new knowledge. Currently, all information provided by chatgpt is derived from statements and data gathered from previous writings. In fact when training on its own data regression has been observed, proving that it is not intelligent in itself. It is assisting us in locating information that has already been created. 
+Ada Lovelace's statement about the Analytical Engine, that it has no power to originate anything but can only perform tasks based on what we already know, remains relevant in the context of modern computing, especially artificial intelligence. Specifically in the context of artificial intelligence, her statement, "It can follow analysis; but it has no power of anticipating any analytical relations or truths. Its province is to assist us to making available what we are already acquainted with." Generative AI such has chatgpt has been poised as a revolutionary technology, however, it does not currently have the capacity to generate new knowledge. Currently, all information provided by chatgpt is derived from statements and data gathered from previous writings. In fact when training on its own data regression has been observed, proving that it is not intelligent in itself. It is assisting us in locating information that has already been created. In addition to this AI is often domain constrained. The example given in the book provides a story of the expert system MYCIN asking a male patient if hes was pregnant. Modern computing has no conception of the outside world nor its own, it is created by us and lives within our constraints. It may serve beneficial in locating data, and amalgamating information, however it cannot reach beyond our grant.
 
 - What is the Turing Test? 
 
@@ -19,7 +17,7 @@ The Turing Test also known as the Imitation Game essentially seeks to prove if a
 
 - In your opinion, is this test a correct measure of intelligence? State your reasons.
 
-I personally do not believe this is a correct measurement of intelligence. Humans are traditionally unreliable, we are forgetful, slow thinkers (when compared to computers especially), and we make mistakes often. Additionally Artificial Intelligence does not aim to emulate human intelligence. These issues seem to arises from the avoidance in traditionally defining intelligence. 
+I personally do not believe this is a correct measurement of intelligence. Humans are traditionally unreliable, we are forgetful, slow thinkers (when compared to computers especially), and we make mistakes often. Additionally, Artificial Intelligence does not aim to emulate human intelligence. These issues seem to arises from the avoidance in traditionally defining intelligence. Artificial intelligence may still posses intelligence, just a new kind of intelligence. 
 
 - Is attempting to build a machine that can pass the Turing Test a suitable aim of AI research? State your reasons.
 
@@ -27,23 +25,39 @@ It depends. I would argue that any form of research within artificial intelligen
 
 - The Strong AI Hypothesis claims that it is possible to program a digital computer so that it embodies true human-like consciousness, i.e., intelligence, understanding, emotions, self-awareness, etc. State whether you agree or disagree with this hypothesis and give your reasons.
 
-I do not believe this to be true. 
-
+The goal of AI is not to simulate human intelligence. Anthropocentrism has served as a starting point for the development of AI, and often helps humans understand as well as develop "intelligent" systems. However, AI may occupy its own form of intelligence. I do not believe replicating human features should be a focal point of AI development. We as humans do not posses certain skills, partly because of how broad our reach seems to be. AI should be centralized on tasks in the very same way, introducing a broad scope to AI, would only limit its reach. If AI thought in the same manner as humans it would posses our very same weaknesses. Searle would argue that without understanding the task we cannot posit that the machine has a mind, as we cannot say that it is thinking. In addition to this AI is extremely limited, it is optimistic at best to assume we can create this definition of a Strong AI. In order to create this AI we would need to comprehensively understand our own intelligence, which maybe very well impossible. This implications are even more concerning when revealing the ethical complications of AI human like intelligence. 
 
 
 - In 1976, Alan Newell and Herbert Simon proposed the Physical Symbol System Hypothesis: The necessary and sufficient condition that a system be intelligent is that it be a physical symbol system. Do you agree with this hypothesis?
 
-
-
 - In 1980, John Searle presented his Chinese Room Argument. This was intended to dispute the Strong AI Hypothesis, and implicitly also the Physical Symbol System Hypothesis. What is the key point of Searle’s argument? Do you agree with it? Does it effectively dispute the two hypotheses?
+
+3) Much traditional Western thought has dwelt on the mind–body relationship. Are the mind and body:
+	- Distinct entities somehow interacting
+	- Is mind a expression of "physical processes"
+	- Body just an illusion of the rational mind
+
+4) Criticize Turing’s criteria for computer software being “intelligent”
+
+5) Describe your own criteria for computer software to be considered “intelligent”
+
+I personally believe computer intelligence to be impossible to define. Much of what we call intelligence in the broader sense is abstract. We understand animals to be in some sense intelligence, however they do not posses many of the features we desire from AI, nor the capabilities. It is my understanding that many of the definitions of AI confuse intelligence for Human Intelligence. Even if an answer is "incorrect" it is incorrect on the basis of human intelligence. The computer sees the input and will always produce an output, if the output is deemed incorrect it is not the fault of the machines intelligence rather our own. Determining if a machine is intelligent or not has been misconstrued into "does the machine operate in the ways in which I wish it to operate". So in my opinion, a machine may be deemed intelligent if it performs in the manner in which we demand it to. There maybe further implications to this, however, intelligence is invented by humans. When the world formed there was no intelligence, intelligence is a tool we use to classify interactions surrounding us. <i>"Language is the site of self-identification"</i>, Jacques Lacan. 
+
+10) Discuss why you think the problem of machines “learning” is so difficult.
+
+12) **List and discuss two potentially negative effects on society of the development of artificial intelligence technologies**
+
+There are many negative effects on society that AI may cause for instance a dependence on AI as a tool, and many security issues. AI in its modern form has only recently reached popularity, and has already had a dramatic effect on students. [A recent study demonstrated these effects, stating that 56 percent of college students have used AI on an Assignment or Exam](https://www.bestcolleges.com/research/most-college-students-have-used-ai-survey/). Students ([as well as professionals](https://decrypt.co/147191/no-human-programmers-five-years-ai-stability-ceo)) are becoming more and more dependent on AI, with dependents comes the elusion of learning. While AI may assist us in further progressing in the short term, it may lead to drastic effects in the near future due to a lack in competent human intervention. Students who cheat on assignments, or exams. Are not gaining the necessary experience they need in order to successfully perform.  A common excuse, that I hear from my peers, is that "I just use AI on busy work" or "Its easy I can just study the night before the exam and generate my answers now". While this alternative is easier, you are missing out on the experience you need to ready yourself for tasks you may not want to complete in the future.  AI is creating a indolent future, as well as a deep whole within the acquisition of knowledge. The issues of dependence have also called into question the security implications of AI. As many students and professionals share their concerns with chat bots like ChatGPT, these systems are increasingly being exposed to a [significant amount of sensitive data](https://www.zdnet.com/article/employees-input-sensitive-data-into-generative-ai-tools-despite-the-risks/).
+This raises many important questions about how this data is being handled, as well as the dangers of relying on such a system. A major example of this is the recent [backlash from Microsoft's Recall feature](https://www.pcworld.com/article/2447369/recall-2-microsoft-plans-another-ai-feature-that-reads-everything.html). The recall feature enables Microsoft AI enabled devices to repeatedly capture screenshots of the screen, and in turn storing their meta data, in order to allow users to revisit applications or web pages that they previously viewed.  This issue faced major backlash given the privacy concerns such as screenshotting passwords, bank numbers, as well as other sensitive data. While Microsoft assured users that this data was highly encrypted, as well as sensitive data should not be documented, in execution this data can be accesses. Quickly after its release tools were developed in order to decrypt these files. While as of now these files are locally stored, Microsoft has not commented on whether or not meta data is anonymized and sent for data collection and further training.
 
 
 ****
 
 ### Citations
 
-- Luger, G. F. (2009). Artificial Intelligence: Structures and Strategies for Complex Problem Solving (6th ed.). Pearson.
+- “56% of College Students Have Used AI on Assignments or Exams: BestColleges.” BestColleges.Com, 22 Nov. 2023, www.bestcolleges.com/research/most-college-students-have-used-ai-survey/. 
+- “Employees Input Sensitive Data into Generative AI Tools despite the Risks.” ZDNET, www.zdnet.com/article/employees-input-sensitive-data-into-generative-ai-tools-despite-the-risks/. Accessed 7 Sept. 2024. 
 - Google’s AI passed the Turing test — and showed how it’s broken - The Washington Post. (n.d.). https://www.washingtonpost.com/technology/2022/06/17/google-ai-lamda-turing-test/
-
-
-[Back](../Index.md)
+- Lanz, Jose Antonio. “Stability AI CEO: There Will Be No (Human) Programmers in Five Years.” Decrypt, Decrypt, 28 Sept. 2023, decrypt.co/147191/no-human-programmers-five-years-ai-stability-ceo. 
+- Lee, Laura Pippig and Joel. “Recall 2.0? Microsoft Plans Another AI Feature That Scans Everything.” PCWorld, 4 Sept. 2024, www.pcworld.com/article/2447369/recall-2-microsoft-plans-another-ai-feature-that-reads-everything.html. 
+- Luger, G. F. (2009). Artificial Intelligence: Structures and Strategies for Complex Problem Solving (6th ed.). Pearson.

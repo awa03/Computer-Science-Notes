@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Class/wk2.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Class/wk2.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Class/wk2.md",
+                "file": "Fall2024/AI/Book/Ch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Class/wk2.md"
+                "file": "Fall2024/AI/Book/Ch1.md"
               }
             }
           },
@@ -160,15 +160,21 @@
   },
   "active": "1bbf1126d7aa424f",
   "lastOpenFiles": [
-    "Fall2024/AI/Index.md",
-    "Fall2024/AI/Class/wk2.md",
     "Fall2024/AI/Homework/hw1.md",
-    "Fall2024/AI/Class",
+    "Fall2024/AI/Class/wk2.md",
+    "www.bestcolleges.com/research/most-college-students-have-used-ai-survey.md",
+    "www.bestcolleges.com/research",
+    "www.bestcolleges.com",
     "Fall2024/AI/Book/Ch1.md",
     "Fall2024/German3/wk2.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Fall2024/AI/Index.md",
+    "Fall2024/AI/Class",
     "Fall2024/German3/Index.md",
     "hw1.pdf",
-    "Untitled 1.md",
     "Fall2024/Data_Science/Class/lecture1.md",
     "Fall2024/Data_Science/Book/CH2.md",
     "Fall2024/Data_Science/Index.md",
@@ -179,7 +185,6 @@
     "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/AI/Book3",
     "Fall2024/AI/Book2",
-    "Untitled.md",
     "Summer2024/CNT4603/Index.md",
     "Summer2024/CNT4603/Day2.md",
     "Summer2024/CNT4603/Day1.md",
@@ -187,17 +192,12 @@
     "Summer2024/CNT4603/Assignment6.md",
     "Summer2024/CNT4603/Assignment5.md",
     "Summer2024/CNT4603/Assignment4.md",
-    "Summer2024/CNT4603/Assignment3.md",
-    "Summer2024/CNT4603/Assignment2.md",
-    "Summer2024/CDA3100/Translations.md",
     "Summer2024/CNT4603",
     "Summer2024/CDA3100",
     "Summer2024",
     "Study_Notes_2024/OpenCV_With_Python/Ch2",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
-    "Study_Notes_2024/OpenCV_With_Python/Assets",
-    "Study_Notes_2024/Leetcode/Medium",
     "Assets/rules-of-binary-addition.webp",
     "Assets/root.png",
     "Assets/parent.png",

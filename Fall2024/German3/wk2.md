@@ -1,4 +1,3 @@
-
 ### Monday
 
 **No School Labor Day**
@@ -31,3 +30,9 @@
 **Page 148 will be on the quiz**
 
 ****
+
+### Friday
+
+1. **Ich hatte ein Buch.** (I had a book.)
+2. **Du warst müde.** (You were tired.)
+3. **Wir waren im Park.** (We were in the park.)
