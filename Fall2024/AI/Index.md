@@ -1,7 +1,7 @@
 
 [Back](../../README.md)
 ### Class Notes
-- [Notes 1](Class/wk2)
+- [AI as Representation and Search](Class/n1.md)
 
 ### Class Book Notes
 

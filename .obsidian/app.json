@@ -5,9 +5,9 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "Letter",
+    "pageSize": "Legal",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 81
+    "downscalePercent": 60
   }
 }
