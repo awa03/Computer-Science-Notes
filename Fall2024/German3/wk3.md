@@ -1,5 +1,5 @@
 
-[Back](../Index.md)
+[Back](Index.md)
 ### Monday 
 
 Nachdem Hannah den Schlüssel verloren hatte, rief sie Julia an.
@@ -18,4 +18,4 @@ Nachdem Lukas ein Geräusch gehört hatte, lief er weg.
 - Three statements
 - Vocab Fill in the Blank (No conj.)
 
-[Back](../Index.md)
+[Back](Index.md)

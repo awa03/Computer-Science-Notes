@@ -1,5 +1,5 @@
 
-[Back](../Index.md)
+[Back](Index.md)
 
 ### Monday
 
@@ -40,4 +40,4 @@
 2. **Du warst müde.** (You were tired.)
 3. **Wir waren im Park.** (We were in the park.)
 
-[Back](../Index.md)
+[Back](Index.md)
