@@ -6,7 +6,7 @@
 - [Chapter 1: AI: Early History and Applications](Book/Ch1.md)
 - [AI as Representation and Search](Class/n1.md)
 - [Chapter 2 Introduction: AI As Representation and Search](Book/chi2.md)
-- [Chapter 2](Book2/Ch2.md)
+- [Chapter 2](Book/Ch2.md)
 - [Chapter 3]()
 
 
