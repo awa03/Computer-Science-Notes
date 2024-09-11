@@ -1,3 +1,5 @@
+
+[Back](../Index.md)
 # Legal role of the Digital Forensic Analyst
 
 - Forensic analysts are not lawyers
@@ -76,3 +78,5 @@ data in a readable format</blockquote>
 	- Where the search is to take place
 	- A general time frame in which the search must be conducted
 - “When electronic storage media are to be searched because they store information that is evidence of a crime, the items to be seized under the warrant should usually focus on the content of the relevant files rather than the physical storage media” (Searching and Seizing Computers and Obtaining Evidence in Criminal Investigations, Computer Crime and Intellectual Property Section, Criminal Division, U.S. Department of Justice, Washington, D.C (3rd ed 2009) at 72)
+
+[Back](../Index.md)
