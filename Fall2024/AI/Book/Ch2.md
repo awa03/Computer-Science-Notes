@@ -14,7 +14,7 @@ Soundness/Consistency means that one cannot prove things are not true, and adequ
 
 An inference rule is said to be valid in a given semantics if it only allows one to derive true conclusions from true premises. 
 
-![[Assets/equation.png]]
+![Test](Assets/equation.png)
 
 If a formal system is sound and complete with respect to its semantics, then an inference rule will be formally valid if and only if it is semantically valid. 
 
