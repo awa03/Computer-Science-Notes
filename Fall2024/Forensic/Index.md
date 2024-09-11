@@ -12,6 +12,7 @@
 - [Just turning your phone on qualifies as searching it, court rules](Reading/r4.md)
 
 ### Video's
+- [How to Perform During Life's High Stake Moments](Videos/v1.md)
 
 ****
 

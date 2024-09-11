@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Forensic/Reading/r1.md",
+                "file": "Fall2024/Forensic/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/Forensic/Reading/r1.md",
+                "file": "Fall2024/Forensic/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/Forensic/Reading/r1.md",
+                "file": "Fall2024/Forensic/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/Forensic/Reading/r1.md"
+                "file": "Fall2024/Forensic/Index.md"
               }
             }
           },
@@ -160,13 +159,13 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
+    "Fall2024/Forensic/Videos/v1.md",
+    "Fall2024/Forensic/Index.md",
+    "Fall2024/Forensic/Reading/r1.md",
     "Fall2024/Forensic/Reading/r4.md",
     "Fall2024/Forensic/Reading/r3.md",
-    "Fall2024/Forensic/Videos/v1.md",
     "Fall2024/Forensic/Reading/r2.md",
-    "Fall2024/Forensic/Reading/r1.md",
     "Fall2024/Forensic/Class/day1.md",
-    "Fall2024/Forensic/Index.md",
     "Fall2024/Forensic/Videos",
     "Fall2024/Forensic/Class/day2.md",
     "Fall2024/AI/Class/n1.md",
