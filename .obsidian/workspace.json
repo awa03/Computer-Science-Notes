@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/German3/wk2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdc8da337c73aa08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2024/Data_Science/Class/lecture1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e3dafd38fe2d950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2024/German3/wk1.md",
+                "file": "Fall2024/Forensic/Reading/r1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/German3/wk1.md",
+                "file": "Fall2024/Forensic/Reading/r1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/German3/wk1.md",
+                "file": "Fall2024/Forensic/Reading/r1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/German3/wk1.md"
+                "file": "Fall2024/Forensic/Reading/r1.md"
               }
             }
           },
@@ -182,44 +158,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e3dafd38fe2d950",
+  "active": "ac38940957429b43",
   "lastOpenFiles": [
-    "Fall2024/German3/wk2.md",
-    "Fall2024/German3/Index.md",
-    "Fall2024/German3/wk3.md",
-    "Fall2024/AI/Book/Ch1.md",
-    "Fall2024/AI/Book2/Ch1.md",
-    "Fall2024/Data_Science/Book/CH2.md",
-    "Fall2024/Data_Science/Book/CH1.md",
-    "Fall2024/Data_Science/Class/lecture1.md",
+    "Fall2024/Forensic/Reading/r4.md",
+    "Fall2024/Forensic/Reading/r3.md",
+    "Fall2024/Forensic/Videos/v1.md",
+    "Fall2024/Forensic/Reading/r2.md",
+    "Fall2024/Forensic/Reading/r1.md",
     "Fall2024/Forensic/Class/day1.md",
+    "Fall2024/Forensic/Index.md",
+    "Fall2024/Forensic/Videos",
+    "Fall2024/Forensic/Class/day2.md",
+    "Fall2024/AI/Class/n1.md",
+    "Fall2024/AI/Book2/Ch1.md",
+    "Fall2024/AI/Book/Ch1.md",
+    "Fall2024/Data_Science/Book/CH1.md",
+    "Fall2024/Data_Science/Index.md",
+    "Fall2024/AI/Homework/hw1.md",
+    "Fall2024/Data_Science/Class/lecture1.md",
+    "Fall2024/German3/wk2.md",
+    "Fall2024/AI/Index.md",
     "Untitled.md",
     "Fall2024/German3/wk1.md",
-    "Fall2024/AI/Class/n1.md",
-    "Fall2024/AI/Index.md",
+    "Fall2024/German3/Index.md",
+    "Fall2024/German3/wk3.md",
+    "Fall2024/Data_Science/Book/CH2.md",
     "Fall2024/AI/Class/wk2.md",
     "Fall2024/Data_Science/Class/Lectu.md",
-    "Fall2024/AI/Homework/hw1.md",
-    "Fall2024/Forensic/Reading/r4.md",
     "README.md",
     "Spring2024/CSharpStuff/ConsoleApp1/Index.md",
     "hw1.pdf",
-    "Fall2024/Forensic/Reading/r1.md",
-    "www.bestcolleges.com/research/most-college-students-have-used-ai-survey.md",
-    "Untitled 1.md",
-    "Fall2024/Forensic/Reading/r2.md",
-    "Fall2024/Forensic/Reading/r3.md",
-    "Fall2024/Forensic/Index.md",
     "Fall2024/Forensic/Class",
     "Fall2024/Forensic/Reading",
     "www.bestcolleges.com/research",
     "www.bestcolleges.com",
-    "Untitled 3.md",
     "Fall2024/AI/Class",
     "Fall2024/AI/Book3",
     "Fall2024/AI/Book2",
     "Summer2024/CNT4603",
-    "Summer2024/CDA3100",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Assets/rules-of-binary-addition.webp",

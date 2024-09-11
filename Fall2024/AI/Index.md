@@ -1,11 +1,12 @@
 
 [Back](../../README.md)
-### Class Notes
-- [AI as Representation and Search](Class/n1.md)
 
-### Class Book Notes
+### Class Notes
 
 - [Chapter 1: AI: Early History and Applications](Book/Ch1.md)
+- [AI as Representation and Search](Class/n1.md)
+- [Chapter 2]()
+- [Chapter 3]()
 
 ### AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java (Luger) Notes
 

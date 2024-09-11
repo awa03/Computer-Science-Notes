@@ -214,10 +214,6 @@ One method that humans typically use is is hierarchical problem decomposition. T
 
 Robots must respond to change within their environment, as well as be able to detect and correct errors in its own plan in order to be considered intelligent (Not the only criteria).
 
-### Languages and Environments for AI
-
-page 25
-
 [Back](../Index.md)
 
 
