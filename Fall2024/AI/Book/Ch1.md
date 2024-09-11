@@ -8,12 +8,11 @@ The notion of gaining knowledge often constitutes a transgression against the la
 
 Some other examples of this phenomenon within literature being Frankenstein monster, as well as Dante and Milton's work, and many Shakespearean plays. Some more practical examples within real life may include the creation of nuclear weapons and now the rising threat of Artificial Intelligence. Modern technology has only caused these fears to rise, creating a sentiment of imminent danger in many.
 
->[!NOTE]
 >In my eyes this seems to follow a narrative of blissful ignorance. To know less is to be less aware of the negatives, thus your view of life is purely subjective and it is possible to alienate yourself from the reality of consequence. 
 
 
 
-### Aristotle 
+### Aristotle
 The logical starting point within history for artificial intelligence is Aristotle. **Change** to Aristotle was the basis of science, science being described by him as *"The study of things that change"*.  He distinguished between **matter** and **form**. This separation is the philosophical basis for symbolic computing as well as data abstraction. 
 
 Within Aristotle epistemology (analysis of how humans "know" their world), he refereed to logic as an instrument. This was because he felt the study of thought itself was the basis of all knowledge. Within his Logic he investigated whether propositions can be true because they are related to other statements that are true. 

@@ -1,6 +1,11 @@
 {
-  "accentColor": "#1a3d84",
-  "cssTheme": "Sanctum",
+  "accentColor": "#ccb524",
+  "cssTheme": "Encore",
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "main",
+    "status",
+    "dash"
+  ]
 }
