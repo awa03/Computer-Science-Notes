@@ -8,6 +8,7 @@
 - [Chapter 2 Introduction: AI As Representation and Search](Book/chi2.md)
 - [Chapter 2](Book/Ch2.md)
 - [Chapter 3]()
+- [Chapter 4]()
 
 
 
