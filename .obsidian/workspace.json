@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Book2/Ch2.md",
+                "file": "Fall2024/AI/Homework/hw2.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Book2/Ch2.md",
+                "file": "Fall2024/AI/Homework/hw2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Book2/Ch2.md",
+                "file": "Fall2024/AI/Homework/hw2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Book2/Ch2.md"
+                "file": "Fall2024/AI/Homework/hw2.md"
               }
             }
           },
@@ -158,9 +158,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2377ad0be49ff6e9",
+  "active": "ac38940957429b43",
   "lastOpenFiles": [
+    "Fall2024/Forensic/Homework/hw1.md",
+    "outline.drawio.png",
+    "outline.png",
+    "Fall2024/Forensic/Index.md",
+    "Fall2024/Forensic/Homework",
+    "Fall2024/AI/Homework/hw2.md",
+    "Fall2024/AI/Book/Ch2.md",
+    "Fall2024/Forensic/Class/day2.md",
     "Untitled 1.md",
+    "Fall2024/Forensic/Class/day3.md",
+    "Fall2024/AI/Class/n1.md",
+    "Fall2024/Forensic/Reading/r4.md",
     "Fall2024/AI/Book2/Ch2.md",
     "Untitled.md",
     "Untitled 2.md",
@@ -170,15 +181,10 @@
     "Fall2024/AI/Index.md",
     "Fall2024/AI/Homework/hw1.md",
     "Fall2024/AI/Book2/Ch1.md",
-    "Fall2024/AI/Class/n1.md",
     "Fall2024/German3/wk3.md",
-    "Fall2024/Forensic/Class/day3.md",
-    "Fall2024/Forensic/Index.md",
-    "Fall2024/Forensic/Class/day2.md",
     "Fall2024/Forensic/Class/day1.md",
     "Fall2024/Forensic/Videos/v1.md",
     "Fall2024/Forensic/Reading/r1.md",
-    "Fall2024/Forensic/Reading/r4.md",
     "Fall2024/Forensic/Reading/r3.md",
     "Fall2024/Forensic/Reading/r2.md",
     "Fall2024/Forensic/Videos",
@@ -186,10 +192,6 @@
     "Fall2024/Data_Science/Book/CH1.md",
     "Fall2024/Data_Science/Index.md",
     "Fall2024/Data_Science/Class/lecture1.md",
-    "Fall2024/German3/wk2.md",
-    "Fall2024/German3/wk1.md",
-    "Fall2024/German3/Index.md",
-    "Fall2024/Data_Science/Book/CH2.md",
     "hw1.pdf",
     "Fall2024/Forensic/Class",
     "Fall2024/Forensic/Reading",
@@ -198,13 +200,10 @@
     "Fall2024/AI/Class",
     "Fall2024/AI/Book3",
     "Fall2024/AI/Book2",
-    "Summer2024/CNT4603",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Assets/rules-of-binary-addition.webp",
     "Assets/root.png",
-    "Assets/parent.png",
-    "Assets/equation.png",
-    "Assets/equation(8).png"
+    "Assets/parent.png"
   ]
 }

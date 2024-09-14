@@ -17,6 +17,9 @@
 ### Video's
 - [How to Perform During Life's High Stake Moments](Videos/v1.md)
 
+### Homework
+- [Presentation Outline](Homework/hw1.md)
+
 ****
 
 [Back](../../README.md)
