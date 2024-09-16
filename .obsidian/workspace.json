@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/German3/wk4.md",
+                "file": "Fall2024/AI/Class/n2.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/German3/wk4.md",
+                "file": "Fall2024/AI/Class/n2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/German3/wk4.md",
+                "file": "Fall2024/AI/Class/n2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/German3/wk4.md"
+                "file": "Fall2024/AI/Class/n2.md"
               }
             }
           },
@@ -160,17 +160,20 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
-    "Fall2024/German3/Index.md",
-    "Fall2024/German3/wk4.md",
     "Fall2024/AI/Homework/hw2.md",
-    "Fall2024/Forensic/Homework/hw1.md",
+    "Fall2024/AI/Class/n2.md",
+    "Fall2024/AI/Index.md",
+    "Untitled 1.md",
     "outline.drawio.png",
     "outline.png",
+    "Fall2024/German3/wk4.md",
+    "Fall2024/AI/Homework/hw1.md",
+    "Fall2024/German3/Index.md",
+    "Fall2024/Forensic/Homework/hw1.md",
     "Fall2024/Forensic/Index.md",
     "Fall2024/Forensic/Homework",
     "Fall2024/AI/Book/Ch2.md",
     "Fall2024/Forensic/Class/day2.md",
-    "Untitled 1.md",
     "Fall2024/Forensic/Class/day3.md",
     "Fall2024/AI/Class/n1.md",
     "Fall2024/Forensic/Reading/r4.md",
@@ -180,8 +183,6 @@
     "equation.png",
     "equation 2.png",
     "equation 1.png",
-    "Fall2024/AI/Index.md",
-    "Fall2024/AI/Homework/hw1.md",
     "Fall2024/AI/Book2/Ch1.md",
     "Fall2024/German3/wk3.md",
     "Fall2024/Forensic/Class/day1.md",
@@ -191,8 +192,6 @@
     "Fall2024/Forensic/Reading/r2.md",
     "Fall2024/Forensic/Videos",
     "Fall2024/AI/Book/Ch1.md",
-    "Fall2024/Data_Science/Book/CH1.md",
-    "Fall2024/Data_Science/Index.md",
     "hw1.pdf",
     "Fall2024/Forensic/Class",
     "Fall2024/Forensic/Reading",

@@ -260,5 +260,36 @@ As we can see through the truth table above P -> Q only resolves to false when P
 
 - Abduction is an inference rule that infers P from P → Q and Q. Show that abduction is not sound (give an example where it fails).
 
+| P   | Q   | P -> Q |
+| --- | --- | ------ |
+| T   | T   | T      |
+| T   | F   | F      |
+| F   | T   | T      |
+| F   | F   | T      |
+
+As we can see through the truth table above abduction is not sound. In other words, we cannot prove that P -> Q means Q -> P because their conditions very. P -> Q holds true when pF qT, however T -> F is an invalid statement. Therefore we can conclude that P -> Q ≠ Q -> P.
 
 - Show that Modus Tollens, from P → Q and ¬Q infer ¬P, is sound (here also use truth tables).
+
+| P   | Q   | P -> Q | ¬Q infer ¬P | P → Q and ¬Q infer ¬P |
+| --- | --- | ------ | ----------- | --------------------- |
+| T   | T   | T      | T           | T                     |
+| T   | F   | F      | F           | T                     |
+| F   | T   | T      | T           | T                     |
+| F   | F   | T      | T           | T                     |
+
+As we can observe through the truth table above Modus Tollens does hold true. We can understand this by understanding the expanded form of P -> Q. I will use the example I previously provided. 
+
+$$(¬P ∧ Q) ∨ (¬Q ∧ P)$$
+
+We can now also provide the negated expanded form of the Modus Tollens alternative.
+
+$$(¬(¬Q) ∧ (¬P) ∨ (¬(¬P) ∧ ¬Q)$$
+
+This statement will then simplify down to the following:
+
+$$(Q ∧ ¬P) ∨ (P ∧ ¬Q)$$
+
+Then because of the communicative law we can adjust our order of operations, thus proving their equivalence. 
+
+$$(¬P ∧ Q) ∨ (¬Q ∧ P)$$
