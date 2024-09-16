@@ -1,6 +1,8 @@
 # Homework 2
 **Aiden Allen**
 
+****
+### Exercise 1
 1. Using truth tables, prove the Propositional Calculus identities of Section 2.2.
 
 The propositional calculus identities of section 2.2 state that:
@@ -145,5 +147,118 @@ As we can see from the truth table above, it is obvious that the two statements 
 - Distributive Law 1: P ∨ (Q ∧ R) ≡ (P ∨ Q) ∧ (P ∨ R)
 
 
+| P   | Q   | R   | Q ∧ R | P ∨ (Q ∧ R) | (P ∨ Q) | (P ∨ R) | (P ∨ Q) ∧ (P ∨ R) | P ∨ (Q ∧ R) ≡ (P ∨ Q) ∧ (P ∨ R) |
+| --- | --- | --- | ----- | ----------- | ------- | ------- | ----------------- | ------------------------------- |
+| T   | T   | T   | T     | T           | T       | T       | T                 | T                               |
+| T   | T   | F   | F     | T           | T       | T       | T                 | T                               |
+| T   | F   | T   | F     | T           | T       | T       | T                 | T                               |
+| T   | F   | F   | F     | T           | T       | T       | T                 | T                               |
+| F   | T   | T   | T     | T           | T       | T       | T                 | T                               |
+| F   | T   | F   | F     | F           | T       | F       | F                 | T                               |
+| F   | F   | T   | F     | F           | F       | T       | F                 | T                               |
+| F   | F   | F   | F     | F           | F       | F       | F                 | T                               |
+
 
 - Distributive Law 2: P ∧ (Q ∨ R) ≡ (P ∧ Q) ∨ (P ∧ R)
+
+
+| P   | Q   | R   | (Q ∨ R) | P ∧ (Q ∨ R) | (P ∧ Q) | (P ∧ R) | (P ∧ Q) ∨ (P ∧ R) | P ∧ (Q ∨ R) ≡ (P ∧ Q) ∨ (P ∧ R) |
+| --- | --- | --- | ------- | ----------- | ------- | ------- | ----------------- | ------------------------------- |
+| T   | T   | T   | T       | T           | T       | T       | T                 | T                               |
+| T   | T   | F   | T       | T           | T       | F       | T                 | T                               |
+| T   | F   | T   | T       | T           | F       | T       | T                 | T                               |
+| T   | F   | F   | F       | F           | F       | F       | F                 | T                               |
+| F   | T   | T   | T       | F           | F       | F       | F                 | T                               |
+| F   | T   | F   | T       | F           | F       | F       | F                 | T                               |
+| F   | F   | T   | T       | F           | F       | F       | F                 | T                               |
+| F   | F   | F   | F       | F           | F       | F       | F                 | T                               |
+
+****
+
+### Exercise 2
+
+2.  A new operator, ⊕, or exclusive-or, may be defined by the following truth table (Figure 8). Create a propositional calculus expression using only ¬, ∨, and ∧ that is equivalent to P ⊕Q. Prove their equivalence using truth tables.
+
+I propose that the expression P ⊕ Q is equivalent to (¬P ∧ Q) ∨ (¬Q ∧ P). As we can observe through the truth table below the two statements are equivalent. This is because the negation of both P and Q ensures that both P and Q cannot be true in order for the entire proposition to resolve in True.
+
+| P   | Q   |     | (¬P ∧ Q) ∨ (¬Q ∧ P) |
+| --- | --- | --- | ------------------- |
+| T   | T   | F   | F                   |
+| T   | F   | T   | T                   |
+| F   | T   | T   | T                   |
+| F   | F   | F   | F                   |
+
+****
+
+### Exercise 3
+
+2. The logical operator “↔” is read “if and only if” (similarly as ≡. P ↔ Q is defined as being equivalent to (P → Q) ∧ (Q → P). Based on this definition, show that P ↔ Q is logically equivalent to (P ∨ Q) → (P ∧ Q):
+
+#### Prove with Truth Tables
+
+| P   | Q   | (P ∨ Q) | (P ∧ Q) | (P ∨ Q) → (P ∧ Q) | P ↔ Q |
+| --- | --- | ------- | ------- | ----------------- | ----- |
+| T   | T   | T       | T       | T                 | T     |
+| T   | F   | T       | F       | F                 | F     |
+| F   | T   | T       | F       | F                 | F     |
+| F   | F   | F       | F       | T                 | T     |
+
+#### Prove with substitution
+
+P <--> Q is equivalent to (P -> Q) ∧ (Q -> P) <br>
+P -> Q is equivalent to ¬P ∨ Q <br>
+(P→Q)∧(Q→P) is equivalent to (¬P∨Q)∧(¬Q∨P) <br>
+¬P ∨ Q and ¬Q ∨ P<br>
+( P → Q ) ∧ ( Q → P ) ≡ ( ¬P ∨ Q ) ∧ ( ¬Q ∨ P)<br>
+( P ∨ Q ) → ( P ∧ Q ) ≡ ¬( P ∨ Q ) ∨ ( P ∧ Q )<br>
+¬( P ∨ Q ) ≡ ¬P ∧ ¬Q<br>
+¬(P ∨ Q ) ∨ ( P ∧ Q ) ≡ ( ¬P ∧ ¬Q ) ∨ ( P ∧ Q )<br>
+( ¬P ∧ ¬Q ) ∨ ( P ∧ Q ) ≡ (( ¬P ∨ ( P ∧ Q ) ) ∧ ( ¬Q ∨ (P∧Q))) <br>
+¬Q ∨ ( P ∧ Q ) ≡ ( ¬Q ∨ P ) ∧ ( ¬Q ∨ Q) ≡ ( ¬Q ∨ P) ∧ True≡ ¬Q∨P <br>
+( ¬P ∨ Q ) ∧ ( ¬Q ∨ P )<br>
+**** 
+
+### Exercise 4
+
+4. Prove that implication is transitive in the propositional calculus, that is, that ((P → Q) ∧ (Q → R)) → (P → R)
+
+
+| P   | Q   | R   | (P → Q) | (Q → R)) | ((P → Q) ∧ (Q → R)) | (P → R) | ((P → Q) ∧ (Q → R)) → (P → R) |
+| --- | --- | --- | ------- | -------- | ------------------- | ------- | ----------------------------- |
+| T   | T   | T   | T       | T        | T                   | T       | T                             |
+| T   | T   | F   | T       | F        | F                   | F       | F                             |
+| T   | F   | T   | F       | T        | F                   | T       | F                             |
+| T   | F   | F   | F       | T        | F                   | F       | F                             |
+| F   | T   | T   | T       | T        | T                   | T       | T                             |
+| F   | T   | F   | T       | F        | F                   | T       | F                             |
+| F   | F   | T   | T       | T        | T                   | T       | T                             |
+| F   | F   | F   | T       | F        | F                   | T       | F                             |
+
+P→Q is equivalent to ¬P ∨ Q<br>
+( P → Q ) ∧ ( Q → R ) can be rewritten as: ( ¬P ∨ Q ) ∧ ( ¬Q ∨ R )<br>
+¬P∨Q simplifies to Q (since ¬P is false).
+
+****
+
+### Exercise 5
+
+- Prove that Modus Ponens is sound for propositional calculus. Hint: use truth tables to enumerate all possible interpretations.
+
+Modus Ponnes proposes that if P implies Q, and P is set to be true than Q must also be true. 
+
+We can see this through a real world example of decision making. We can understand P as something such as "A restaurant is known for their good food" and this would then imply their food (Q) will be good. Their food can still be good without these reviews as well (F -> T). 
+
+
+| P   | Q   | P -> Q |
+| --- | --- | ------ |
+| T   | T   | T      |
+| T   | F   | F      |
+| F   | T   | T      |
+| F   | F   | T      |
+
+As we can see through the truth table above P -> Q only resolves to false when P is True and Q is False. The implication is not effected by the value of Q when the value of P is False.
+
+- Abduction is an inference rule that infers P from P → Q and Q. Show that abduction is not sound (give an example where it fails).
+
+
+- Show that Modus Tollens, from P → Q and ¬Q infer ¬P, is sound (here also use truth tables).
