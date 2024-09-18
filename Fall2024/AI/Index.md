@@ -15,7 +15,7 @@
 - [Chapter 1:  Language Idioms and the Master Programmer](Book2/Ch1)
 
 ### Homework 
-- [Homework 1](Homework/hw1.md)
+- [Homework 1](Fall2024/AI/Homework/hw1.md)
 - [Homework 2](Homework/hw2.md)
 
 

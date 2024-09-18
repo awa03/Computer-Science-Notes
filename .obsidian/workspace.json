@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Class/n2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Class/n2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Class/n2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Class/n2.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,9 +159,17 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
-    "Fall2024/AI/Homework/hw2.md",
+    "Study_Notes_2024/GRE/index.md",
+    "Study_Notes_2024/GRE/Vocab/index.md",
+    "Study_Notes_2024/GRE/Vocab/v1.md",
+    "Fall2024/Data_Science/Homework/hw1.md",
+    "Study_Notes_2024/GRE/Vocab",
+    "Study_Notes_2024/GRE",
+    "Fall2024/German3/Untitled",
     "Fall2024/AI/Class/n2.md",
+    "Fall2024/Data_Science/Homework",
     "Fall2024/AI/Index.md",
+    "Fall2024/AI/Homework/hw2.md",
     "Untitled 1.md",
     "outline.drawio.png",
     "outline.png",
@@ -188,18 +195,11 @@
     "Fall2024/Forensic/Class/day1.md",
     "Fall2024/Forensic/Videos/v1.md",
     "Fall2024/Forensic/Reading/r1.md",
-    "Fall2024/Forensic/Reading/r3.md",
-    "Fall2024/Forensic/Reading/r2.md",
     "Fall2024/Forensic/Videos",
-    "Fall2024/AI/Book/Ch1.md",
     "hw1.pdf",
     "Fall2024/Forensic/Class",
     "Fall2024/Forensic/Reading",
     "www.bestcolleges.com/research",
-    "www.bestcolleges.com",
-    "Fall2024/AI/Class",
-    "Fall2024/AI/Book3",
-    "Fall2024/AI/Book2",
     "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
     "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png",
     "Assets/rules-of-binary-addition.webp",

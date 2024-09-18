@@ -1,5 +1,5 @@
 
-[Back](Index.md)
+[Back](Fall2024/German3/Index.md)
 ### Wednesday 
 
 **Maskulin: -es + s**
@@ -33,4 +33,4 @@ Er hat ein prakatikun zu software technique gearbieten.
 
 ****
 
-[Back](Index.md)
+[Back](Fall2024/German3/Index.md)

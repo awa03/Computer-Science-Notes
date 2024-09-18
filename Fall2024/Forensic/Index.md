@@ -18,7 +18,7 @@
 - [How to Perform During Life's High Stake Moments](Videos/v1.md)
 
 ### Homework
-- [Presentation Outline](Homework/hw1.md)
+- [Presentation Outline](Fall2024/Forensic/Homework/hw1.md)
 
 ****
 

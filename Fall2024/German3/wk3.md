@@ -1,5 +1,5 @@
 
-[Back](Index.md)
+[Back](Fall2024/German3/Index.md)
 ### Monday 
 
 Nachdem Hannah den Schlüssel verloren hatte, rief sie Julia an.
@@ -30,4 +30,4 @@ in meine zimmer, big bed, 2 cats
 3. Nachdem ich gegessen habe, habe ich mich ausgeruht.
 4. Nachdem ich mich ausgeruht habe, habe ich wieder studiert.
 
-[Back](Index.md)
+[Back](Fall2024/German3/Index.md)
