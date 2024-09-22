@@ -6,6 +6,7 @@
 - [What is Forensics](Class/day1.,md)
 - [Best Practices](Class/day2.md)
 - [Legal role of the Digital Forensic Analyst](Class/day3,md)
+- [Deadbox v Live Forensics](Class/day4.md)
 
 ### Reading's
 

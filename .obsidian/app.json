@@ -5,10 +5,10 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "Legal",
+    "pageSize": "A5",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 60
+    "downscalePercent": 51
   },
   "showRibbon": false
 }
