@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Forensic/Class/day5.md",
+                "file": "Fall2024/AI/Class/n3.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/Forensic/Class/day5.md",
+                "file": "Fall2024/AI/Class/n3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/Forensic/Class/day5.md",
+                "file": "Fall2024/AI/Class/n3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/Forensic/Class/day5.md"
+                "file": "Fall2024/AI/Class/n3.md"
               }
             }
           },
@@ -159,8 +160,14 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
-    "Fall2024/AI/Class/n3.md",
+    "Fall2024/Data_Science/Class/lecture3.md",
+    "Fall2024/AI/Index.md",
+    "Fall2024/Data_Science/Index.md",
+    "Fall2024/AI/Book/Ch3.md",
+    "Fall2024/Forensic/Class/day6.md",
+    "Fall2024/AI/Book/Untitled",
     "Fall2024/Forensic/Class/day5.md",
+    "Fall2024/AI/Class/n3.md",
     "Study_Notes_2024/GRE/Vocab/v3.md",
     "Study_Notes_2024/GRE/index.md",
     "Study_Notes_2024/GRE/Vocab/v2.md",
@@ -174,7 +181,6 @@
     "Fall2024/AI/Homework/hw3.md",
     "Fall2024/AI/Book/Ch2.md",
     "Fall2024/AI/Homework/hw2.md",
-    "Fall2024/AI/Index.md",
     "Fall2024/AI/Class/n2.md",
     "Fall2024/AI/Class/n1.md",
     "Fall2024/Data_Science/Class/lecture1.md",
@@ -186,7 +192,6 @@
     "Fall2024/Forensic/Class/day4.md",
     "Fall2024/Forensic/Index.md",
     "Fall2024/Forensic/Class/day3.md",
-    "Fall2024/Data_Science/Index.md",
     "Fall2024/Data_Science/Book/CH2.md",
     "README.md",
     "Study_Notes_2024/GRE/Vocab",
@@ -196,10 +201,6 @@
     "Untitled 1.md",
     "outline.drawio.png",
     "outline.png",
-    "Fall2024/German3/wk4.md",
-    "Fall2024/AI/Homework/hw1.md",
-    "Fall2024/German3/Index.md",
-    "Fall2024/Forensic/Homework",
     "equation.png",
     "equation 2.png",
     "equation 1.png",
