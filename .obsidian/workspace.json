@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md",
+                "file": "Fall2024/Forensic/Class/day7.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md",
+                "file": "Fall2024/Forensic/Class/day7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md",
+                "file": "Fall2024/Forensic/Class/day7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md"
+                "file": "Fall2024/Forensic/Class/day7.md"
               }
             }
           },
@@ -160,14 +160,15 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
+    "Fall2024/Forensic/Class/day6.md",
+    "Fall2024/Forensic/Class/day7.md",
+    "Fall2024/AI/Class/n3.md",
     "Fall2024/Data_Science/Class/lecture3.md",
     "Fall2024/AI/Index.md",
     "Fall2024/Data_Science/Index.md",
     "Fall2024/AI/Book/Ch3.md",
-    "Fall2024/Forensic/Class/day6.md",
     "Fall2024/AI/Book/Untitled",
     "Fall2024/Forensic/Class/day5.md",
-    "Fall2024/AI/Class/n3.md",
     "Study_Notes_2024/GRE/Vocab/v3.md",
     "Study_Notes_2024/GRE/index.md",
     "Study_Notes_2024/GRE/Vocab/v2.md",
@@ -198,7 +199,6 @@
     "Study_Notes_2024/GRE",
     "Fall2024/German3/Untitled",
     "Fall2024/Data_Science/Homework",
-    "Untitled 1.md",
     "outline.drawio.png",
     "outline.png",
     "equation.png",
