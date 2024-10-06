@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\43763\Desktop\USB2:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 16,117,760
+[Physical Drive Information]
+ Removable drive: True
+ Source data size: 7870 MB
+ Sector count:    16117760
+[Computed Hashes]
+ MD5 checksum:    4fc08abffc5a9ecda7690c0118c14200
+ SHA1 checksum:   db5d266071a26859ad04c5f3e6caf9efcdbaa4ea
+
+Image Information:
+ Acquisition started:   Sat Oct  5 15:55:12 2024
+ Acquisition finished:  Sat Oct  5 15:56:06 2024
+ Segment list:
+  C:\Users\43763\Desktop\USB2.E01
+
+Image Verification Results:
+ Verification started:  Sat Oct  5 15:56:06 2024
+ Verification finished: Sat Oct  5 15:56:37 2024
+ MD5 checksum:    4fc08abffc5a9ecda7690c0118c14200 : verified
+ SHA1 checksum:   db5d266071a26859ad04c5f3e6caf9efcdbaa4ea : verified

@@ -27,3 +27,4 @@ A **graph** consists of a set of nodes and a set of **arcs** where an *arc* is a
 A graph is **directed** if the arcs are represented as ordered pairs of nodes. These directions are indicated by arrows. If $(N_1, N_2)$ and $(N_2, N_1)$ are arcs then their relationship is said to be *bidirectional*. However, if the arcs are represented as unordered pairs then it is said to be *undirected*. A graph may only be considered *undirected* if all of the arcs are *undirected*. 
 
 A *path* through a graph connects a sequence of nodes through successive arcs. A **rooted** graph has a unique node called the root such that there is a path from the root to every node within the graph. 
+

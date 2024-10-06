@@ -16,7 +16,7 @@
 
 ### Homework 
 - [Homework 1](Fall2024/AI/Homework/hw1.md)
-- [Homework 2](Homework/hw2.md)
+- [Homework 2](Fall2024/AI/Homework/hw2.md)
 
 
 

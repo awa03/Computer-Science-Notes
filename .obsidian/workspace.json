@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md",
+                "file": "Fall2024/German3/wk6.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md",
+                "file": "Fall2024/German3/wk6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md",
+                "file": "Fall2024/German3/wk6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Class/n3.md"
+                "file": "Fall2024/German3/wk6.md"
               }
             }
           },
@@ -159,25 +159,43 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
+    "Fall2024/Data_Science/Homework/hw1.md",
+    "Fall2024/Data_Science/Homework/hw2.md",
+    "Fall2024/Data_Science/Index.md",
+    "Fall2024/AI/Homework/hw4.md",
+    "graph7.drawio.png",
+    "graph6.drawio.png",
+    "graph5.drawio.png",
+    "graph4.drawio.png",
+    "graph3.drawio.png",
+    "graph2.drawio.png",
+    "graph1.drawio.png",
+    "Fall2024/AI/Book/Ch3.md",
+    "Fall2024/AI/Book2/Ch1.md",
+    "Fall2024/German3/wk6.md",
+    "Fall2024/HW_PDF/FORENSICS_2.tar",
+    "Fall2024/HW_PDF/hw1_aiden_allen.tar",
+    "Fall2024/HW_PDF/FORENSICS_2/USB_PIC_BACK.jpeg",
+    "Fall2024/HW_PDF/FORENSICS_2/USB_PIC_FRONT.jpeg",
+    "Fall2024/HW_PDF/FORENSICS_2/USB3.E01.txt",
+    "Fall2024/HW_PDF/FORENSICS_2/USB2.E01.txt",
+    "Fall2024/HW_PDF/FORENSICS_2/USB1.E01.txt",
+    "Fall2024/HW_PDF/FORENSICS_2/FORENSICS_2.pdf",
+    "Fall2024/HW_PDF/FORENSICS_2",
+    "Fall2024/HW_PDF/FORENSICS_2.pdf",
+    "Fall2023/COP4530/Hash_Table.md",
+    "Fall2024/Data_Science/Class/lecture3.md",
+    "Fall2024/AI/Class/n3.md",
     "Fall2024/AI/Class/prolog/car.pl",
     "Fall2024/Forensic/Class/day7.md",
     "Fall2024/Forensic/Class/day6.md",
-    "Fall2024/AI/Class/n3.md",
-    "Fall2024/Data_Science/Class/lecture3.md",
     "Fall2024/AI/Index.md",
-    "Fall2024/Data_Science/Index.md",
-    "Fall2024/AI/Book/Ch3.md",
     "Fall2024/AI/Book/Untitled",
     "Fall2024/Forensic/Class/day5.md",
     "Study_Notes_2024/GRE/Vocab/v3.md",
     "Study_Notes_2024/GRE/index.md",
     "Study_Notes_2024/GRE/Vocab/v2.md",
     "Study_Notes_2024/GRE/Vocab/index.md",
-    "Fall2024/HW_PDF/AI_3.pdf",
-    "Fall2024/HW_PDF/AI_2.pdf",
-    "Fall2024/HW_PDF/DS_1.pdf",
-    "Fall2024/HW_PDF",
-    "Fall2024/Homework_2024",
     "Study_Notes_2024/GRE/Vocab/v1.md",
     "Fall2024/AI/Homework/hw3.md",
     "Fall2024/AI/Book/Ch2.md",
@@ -186,24 +204,6 @@
     "Fall2024/AI/Class/n1.md",
     "Fall2024/Data_Science/Class/lecture1.md",
     "Fall2024/Data_Science/Class/lecture2.md",
-    "Fall2024/Data_Science/Homework/hw1.md",
-    "q1.drawio.png",
-    "d1.drawio.png",
-    "q7.drawio.png",
-    "Fall2024/Forensic/Class/day4.md",
-    "Fall2024/Forensic/Index.md",
-    "Fall2024/Forensic/Class/day3.md",
-    "Fall2024/Data_Science/Book/CH2.md",
-    "Study_Notes_2024/GRE/Vocab",
-    "Study_Notes_2024/GRE",
-    "Fall2024/German3/Untitled",
-    "Fall2024/Data_Science/Homework",
-    "outline.drawio.png",
-    "outline.png",
-    "equation.png",
-    "equation 2.png",
-    "equation 1.png",
-    "Study_Notes_2024/OpenCV_With_Python/Assets/root.png",
-    "Study_Notes_2024/OpenCV_With_Python/Assets/parent.png"
+    "q1.drawio.png"
   ]
 }
