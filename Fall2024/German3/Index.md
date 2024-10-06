@@ -6,6 +6,8 @@
 - [Week 3](wk3.md)
 - [Week 4](wk4.md)
 
+### Vocab
+- [day 1](day1.md)
 
 **Self Study Notes will now only be done in a notebook, as such, it will not be published through this medium**
 
