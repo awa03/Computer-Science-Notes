@@ -28,3 +28,11 @@ A graph is **directed** if the arcs are represented as ordered pairs of nodes. T
 
 A *path* through a graph connects a sequence of nodes through successive arcs. A **rooted** graph has a unique node called the root such that there is a path from the root to every node within the graph. 
 
+We can envision a machine as producing states to keep track of information about previous input values. A **finite state machine** (FSM) is a finite, directed, connected graph consisting of a set of states, input values, and a state transition function. Therefore a FSM can be understood as an abstraction model of computation. 
+
+**A** finite state machine is an ordered triple (S, I, F), where:
+**S** is a finite set of states in a connected graph $s_1, s_2, s_3, ... s_n$
+**I** is a finite set input values $i_1, i_2, i_3 ... i_m$
+**F** is a state transition function for any $i$. $I$, describes its effect on the states $S$ of the machine, thus ? i ? I, Fi (S ? S). If the machine is in state sj and the input i occurs, the next state of the machine will be Fi (sj).
+
+### State Space Representation of Problems
