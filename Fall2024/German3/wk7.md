@@ -29,3 +29,8 @@
 4. Die Manner tragen den scheweren Schrank.
 - Der schwere Schrank wird von den Männern getragen.
 
+### Kreative Schrieben
+1. Ich bin mit dem Auto in die Alpen gefahren.
+2. Das Wetter war sonnig und kühl.
+3. Ich war mit Freunden dort.
+4. Ich empfehle es, weil die Berge schön und ruhig sind.

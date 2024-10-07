@@ -6,98 +6,38 @@
 ### 5. “Hand run” the backtrack algorithm on the graph in Figure 3.29. Begin from state A. Keep track of the successive values of NSL, SL, CS, etc.
 
 
-
+| CS  | SL    | NSL        | DE          |
+| --- | ----- | ---------- | ----------- |
+| A   | A     | A          | [ ]         |
+| B   | BA    | BCDA       | [ ]         |
+| E   | EBA   | EFAGBCDA   | [ ]         |
+| J   | JEBA  | JKLEFABCDA | [ ]         |
+| K   | KEBA  | FBCDA      | [ ]         |
+| L   | LEBA  | EFGBCDA    | [ J K ]     |
+| F   | FBA   | BCDA       | [ J K ]     |
+| L   | LFBA  | EFGBCDA    | [ J K ]     |
+| A   | ABFA  | EFBCDA     | [ J K L ]   |
+| C   | CA    | BDA        | [  ]        |
+| G   | GCA   | BCDA       | [  ]        |
+| M   | MGCA  | GBCDA      | [  ]        |
+| N   | NGCA  | GBCDA      | [ M ]       |
+| H   | HGCA  | BCDA       | [ M N ]     |
+| O   | OHGCA | HGBCDA     | [ M N ]     |
+| P   | OHGCA | OHGBCDA    | [ M N O]    |
+| D   | DA    | BCA        | [ M N O P ] |
+| H   | HDA   | PBCDA      | [ O P ]     |
+| O   | OHDA  | HPBCDA     | [ O P ]     |
+| P   | PHDA  | OHPBCDA    | [ O P ]     |
+| I   | IDA   | HBCDA      | [ O P ]     |
+| P   | PIDA  | IHGBCDA    | [ O P P ]   |
+| R   | RIDA  | PIHGBCDA   | [ O P P R ] |
 
 
 ****
 <div style="page-break-after: always;"></div>
 
-### 6.  Implement a backtrack algorithm in a programming language of your choice
-
-```go
-package main
-
-import (
-	"fmt"
-)
-
-func isPar(c byte) bool {
-	return c == '(' || c == ')'
-}
-
-func isValidStr(s string) bool {
-	count := 0
-	for i := 0; i < len(s); i++ {
-		if s[i] == '(' {
-			count++
-		}
-		if s[i] == ')' {
-			count--
-		}
-		if count < 0 {
-			return false
-		}
-	}
-	return count == 0
-}
-
-func removeInvalidPar(s string) string {
-	if len(s) == 0 {
-		return "-1"
-	}
-
-	set := map[string]struct{}{}
-	queue := make([]string, 0)
-	queue = append(queue, s)
-	found := false
-	var result string
-
-	for len(queue) != 0 {
-		str := queue[0]
-		queue = queue[1:]
-
-		if isValidStr(str) {
-			found = true
-			result = str
-			break
-		}
-
-		if !found {
-			for i := 0; i < len(str); i++ {
-				if isPar(str[i]) {
-					newStr := str[:i] + str[i+1:]
-					if _, exists := set[newStr]; !exists {
-						queue = append(queue, newStr)
-						set[newStr] = struct{}{}
-					}
-				}
-			}
-		}
-	}
-
-	if found {
-		return result
-	}
-	return "-1"
-}
-
-func main() {
-	str := "()((())"
-	newStr := removeInvalidPar(str)
-
-	fmt.Println("Old string:", str)
-	fmt.Println("New string:", newStr)
-}
-```
-
-The above code is an example of a backtracking algorithm within go. This algorithm attempts to traverse a string of parentheses, correcting the extraneous parentheses. 
-
-The code is a **Goal Driven** algorithm because it explores each potential string by removing one parentheses at a time in order to reach a valid string. Once the goal is met the algorithm stops. Additionally, It uses a **BFS** in order to accomplish this. This can be characterized by the usage of a queue. This will also guarantee us that it will use the shortest path in order to optimally remove parentheses.
-
-****
-
-<div style="page-break-after: always;"></div>
-
+> [!NOTE] 
+> Both Question 7 and Question 8 are shown below in one section to improve readability.
 
 ### 7 & 8. Determine whether goal-driven or data-driven search would be preferable for solving each of the following problems. Justify your answer.  As chose DFS or BFS for each example.
 

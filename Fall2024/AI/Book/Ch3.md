@@ -36,3 +36,4 @@ We can envision a machine as producing states to keep track of information about
 **F** is a state transition function for any $i$. $I$, describes its effect on the states $S$ of the machine, thus ? i ? I, Fi (S ? S). If the machine is in state sj and the input i occurs, the next state of the machine will be Fi (sj).
 
 ### State Space Representation of Problems
+In a **state space representation** of a problem, the nodes in a problem correspond to partial problem solution states. The graph will describe goal conditions, and **state space search** describes problem solving as finding a path from the start position to the goal.  
