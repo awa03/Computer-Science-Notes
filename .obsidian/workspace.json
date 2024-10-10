@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Homework/hw4.md",
+                "file": "Fall2024/Data_Science/Homework/hw2.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/AI/Homework/hw4.md",
+                "file": "Fall2024/Data_Science/Homework/hw2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/AI/Homework/hw4.md",
+                "file": "Fall2024/Data_Science/Homework/hw2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/AI/Homework/hw4.md"
+                "file": "Fall2024/Data_Science/Homework/hw2.md"
               }
             }
           },
