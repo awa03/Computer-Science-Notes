@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Data_Science/Homework/hw2.md",
+                "file": "Fall2024/Data_Science/Class/lecture4.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/Data_Science/Homework/hw2.md",
+                "file": "Fall2024/Data_Science/Class/lecture4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/Data_Science/Homework/hw2.md",
+                "file": "Fall2024/Data_Science/Class/lecture4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/Data_Science/Homework/hw2.md"
+                "file": "Fall2024/Data_Science/Class/lecture4.md"
               }
             }
           },
@@ -160,15 +161,17 @@
   "active": "ac38940957429b43",
   "lastOpenFiles": [
     "Fall2024/Data_Science/Class/lecture3.md",
+    "Fall2024/Data_Science/Class/lecture4.md",
+    "Fall2024/Data_Science/Class/lecture2.md",
+    "Fall2024/Data_Science/Homework/hw2.md",
+    "Fall2024/German3/wk7.md",
     "Fall2024/AI/Homework/hw4.md",
     "Fall2024/AI/Book/Ch3.md",
-    "Fall2024/German3/wk7.md",
     "Fall2024/German3/Vocab/day1.md",
     "Fall2024/German3/Index.md",
     "Fall2024/German3/wk6.md",
     "Fall2024/German3/Vocab",
     "Fall2024/Data_Science/Homework/hw1.md",
-    "Fall2024/Data_Science/Homework/hw2.md",
     "Fall2024/Data_Science/Index.md",
     "graph7.drawio.png",
     "graph6.drawio.png",
@@ -202,8 +205,6 @@
     "Study_Notes_2024/GRE/Vocab/v1.md",
     "Fall2024/AI/Homework/hw3.md",
     "Fall2024/AI/Book/Ch2.md",
-    "Fall2024/AI/Homework/hw2.md",
-    "Fall2024/AI/Class/n2.md",
     "q1.drawio.png"
   ]
 }

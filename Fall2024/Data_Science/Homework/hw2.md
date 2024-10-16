@@ -1,6 +1,6 @@
 # Homework 2
 **Aiden Allen**
-****
+**Ben Semenov**
 
 ****
 
@@ -34,25 +34,25 @@ This table provides a clear, concise breakdown of the case report on thymoma met
 ### ChatGPT Response 2
 Based on the document provided, here is a structured table to organize the key details under appropriate categories:
 
-| **Category**                     | **Sub-Category**                  | **Details**                                                                                                                                     |
-|-----------------------------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Disease Overview**              | **Tumor Type**                    | Thymoma (Type B2) – a thymic epithelial tumor typically located in the mediastinum, considered moderate to high-risk.                            |
-|                                   | **Metastasis**                    | Rare extrathoracic metastasis, observed in skeletal muscle, specifically in the semimembranosus muscle.                                          |
-|                                   | **Incidence**                     | Thymoma represents 40% of all mediastinal tumors. Extrathoracic metastasis occurs in about 3-5% of cases, skeletal muscle involvement is rarer.  |
-| **Patient Information**           | **Demographics**                  | 84-year-old male patient.                                                                                                                       |
-|                                   | **History**                       | Previous Type B2 thymoma resection 14 years ago; follow-up nodule in the lung detected 5 years ago with no size change.                         |
-|                                   | **Current Condition**             | Presented with a painless 3 × 3 cm mass in the right posterior thigh.                                                                             |
-| **Symptoms and Diagnosis**        | **Symptoms**                      | Painless mass in the right posterior thigh. No limitations in hip or knee motion.                                                                |
-|                                   | **Imaging and Tests**             | - Radiographs: No calcification or scalloping of the femur.                                                                                      |
-|                                   |                                   | - MRI: Lesion low-intensity on T1WI, high-intensity on T2WI, enhanced after contrast administration.                                              |
-|                                   | **Differential Diagnosis**        | Neurogenic tumors, myxofibrosarcoma, leiomyosarcoma.                                                                                             |
-|                                   | **Biopsy and Histopathology**      | Histological examination confirmed metastasis with features of type B2 thymoma (neoplastic cells with round-to-oval nuclei and lymphocyte admixture). |
-| **Treatment and Prognosis**       | **Treatment**                     | Wide resection of the metastasis with a 1-cm margin.                                                                                            |
-|                                   | **Follow-Up**                     | No local recurrence observed at 1-year follow-up.                                                                                               |
-|                                   | **Prognosis Factors**             | Prognosis is influenced by histological subtype and presence of extrathoracic metastasis.                                                        |
-| **Additional Information**        | **Metastasis and Surgery**        | Complete resection improves survival rates, even in cases of metastasis. Debulking surgery may also be beneficial.                               |
-|                                   | **MRI Characteristics**           | Tumors have a smooth contour, round shape, distinct capsule, and varying signal intensities depending on aggressiveness.                         |
-|                                   | **FDG-PET**                       | Useful in distinguishing low-risk thymoma from carcinomas and detecting metastasis.                                                              |
+| **Category**                | **Sub-Category**              | **Details**                                                                                                                                           |
+| --------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Disease Overview**        | **Tumor Type**                | Thymoma (Type B2) – a thymic epithelial tumor typically located in the mediastinum, considered moderate to high-risk.                                 |
+|                             | **Metastasis**                | Rare extrathoracic metastasis, observed in skeletal muscle, specifically in the semimembranosus muscle.                                               |
+|                             | **Incidence**                 | Thymoma represents 40% of all mediastinal tumors. Extrathoracic metastasis occurs in about 3-5% of cases, skeletal muscle involvement is rarer.       |
+| **Patient Information**     | **Demographics**              | 84-year-old male patient.                                                                                                                             |
+|                             | **History**                   | Previous Type B2 thymoma resection 14 years ago; follow-up nodule in the lung detected 5 years ago with no size change.                               |
+|                             | **Current Condition**         | Presented with a painless 3 × 3 cm mass in the right posterior thigh.                                                                                 |
+| **Symptoms and Diagnosis**  | **Symptoms**                  | Painless mass in the right posterior thigh. No limitations in hip or knee motion.                                                                     |
+|                             | **Imaging and Tests**         | - Radiographs: No calcification or scalloping of the femur.                                                                                           |
+|                             |                               | - MRI: Lesion low-intensity on T1WI, high-intensity on T2WI, enhanced after contrast administration.                                                  |
+|                             | **Differential Diagnosis**    | Neurogenic tumors, myxofibrosarcoma, leiomyosarcoma.                                                                                                  |
+|                             | **Biopsy and Histopathology** | Histological examination confirmed metastasis with features of type B2 thymoma (neoplastic cells with round-to-oval nuclei and lymphocyte admixture). |
+| **Treatment and Prognosis** | **Treatment**                 | Wide resection of the metastasis with a 1-cm margin.                                                                                                  |
+|                             | **Follow-Up**                 | No local recurrence observed at 1-year follow-up.                                                                                                     |
+|                             | **Prognosis Factors**         | Prognosis is influenced by histological subtype and presence of extrathoracic metastasis.                                                             |
+| **Additional Information**  | **Metastasis and Surgery**    | Complete resection improves survival rates, even in cases of metastasis. Debulking surgery may also be beneficial.                                    |
+|                             | **MRI Characteristics**       | Tumors have a smooth contour, round shape, distinct capsule, and varying signal intensities depending on aggressiveness.                              |
+|                             | **FDG-PET**                   | Useful in distinguishing low-risk thymoma from carcinomas and detecting metastasis.                                                                   |
 
 This structure captures the important information and organizes it by category for easier analysis and understanding. Let me know if you'd like to add or modify any of the details!
 
@@ -197,7 +197,24 @@ Certainly. I'll merge the information from all four tables, consolidating duplic
 This consolidated table combines the information from all four responses, eliminating duplicates and organizing the data into a comprehensive overview of the case report.
 
 Within the combined tables there are a number of inaccuracies
-- 
+ 
+### Missing attributes / keywords
+- "small nodule in the lung" found 5 years after the thymoma resection
+- did not include the information that blood examination results were all in the normal range
+- The description of the tumor's cut surface as "white to tan red solid mass encapsulated in the muscle" was omitted.
+
+### Incorrectly extracted attributes/keywords:
+- "Thymoma represents 40% of all mediastinal tumors." The original document actually states "Thymoma is the most common tumor of the mediastinum accounting for up to 40% of all mediastinal tumors."
+- "Only one previous case of skeletal muscle metastasis (biceps brachii) reported" under "Rarity of extrathoracic metastasis." However, the original document states this is the second case, with only one previous case reported.
+
+### Incorrect Table Structure
+- created a separate category for "Additional Information" which isn't necessary and could be incorporated into other existing categories.
+- "Key Takeaways" section was added by the LLM and wasn't explicitly present in the original document. While not necessarily incorrect, it's an interpretation rather than a direct extraction.
+
+### Hallucinations
+- "Debulking surgery may provide survival advantage" under "Treatment strategies for metastatic thymoma." While the original document discusses debulking surgery, it doesn't explicitly state it provides a survival advantage for metastatic thymoma.
+- "Can help distinguish low-risk thymoma from carcinomas" under "Imaging tools" for FDG-PET. The original document only mentions distinguishing low-risk thymoma from other carcinomas, not specifically for FDG-PET.
+- "Complete resection or debulking surgery may provide survival advantage" which is an overgeneralization of the information provided in the original document.
 
 
 ****
