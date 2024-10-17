@@ -26,3 +26,14 @@
 - stores hundreds of terabytes of data
 - Bulk load
 - Real-time performance
+
+### Design
+
+- Read / write with a single row key is atomic
+	- Single row transactions
+- Data is stored in lexicographic order
+	- Improves performance
+	- Horizontally partitioned (tablets)
+- Version control 
+	- Recently crawled pages
+	- Old versions garbage collected
