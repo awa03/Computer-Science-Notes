@@ -47,7 +47,32 @@
 	- Manipulating Access control rights
 - Data manipulation language (DML)
 	- Writing / Deleting values
-	- Looking upp values with a key
+	- Looking up values with a key
 	- Iterate over a subset in a table
 - Bigtable can be used by MapReduce jobs
 
+### Compacting Tables
+- Keep memtables small
+- Minor: flush current memTable as SSTable to GFS
+- Merging:
+	- Read several SSTables and a memtable
+	- Flush a new merged SSTable
+- Major: 
+	- Merge current memTable and all SSTables 
+	- Flush a new SSTable
+
+### Optimizations
+- SSTables Compression
+- SSTables Caching
+- One log per tablet server instead of per tablet 
+- Vertical partitioning
+	- Segregate column groups that are usually accessed together into separate tables
+
+### Summary
+- Big Table - large scale storage engine for structured data
+- Highly available and fault tolerant
+- Scales incrementally
+- Consistency
+	- Operations on rows are atomic
+	- Tablets serve by one tablet server at a time
+	
