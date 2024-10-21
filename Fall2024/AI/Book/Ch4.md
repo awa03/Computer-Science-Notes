@@ -14,6 +14,6 @@ Given a tik tak toe board we can see that there are 9 possible inital moves. Wit
 - Middle X (First Move): 2 possible wins
 
 ### Hill Climbing
-
+Hill climbing algorithms expand the search to evaluating the children ensuring that the best child is selected. This comes with the disadvantage of being tricked by a local maximum. Since hill climbing algorithms store no history, the algorithm cannot recover from this falter. Often, in order to move a particular tile to its destination, other tiles already in goal position need be moved out. Some games for example require you to enter a worse position in order to achieve a better one, and since this algorithm has no memory it cannot distinguish between the local maxima and the global maxima. 
 
 

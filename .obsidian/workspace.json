@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/AI/Book/Ch4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Ch4"
             }
           }
         ]
@@ -177,9 +177,9 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
+    "Fall2024/AI/Index.md",
     "Fall2024/AI/Book/Ch3.md",
     "Fall2024/AI/Book/Ch4.md",
-    "Fall2024/AI/Index.md",
     "Fall2024/AI/Book/Ch1.md",
     "Fall2024/AI/Book/Ch2.md",
     "Fall2024/Forensic/Homework/mod_2_1.md",
