@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Data_Science/Class/lecture4.md",
+                "file": "Fall2024/AI/Index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -44,7 +46,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -52,7 +56,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -62,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -70,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -87,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall2024/Data_Science/Class/lecture4.md",
+                "file": "Fall2024/German3/wk8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for wk8"
             }
           },
           {
@@ -104,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall2024/Data_Science/Class/lecture4.md",
+                "file": "Fall2024/German3/wk8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from wk8"
             }
           },
           {
@@ -118,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2024/Data_Science/Class/lecture4.md"
-              }
+                "file": "Fall2024/German3/wk8.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of wk8"
             }
           },
           {
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -160,13 +177,25 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
-    "Fall2024/Data_Science/Class/lecture3.md",
+    "Fall2024/AI/Book/Ch3.md",
+    "Fall2024/AI/Book/Ch4.md",
+    "Fall2024/AI/Index.md",
+    "Fall2024/AI/Book/Ch1.md",
+    "Fall2024/AI/Book/Ch2.md",
+    "Fall2024/Forensic/Homework/mod_2_1.md",
+    "Fall2024/Forensic/Homework/mod_2_2.md",
+    "pic3.png",
+    "pic4.png",
+    "pic1.png",
+    "pic2.png",
+    "Fall2024/Forensic/Homework/hw1.md",
+    "Fall2024/German3/wk8.md",
+    "Fall2024/German3/wk7.md",
     "Fall2024/Data_Science/Class/lecture4.md",
+    "Fall2024/Data_Science/Class/lecture3.md",
     "Fall2024/Data_Science/Class/lecture2.md",
     "Fall2024/Data_Science/Homework/hw2.md",
-    "Fall2024/German3/wk7.md",
     "Fall2024/AI/Homework/hw4.md",
-    "Fall2024/AI/Book/Ch3.md",
     "Fall2024/German3/Vocab/day1.md",
     "Fall2024/German3/Index.md",
     "Fall2024/German3/wk6.md",
@@ -179,12 +208,9 @@
     "graph4.drawio.png",
     "graph3.drawio.png",
     "graph2.drawio.png",
-    "graph1.drawio.png",
     "Fall2024/AI/Book2/Ch1.md",
     "Fall2024/HW_PDF/FORENSICS_2.tar",
     "Fall2024/HW_PDF/hw1_aiden_allen.tar",
-    "Fall2024/HW_PDF/FORENSICS_2/USB_PIC_BACK.jpeg",
-    "Fall2024/HW_PDF/FORENSICS_2/USB_PIC_FRONT.jpeg",
     "Fall2024/HW_PDF/FORENSICS_2/USB3.E01.txt",
     "Fall2024/HW_PDF/FORENSICS_2/USB2.E01.txt",
     "Fall2024/HW_PDF/FORENSICS_2/USB1.E01.txt",
@@ -196,15 +222,6 @@
     "Fall2024/AI/Class/prolog/car.pl",
     "Fall2024/Forensic/Class/day7.md",
     "Fall2024/Forensic/Class/day6.md",
-    "Fall2024/AI/Index.md",
-    "Fall2024/Forensic/Class/day5.md",
-    "Study_Notes_2024/GRE/Vocab/v3.md",
-    "Study_Notes_2024/GRE/index.md",
-    "Study_Notes_2024/GRE/Vocab/v2.md",
-    "Study_Notes_2024/GRE/Vocab/index.md",
-    "Study_Notes_2024/GRE/Vocab/v1.md",
-    "Fall2024/AI/Homework/hw3.md",
-    "Fall2024/AI/Book/Ch2.md",
-    "q1.drawio.png"
+    "Fall2024/Forensic/Class/day5.md"
   ]
 }
