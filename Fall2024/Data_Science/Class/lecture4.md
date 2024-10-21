@@ -37,3 +37,17 @@
 - Version control 
 	- Recently crawled pages
 	- Old versions garbage collected
+		- Only last n versions
+		- Only values written in the last X days
+
+### API
+
+- Data definition language (DDL)
+	- Creating / deleting tables
+	- Manipulating Access control rights
+- Data manipulation language (DML)
+	- Writing / Deleting values
+	- Looking upp values with a key
+	- Iterate over a subset in a table
+- Bigtable can be used by MapReduce jobs
+
