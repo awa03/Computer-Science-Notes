@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Data_Science/Class/lecture4.md",
+                "file": "Fall2024/AI/Homework/hw7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture4"
+              "title": "hw7"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -152,8 +153,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -177,10 +178,16 @@
   },
   "active": "ac38940957429b43",
   "lastOpenFiles": [
-    "Fall2024/AI/Homework/hw6.md",
-    "tiles_B_W.drawio.png",
-    "Fall2024/AI/Homework/hw4.md",
+    "Fall2024/AI/Book/Ch5.md",
+    "Fall2024/AI/Homework/hw7.md",
     "Fall2024/AI/Book/Ch4.md",
+    "Screenshot 2024-11-04 at 12-37-31 07_Chapter_06.pdf - 07_Chapter_06.pdf.png",
+    "Fall2024/AI/Homework/hw4.md",
+    "Fall2024/AI/Homework/hw6.md",
+    "Screenshot 2024-11-01 at 17-04-13 05_Chapter_03.pdf - 05_Chapter_03.pdf.png",
+    "Untitled.md",
+    "Fall2024/Data_Science/Class/lecture4.md",
+    "tiles_B_W.drawio.png",
     "Fall2024/AI/Index.md",
     "Fall2024/AI/Book/Ch3.md",
     "Fall2024/AI/Book/Ch1.md",
@@ -194,7 +201,6 @@
     "Fall2024/Forensic/Homework/hw1.md",
     "Fall2024/German3/wk8.md",
     "Fall2024/German3/wk7.md",
-    "Fall2024/Data_Science/Class/lecture4.md",
     "Fall2024/Data_Science/Class/lecture3.md",
     "Fall2024/Data_Science/Class/lecture2.md",
     "Fall2024/Data_Science/Homework/hw2.md",
@@ -207,8 +213,6 @@
     "graph7.drawio.png",
     "graph6.drawio.png",
     "graph5.drawio.png",
-    "graph4.drawio.png",
-    "graph3.drawio.png",
     "Fall2024/AI/Book2/Ch1.md",
     "Fall2024/HW_PDF/FORENSICS_2.tar",
     "Fall2024/HW_PDF/hw1_aiden_allen.tar",
@@ -218,9 +222,6 @@
     "Fall2024/HW_PDF/FORENSICS_2/FORENSICS_2.pdf",
     "Fall2024/HW_PDF/FORENSICS_2",
     "Fall2024/HW_PDF/FORENSICS_2.pdf",
-    "Fall2023/COP4530/Hash_Table.md",
-    "Fall2024/AI/Class/n3.md",
-    "Fall2024/AI/Class/prolog/car.pl",
-    "Fall2024/Forensic/Class/day7.md"
+    "Fall2024/AI/Class/prolog/car.pl"
   ]
 }

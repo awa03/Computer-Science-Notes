@@ -1,11 +1,14 @@
 {
-  "accentColor": "#ccb524",
-  "cssTheme": "Encore",
+  "accentColor": "#1c54c4",
+  "cssTheme": "Border",
   "translucency": true,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "main",
     "status",
     "dash"
-  ]
+  ],
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "textFontFamily": "0xProto Nerd Font Mono",
+  "interfaceFontFamily": "0xProto Nerd Font Mono"
 }
