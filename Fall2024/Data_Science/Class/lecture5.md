@@ -39,5 +39,16 @@ file.map(lamba rec: (rec.type, 1))
 ```
 
 
-
 ****
+
+### Data Model
+
+- Semi-relational (relational with a few difference)
+	- Each relation has to have <u>at least one primary key</u>
+	- Several primary keys should be ordered
+	- Relations have to be grouped into hierarchies and partitioned
+- Adoption of semi-relational data model + synchronous replication on top of Big-table led to development of spanner
+- Spanner turned into a global temporal multi-version large scale semi-relational data store
+- SQL-based query language
+
+### Version Control

@@ -48,6 +48,10 @@ We will be examining the following tree in order to describe the way in which th
 
 ****
 
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
 **5) Using the move and path definitions for the knight’s tour of Example 6.1.1, do the following:**
 
 - Trace the execution of pattern search (the second version) of Section 6.1.2 on the goal path(1,9). Your trace should follow the example showing the trace for the goal path(1,2).
@@ -151,6 +155,10 @@ For _path(7, 6)_, the algorithm would move to a position such as $move(7, 3)$ or
 
 ****
 
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
 __7) Using the rule in Example 6.1.2 as a model, write the eight move rules needed for the full 8 × 8 version of the knight’s tour.__
 
 1) move(X, Y, X2, Y2) :- X2 is X + 2, Y2 is Y + 1, X2 >= 1, X2 =< 8, Y2 >= 1, Y2 =< 8.
@@ -163,6 +171,10 @@ __7) Using the rule in Example 6.1.2 as a model, write the eight move rules need
 8) move(X, Y, X2, Y2) :- X2 is X - 1, Y2 is Y - 2, X2 >= 1, X2 =< 8, Y2 >= 1, Y2 =< 8.
 
 ****
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 __8) Using the start and goal states of Figure 5, hand run the given production system solution
 to the 8-puzzle:__
@@ -237,6 +249,11 @@ _Goal Driven_:
 
 ****
 
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
 __9) Consider the financial advisor problem discussed in Chapters 2, 3, and 4.__
 
 - Write the problem explicitly as a production system.
@@ -244,17 +261,37 @@ __9) Consider the financial advisor problem discussed in Chapters 2, 3, and 4.__
 
 
 _Production Set_:
-- Goal State in working memory (current or goal square) -> halt
-- min_savings := dependents * (amount_per) + base_min_savings
-- Savings Amount >= min_savings : Investment(stocks)
-- Savings Amount < min_savings : Investment(savings)
-- Min Savings less -> Backtrack
+- If their savings is greater than the minimum required, given the dependents then their savings are adequate
+- If their earnings are steady, and their income is greater than the minimum income then income is considered adequate
+- if their income is not steady then their earnings are inadequate
+- advise a combination if their savings is adequate and their income is inadequate
+- advise stocks if their savings are adequate
+- advise savings if their earnings are inadequate
 
 _Control Regime_:
 - Try each valid selection
 - Stop when the goal is found
 
+
+| State       | Income, Savings            | Dependents | Income | Savings | Min Savings | Min Income |
+| ----------- | -------------------------- | ---------- | ------ | ------- | ----------- | ---------- |
+| Stocks      | Adequate, Adequate         | 1          | 25000  | 22000   | 5000        | 19000      |
+| Combination | Inadequate, Adequate       | 3          | 25000  | 20000   | 15000       | 31000      |
+| Savings     | Adequate,<br>Inadequate    | 4          | 100000 | 0       | 20000       | 19000      |
+| Savings     | Inadequate, <br>Inadequate | 1          | 0      | 0       | 4000        | 19000      |
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
 ****
 
 __10) Repeat problem 9.b to produce a goal-driven solution.__
+
+
+| Goal        | Conditions                                              | Necessary Info                                           |
+| ----------- | ------------------------------------------------------- | -------------------------------------------------------- |
+| Stocks      | If both the savings and income is adequate              | check income level, savings amount, number of dependents |
+| Combination | If the Savings is adequate and the income is inadequate | check income level, savings amount, number of dependents |
+| Savings     | If the Savings in inadequate                            | check savings level and number of dependents             |
 
