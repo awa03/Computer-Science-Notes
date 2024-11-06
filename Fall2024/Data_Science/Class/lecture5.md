@@ -73,3 +73,12 @@ Instantaneous error bound $\epsilon$
 ****
 ## Google TPU
 
+- Map / Reduce and spark based machine learning frameworks
+	- Very slow and energy inefficent at scale 
+- __First Generation TPU__ 
+	- Classification stage implemented within hardware
+- __Architecture (1st Generation TPU)__ 
+	- Matrix Multiply Unit (MMU) (_yellow_) 
+	- Weight FIFO (_blue_) -> (MMU)
+	- Unified Buffer (_blue_) -> (MMU)
+	- MMU -> Accumulators
