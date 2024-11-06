@@ -52,3 +52,24 @@ file.map(lamba rec: (rec.type, 1))
 - SQL-based query language
 
 ### Version Control
+
+- Based on global timestamps
+- Correspond to valid global serialization order
+- T0 commits before T1 starts 
+	- T0's timestamp < T1's timestamp 
+
+
+### True Time API
+
+Methods
+- `TT.now()` returns TTinterval (earliest, latest)
+- `TT.after(t)` - returns true if time is after case
+
+Instantaneous error bound $\epsilon$ 
+- Define $\epsilon$ = (latest - earliest) / 2
+- $\epsilon$ can be set based on the worst case of clock drift
+- $\epsilon$ depends on the master time uncertainty and communication delay 
+
+****
+## Google TPU
+
