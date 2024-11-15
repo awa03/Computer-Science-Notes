@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/AI/Index.md",
+                "file": "Fall2024/Data_Science/Class/lecture6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "lecture6"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 421.5042676925659,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -192,16 +193,28 @@
   },
   "active": "d4910ca11cfd676a",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Fall2024/Data_Science/Class/lecture6.md",
+    "Untitled",
+    "Fall2024/German3/wk12.md",
+    "Fall2024/German3/wk10.md",
+    "Fall2024/AI/Homework/Hw9.md",
+    "bfs.png",
+    "DFS_8Puzz.png",
+    "Assets/q7.drawio.png",
+    "Fall2024/AI/Book2/Ch4.md",
+    "Fall2024/AI/Book2/Ch1.md",
+    "Fall2024/AI/Book/Ch1.md",
+    "Fall2024/AI/Index.md",
     "Fall2024/AI/Book/Ch6.md",
-    "wk10.md",
     "Fall2024/German3/wk8.md",
     "Fall2024/AI/Homework/hw8.md",
     "Fall2024/Data_Science/Class/lecture5.md",
-    "king_1_out.png",
-    "king_2_out 1.png",
-    "king_2_out.png",
+    "Assets/king_1_out.png",
+    "Assets/king_2_out 1.png",
+    "Assets/king_2_out.png",
     "Fall2024/AI/Homework/hw7.md",
-    "farmer-goat.png",
+    "Assets/farmer-goat.png",
     "Fall2024/AI/Book/Ch4.md",
     "Screenshot 2024-11-04 at 12-37-31 07_Chapter_06.pdf - 07_Chapter_06.pdf.png",
     "Fall2024/AI/Homework/hw4.md",
@@ -210,25 +223,13 @@
     "Untitled.md",
     "Fall2024/Data_Science/Class/lecture4.md",
     "tiles_B_W.drawio.png",
-    "Fall2024/AI/Index.md",
     "Fall2024/AI/Book/Ch3.md",
-    "Fall2024/AI/Book/Ch1.md",
     "Fall2024/AI/Book/Ch2.md",
     "Fall2024/Forensic/Homework/mod_2_1.md",
     "Fall2024/Forensic/Homework/mod_2_2.md",
-    "pic3.png",
-    "pic4.png",
-    "pic1.png",
     "Fall2024/Forensic/Homework/hw1.md",
     "Fall2024/German3/wk7.md",
-    "Fall2024/Data_Science/Class/lecture3.md",
-    "Fall2024/Data_Science/Class/lecture2.md",
-    "Fall2024/Data_Science/Homework/hw2.md",
-    "Fall2024/German3/Vocab/day1.md",
-    "Fall2024/German3/Index.md",
-    "Fall2024/German3/wk6.md",
     "Fall2024/German3/Vocab",
-    "Fall2024/Data_Science/Homework/hw1.md",
     "Fall2024/HW_PDF/FORENSICS_2.tar",
     "Fall2024/HW_PDF/hw1_aiden_allen.tar",
     "Fall2024/HW_PDF/FORENSICS_2/USB3.E01.txt",
@@ -236,7 +237,6 @@
     "Fall2024/HW_PDF/FORENSICS_2/USB1.E01.txt",
     "Fall2024/HW_PDF/FORENSICS_2/FORENSICS_2.pdf",
     "Fall2024/HW_PDF/FORENSICS_2",
-    "Fall2024/HW_PDF/FORENSICS_2.pdf",
-    "Fall2024/AI/Class/prolog/car.pl"
+    "Fall2024/HW_PDF/FORENSICS_2.pdf"
   ]
 }
