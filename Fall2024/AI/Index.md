@@ -9,7 +9,7 @@
 - [Chapter 2: Formal Logic](Book/Ch2.md)
 - [Chapter 3: State Space Search](Book/Ch3.md)
 - [Chapter 4: Heuristic Search](Book/Ch4.md)
-- [Chapter 6: Building Control Algorithms](Book/ch5.md)
+- [Chapter 6: Building Control Algorithms](Book/ch6.md)
 
 ### AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java (Luger) Notes
 
