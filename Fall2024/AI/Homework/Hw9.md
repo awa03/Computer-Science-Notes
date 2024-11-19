@@ -16,4 +16,9 @@ __Breadth First Search__
 
 __Best First Search__ 
 
+![[best.png]]
 
+
+__Planner__
+
+![[planner.png]]
