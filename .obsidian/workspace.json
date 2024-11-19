@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2024/Data_Science/Class/lecture6.md",
+                "file": "Fall2024/AI/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture6"
+              "title": "Index"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5042676925659,
-    "collapsed": true
+    "width": 421.5042676925659
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -193,13 +192,13 @@
   },
   "active": "d4910ca11cfd676a",
   "lastOpenFiles": [
+    "Fall2024/Data_Science/Class/lecture6.md",
     "Study_Notes_2024/Regex/Index.md",
     "Study_Notes_2024/Regex/Explain1.md",
     "Fall2024/German3/wk13.md",
     "Fall2024/AI/Homework/Hw9.md",
     "best.png",
     "planner.png",
-    "Fall2024/Data_Science/Class/lecture6.md",
     "Untitled 1.md",
     "Untitled",
     "Fall2024/German3/wk12.md",
