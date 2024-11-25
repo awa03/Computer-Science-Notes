@@ -14,6 +14,7 @@
 ### AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java (Luger) Notes
 
 - [Chapter 1:  Language Idioms and the Master Programmer](Book2/Ch1)
+- [Chapter 4: Production System in Prolog](Book2/Ch4.md)
 
 ### Homework 
 

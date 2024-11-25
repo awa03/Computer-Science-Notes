@@ -19,5 +19,7 @@ _Federation_: Everybody talks directly to everyone else
 _Warehouse_: Sources are translated from their local schema to a global schema and copied to a central DB
 _Mediator_: a virtual warehouse allowing for distributed communication
 
+****
+### SQL Review
 
-
+- The `SELECT` statement allows us to select data from one or more tables. 
