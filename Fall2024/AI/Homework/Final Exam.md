@@ -39,7 +39,6 @@ __2 A) The Resolution inference rule says “From P ∨ Q and ¬Q ∨ R infer P 
 | F   | F   | F   | F     | F      | F     |
 
 __2 B) Give a semantic argument that explains why ∃XP (X) is logically equivalent with ¬∀X¬P(X)__
-
 First we will lay each argument out verbally to better understand the proposed argument. 
 
 - _∃XP (X)_: There Exists X such that P(X) is True, meaning that there is at least one element X such that P(X) is true
@@ -49,7 +48,6 @@ Therefore if within, _∃XP (X)_, we are stating that there must be an X that le
 
 __2 C) if X does not occur free in Q, then ∀X(P (X) → Q)
 is semantically equivalent with ∃XP (X) → Q. Give an example to show that these formulas will not necessarily be equivalent if X does occur free in Q.__
-
 Lets first define our predicates to try and further understand why the formulas will not necessarily be equivalent if X does occur free in Q. 
 - P(X): X is a cat
 - Q: X is small
@@ -79,3 +77,92 @@ So they are not semantically equivalent, since the first formula holds true in a
 
 ____
 
+__3 A) Consider the expressions ancestor(X, Y ) and ancestor(dan, aaron). Give a unifying substitution, if there is one, or explain why they can’t be unified if there isn’t.__
+Unification is the process of finding a substitution of variables that makes the terms the same. To unify the given statements we need to find a substitution for X and Y such that ancestor(X, Y) becomes ancestor(dan, aaron).
+
+We can do this through `X = dan` and `Y = aaron`. Thus the unification is then `{X/dan, Y/aaron}`. In other words, we can substitute X for dan and Y for aaron, and conclude a unifyed solution does indeed exist.
+
+__3 B) Consider the expressions ancestor(X, father(X)) and ancestor(aaron, dan), and assume it is known that dan = father(aaron). Give a unifying substitution, if there is one, or explain why they can’t be unified if there isn’t.__
+We know the the X within `ancestor(X, father(X))` to be `aaron`, given that `dan = father(aaron)`. Since we know that `father(aaron) = dan`, we can substitute the statement `father(aaron)` with `dan`. This leaves us with `ancestor(aaron, dan)`. Thus the unifying statement is `{X/aaron}`.
+
+__3 C) Give the composition of the substitutions {a/Z, Y /X} and {Z/W, b/Y} in that order.__  
+
+1. First Substitution
+
+$$
+a/Z,Y/X
+$$
+
+The given substitution means that we may substitute all occurrences of `Z` with `a`, and all occurrences of `X` with `Y`. 
+
+
+2. Second Substitution
+$$
+Z/W, b/Y
+$$
+The given substitution means that we may substitute all occurrences of `W` with `Z`, and all occurrences of `Y` with `b`.
+
+When applying these substitutions, the fist substitution contains `Z` so we will replace its occurrence with `a`, then `Z` is also associated with `W`. So we will replace `Z` with `W`, but since we have already replaced it with `a` we will replace it then apply our second substitution. This will apply no change at all since our `Z` was already replaces by `a`.
+
+In replacing `b/Y`, `Y` is associated with `X`, as well as with `b`. We will replace it with `b` since we are using the second substitution. Thus applying our first substitution will yield:
+
+$$
+{a/Z, X/b, Y/X}
+$$
+
+And our second substitution will result in the following: 
+
+$$
+{a/Z, X/b, Y/X}
+$$
+
+****
+
+__4 A) Write a statement that says that Jill is female.__
+We can say that Jill is female through the following Prolog statement: `Jill(female)`.
+
+__4 B) Write a statement that says that John is a parent of Jill.__
+We can say that John is the parent of Jill through the following Prolog statement: `Parent(Jill, John)`
+
+__4 C) Write a statement that says that X is the mother of Y if X is a parent of Y and X is female__
+
+
+****
+
+__5 A) What is the size of the domain of the smallest possible model for the statements a–g.__  
+
+****
+
+__6 A) Write Prolog statements that express as many as possible of the statements described in Question 4 (parts a through g), and, for any statement that cannot be so expressed, explain why.__ 
+
+****
+
+__7 A) The Prolog implementation of this system is given in Chapter 2 of the supplementary text. Turn in a copy of this program but where the individual in concern has 2 dependents, a steady income of $30,000 per year, and $20,000 in savings. Run this program and give a screen shot showing the result.__ 
+
+****
+
+__8 A) What is a heuristic?__ 
+A heuristic is a guiding rule, essentially used to guide the program in decision making. This makes for more efficient traversal since there are rules in place to guide decisions, ignoring or skipping past non relevant paths within search. 
+
+__8 B) What is represented by the two main components of a heuristic evaluation function.__
+The cost so far $g(n)$. This represents the actual cost from the start node to the node $n$. For instance this can represent the number of nodes needed for travel from the start node to the current node. 
+
+The cost to the goal $h(n)$. This represents the cost from the node $n$ to the goal node. This is an estimate, and it will inform our search on moving efficiently. 
+
+Combined these form $f(n) = g(n) + h(n)$.
+
+__8 C) What is an algorithm of type A?__
+An algorithm of type A commonly refers to an algorithm which is guided by an evaluation function within a state space search. This algorithm uses a best first search in order to prioritize exploration of some nodes, in order to more efficiently reach the solution node. 
+
+__8 D) What is an algorithm of type A*?__
+An algorithm of type A* commonly refers to informed algorithms that attempt to find the optimal solution path within a search space. This is accomplished through the combination of cost search and a greedy best first search, utilizing a heuristic evaluation to guide the search path. 
+
+__8 E) How is the “open” list managed in depth-first, breadth-first, and best-first searches?__ 
+Within a Depth First Search (DFS), a _stack_ is used to manage the open list. Within this stack new nodes are added to the top of the list and removed from the top as well. This is more memory efficient as only the currently traversed path needs to be stored, however it maybe less efficient in finding the goal path since only one path may be searched at a time. 
+
+Within a Breadth First Search (BFS), a _queue_ is used to manage the open list. Within a queue the current state is added to the bottom of the list, while states are removed from the top. A queue will allow us to traverse all states at the same level, allowing us to search each path in parallel until the goal path is reached. This comes with the advantage that the shortest path (unweighted) to the goal node will be found, but also the disadvantage of utilizing more memory than the former. 
+
+Within a Best First Search (BFS), a _priority queue_ is used to manage the open list. A priority queue will remove only the highest (or lowest given a min heap) heuristic evaluation state. This will allow for prioritizing the most promising paths, gaining an advantage over DFS efficency and BFS memory usage. A best first search requires a heuristic evaluation function in order to determine the promise of each node, in guiding the search space. 
+
+
+____
