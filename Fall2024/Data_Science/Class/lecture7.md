@@ -36,3 +36,4 @@ $$
 - Can be expressed as computing <u>eigenvectors</u> for a matrix
 - Page rank really has nothing to do with the user query. It is just the ranking of a certain webpage. 
 	- Means we need features for the ranking function. This is why we have <u>Dynamic Features</u>
+- 
