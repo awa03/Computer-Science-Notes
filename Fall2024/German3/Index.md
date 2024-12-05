@@ -14,6 +14,7 @@
 - [Week 11](wk11.md)
 - [Week 12](wk12.md)
 - [Week 13](wk13.md)
+- [Week 14](wk14.md)
 
 ### Vocab
 - [day 1](day1.md)
