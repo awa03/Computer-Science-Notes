@@ -119,21 +119,108 @@ $$
 ****
 
 __4 A) Write a statement that says that Jill is female.__
-We can say that Jill is female through the following Prolog statement: `Jill(female)`.
+We can say that Jill is female through the following Prolog statement: `female(Jill)`.
 
 __4 B) Write a statement that says that John is a parent of Jill.__
-We can say that John is the parent of Jill through the following Prolog statement: `Parent(Jill, John)`
+We can say that John is the parent of Jill through the following Prolog statement: `Parent(John, Jill)`
 
 __4 C) Write a statement that says that X is the mother of Y if X is a parent of Y and X is female__
 
+Below is the statement expressing that if a parent is female than they are the mother.
+
+$$
+\forall X \forall Y (parent(X, Y) \land female(X) \implies mother(X, Y))
+$$
+
+__4 D) Write a statement that says that X and Y are siblings if they have a common parent__
+
+The statement below outlines that if there exists a Z such that the parent of both X and Y is Z, and X and Y are not the same person, then this would imply that they are siblings.  
+
+$$
+\forall X \forall Y (\exists Z (parent(Z, Y) \land parent(Z, Y) \land X \ne Y)) \implies sibling(X, Y)
+$$
+
+__4 E) Write a pair of statements that define the ancestor relation in terms of the parent relation.__
+
+Since this problem requires a recursive solution we need to begin by defining our base case. This will show that an ancestor is directly related to X, and Y. 
+
+$$
+\forall X \forall Y (parent(X, Y) \implies ancestor(X, Y))
+$$
+
+In order to further our search space, adding non direct ancestors, we need to implement a recursive case. 
+
+$$
+\forall X \forall Y \forall Z (parent(X, Z) \land ancestor(Z, Y) \implies ancestor(X, Y))
+$$
+
+__4 F) Write a statement that says that everyone has an ancestor__
+
+$$
+\forall X \exists Y(ancestor(Y, X))
+$$
+
+__4 G) Write a statement that says that no one can be his or her own ancestor.__
+
+$$
+\forall X (\lnot ancestor(X, X))
+$$
 
 ****
 
 __5 A) What is the size of the domain of the smallest possible model for the statements a–g.__  
 
+First we need to define the constraints given in statements a-g. These are as follows
+
+1) Jill must be female
+2) One parent must exists of Jills
+3) The ancestors are describer transitively
+4) We cannot have someone be their own ancestor
+
+Therefore we can see the minimum domain using the constraints above to be 2. Since we are only required to have a female Jill, and a parent of Jills. 
+
+__5 B) What is the size of the domain of the smallest possible model for the statements a–f__ 
+
+Removing the _looping constraint_ we are now allowed to state that X can be an ancestor of X. This means that X can be their own parent, because of this our space is reduced to 1. However if we are to require X to not equal Y then our space will remain 2. 
+
 ****
 
 __6 A) Write Prolog statements that express as many as possible of the statements described in Question 4 (parts a through g), and, for any statement that cannot be so expressed, explain why.__ 
+
+```
+% jill is a female 
+female(jill).
+```
+
+```
+% john is a parent of jill 
+parent(john, jill).
+```
+
+```
+% x and y are siblings if they have a common parent %
+sibling(X, Y) :- parent(Z, X), parent(Z, Y), X \= Y.
+```
+
+```
+% base case
+ancestor(X, Y) :- parent(X, Y).
+
+% recursive case 
+ancestor(X, Y) :- parent(X, Z), ancestor(Z, Y).
+```
+
+```
+% everyone must have an ancestor
+ancestor(_, X).
+```
+
+```
+% you cannot be your own ancestor
+:- ancestor(X, X).
+```
+
+
 
 ****
 
@@ -164,5 +251,56 @@ Within a Breadth First Search (BFS), a _queue_ is used to manage the open list. 
 
 Within a Best First Search (BFS), a _priority queue_ is used to manage the open list. A priority queue will remove only the highest (or lowest given a min heap) heuristic evaluation state. This will allow for prioritizing the most promising paths, gaining an advantage over DFS efficency and BFS memory usage. A best first search requires a heuristic evaluation function in order to determine the promise of each node, in guiding the search space. 
 
+****
+
+__9 A) Which of these four heuristics are monotone? Explain why you think this (if possible, give a proof). If you don’t have a complete or precise explanation, give your best opinion.__
+
+In the example of _tiles out of place_, we would consider this to be monotone since moving a tile closer to the goal position will decrease the cost to the goal by at most 1, which is the same if not less than the cost of moving one tile. 
+
+The _Sum of the distance out of place_ heuristic is also monotone. This is because the distances will always be decreased by one, the same as the cost needed to reach the goal position. 
+
+The _2 × the number of direct tile reversals_ is however not monotone. This is because moving one tile may result in tiles needing multiple reversals, increasing the estimated cost given by the heuristic. 
+
+Since a _constant 0_ is the same for all states this heuristic would be considered monotone as well. 
+
+__9 B) Which are admissible? Again, explain why you think this?__
+
+A heuristic is considered to be admissible if it never overestimates the cost. Using this knowledge we can now classify each heuristic on whether it is admissible or not. 
+
+_Tiles out of place_ is considered to be admissible since it will only count misplaced tiles. In this way it will always underestimate the cost, or exactly estimate the cost. This allows us to determine that it is in fact admissible. 
+
+_Sum of the distance out of place_ is also admissible. It will provide us with the lower bound of moves needed, since it will only cont the distances out of place. This means that it will also only exactly or underestimate the cost needed.
+
+_2 x The number of tile reversals_ is probably admissible, however in some cases it will not be. In cases such as when only one tile may need to be reversed it may overestimate the moves needed.
+
+_Constant 0_ is also admissible. This is because it will always provide the same result, which is a severe underestimation, and since 0 will always be less than the actual cost. 
+
+__9 C) Rank the three heuristics in terms of their informedness (least to most)?__ 
+
+_Constant 0_ is the least informed heuristic since it has no knowledge of the state space at all. The result will always be constant meaning that it is not informed.
+
+_2 x the number of tile reversals_ is the second least informed, since reversals may play a key part in solving the puzzle however it is not necessarily the goal. This may leave the heuristic over evaluating and undervaluing particular states which may serve to better guide the decision.
+
+_Tiles out of place_ is the second most informed heuristic, this is because it does have knowledge of the space. However, its knowledge maybe counter intuitive in cases that require more tiles to be out of place in order for a more cost efficient path to be taken.  
+
+_Sum of distance out of place_ is the most informed heuristic. This is because it has knowledge of both the goal state and the current state, as well as the relative distance from that state. In this way the heuristic is fairly informed. 
+
+__9 D) Is a monotone heuristic necessarily admissible? Explain your answer.__ 
+
+Yes! Since a monotone heuristic is bound by the actual cost and the cost estimate it must be admissible. Since it cannot exceed the cumulative cost it is therefore assuredly admissible.
+
+__9 E) Is an admissible heuristic necessarily monotone? Explain your answer.__
+
+No! An admissible heuristic is not necessarily monotone, since individual moves maybe overestimated, however the total cost may not be. 
+
+__9 F) Why is the constant 0 heuristic equivalent to breadth-first search?__ 
+
+First lets describe both a BFS and a best first search to better understand the problem statement. 
+
+A _breath first search_ explores every possible state in parallel until a goal state is reached. This means that the shortest path will always be found. 
+
+A _best first search_ is operates similarly to to a breadth first search while using a heuristic to guide the search process. This allows us to remove paths that are deemed unnecessary, thus making for a more efficient search.  
+
+So as we can see through these definitions a best first search without a heuristic to guide its search will operate in the same way as a breadth first search. Since a constant heuristic will always result in the same evaluation it will not eliminate any pathways. 
 
 ____
