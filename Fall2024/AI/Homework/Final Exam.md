@@ -226,6 +226,122 @@ ancestor(_, X).
 
 __7 A) The Prolog implementation of this system is given in Chapter 2 of the supplementary text. Turn in a copy of this program but where the individual in concern has 2 dependents, a steady income of $30,000 per year, and $20,000 in savings. Run this program and give a screen shot showing the result.__ 
 
+```
+investment(savings) :- savings_account(inadequate).
+
+investment(stocks) :- savings_account(adequate), income(adequate).
+
+investment(combination) :- savings_account(adequate), income(inadequate).
+
+savings_account(adequate) :- amount_saved(X), dependents(Y), minsavings(Y,
+B), X > B.
+
+savings_account(inadequate) :- amount_saved(X), dependents(Y), minsavings(Y,
+B), not(X > B).
+
+income(adequate) :- earnings(X, steady), dependents(Y), minincome(Y, B), X >
+B.
+
+income(inadequate) :- earnings(X, steady), dependents(Y), minincome(Y, B),
+not(X > B).
+
+income(inadequate) :- earnings(_, unsteady).
+
+minsavings(A, B) :- B = 5000 * A.
+
+minincome(A, B) :- B = 15000 + (4000 * A).
+
+amount_saved(22000).
+
+earnings(25000, steady).
+
+dependents(3).
+```
+
+![[prolog2.png]]
+
+
+__7 B) Write a production system using the previous part__
+
+1) If the savings account is inadequate then the investment advice is _savings_
+2) If the savings account is adequate and the income is adequate then the investment advice is _stocks_
+3) If the savings account is adequate and the income is inadequate then the investment advice is _combination_
+4) If the amount saved is greater than the minimum savings then the savings is _adequate_
+5) If the amount saved is less than or equal to the minimum savings then it is _inadequate_
+6) If the income is steady and the income is greater than the minimum required income then it is _adequate_
+7) If the income is steady and the income is less than or equal to the minimum required income then it is _inadequate_
+8) If the income is not steady (unsteady) then it is _inadequate_
+9) The minimum savings is the number of dependents times 5000 ($dependents * 5000$) 
+10) The minimum income is the number of dependents times 4000 plus 15000 ($(dependents * 4000) + 15000$)
+
+__7 C) State Space For the Previous Problem__
+
+There are 3 possible results; _Stocks_, _Combination_, and _Savings_. From these we can gather the possibilities that go into each of these combinations. 
+
+_Situation 1:_
+- Savings: 20,000
+- Earnings: 30,000
+- Dependents: 2
+- MinSavings: $10,000 = 5000 \times 2$
+- MinIncome: $23,000 = (4000 * 2) + 15000$
+- Investment: Stocks
+
+Since as we can see the savings and earnings are both considered to be adequate this will result in the investment advice being stocks
+
+_Situation 2:_
+- Savings: 0
+- Earnings: 30,000
+- Dependents: 2
+- MinSavings: $10,000 = 5000 \times 2$
+- MinIncome: $23,000 = (4000 * 2) + 15000$
+- Investment: Savings
+
+Since the minimum savings has not been met we can conclude this situation to resolve in savings.
+
+_Situation 3:_
+- Savings: 20,000
+- Earnings: 10,000
+- Dependents: 2
+- MinSavings: $10,000 = 5000 \times 2$
+- MinIncome: $23,000 = (4000 * 2) + 15000$
+- Investment: Combination
+
+Since the minimum savings has been met and the minimum income has not the investment advice will be combination.
+
+We can now determine all of the possible combinations to be: 
+- Stocks
+	- Adequate Savings and Adequate Income
+- Savings
+	- Inadequate Savings
+- Combination
+	- Adequate Savings and Inadequate Income 
+
+__7 D) Diagram and Unifying Statements__
+
+![[diagram.drawio.png]]
+
+
+For the example used our unifying substitutions will be
+- Savings: {X = 20000, Y = 2} 
+- Income:  {X = 30000, Y = 2}
+
+__7 E) Resolution Refutation__
+
+Using these facts: 
+- Amount saved: 20,000
+- Earnings: 30,000 and Steady
+- Dependents: 2
+
+We can now calculate the minimum savings and income to be 10,000 and 23000 respectively, and expand these definitions to include this calculation.
+
+1) $\lnot investment(stocks) \lor savingsaccount(adequate)$
+2) $\lnot investment(stocks) \lor income(adequate)$
+3) $\lnot savingsaccount(adequate) \lor (amountsaved(X) \land dependents(Y) \land X > minsavings(Y, _))$
+4) $\lnot income(adequate) \lor earnings(X, steady) \land dependents(Y) \lor X > minincome(Y, _)$
+5) $\lnot investment(X)$
+
+We now need to assume that the investment advice is $\lnot investment(stocks)$. Then we must apply $\lnot investment(stocks) \lor savingsaccount(adequate)$. We can see from applying the third rule as well that $\lnot(amountsaved(20,000) \land dependents(2) \land 20000)$ is greater than the target $10,000$. Therefore the savings is adequate. We can not see that $\lnot investment(stock)$ is viable. 
+
 ****
 
 __8 A) What is a heuristic?__ 
@@ -304,3 +420,144 @@ A _best first search_ is operates similarly to to a breadth first search while u
 So as we can see through these definitions a best first search without a heuristic to guide its search will operate in the same way as a breadth first search. Since a constant heuristic will always result in the same evaluation it will not eliminate any pathways. 
 
 ____
+
+__10 A) Sliding Puzzle Heuristic__
+
+```
+
+goal([white, white, empty, black, black]).
+
+heuristic_a(_, 0).
+heuristic_b(State, H) :-
+    goal(Goal),
+    count_out_of_place(State, Goal, H).
+
+count_out_of_place([], [], 0).
+count_out_of_place([X|Xs], [Y|Ys], H) :-
+    (X \= Y, X \= empty -> count_out_of_place(Xs, Ys, H1), H is H1 + 1;
+    count_out_of_place(Xs, Ys, H)).
+
+move([empty, X | Rest], [X, empty | Rest]). 
+move([X, empty | Rest], [empty, X | Rest]). 
+move([empty, X, Y | Rest], [Y, X, empty | Rest]). 
+move([X, Y, empty | Rest], [empty, Y, X | Rest]). 
+move([H | T1], [H | T2]) :- move(T1, T2).
+
+best_first(Start, Heuristic, Path) :-
+    search([[Start]], Heuristic, Path).
+
+search([[Node | Path] | _], _, [Node | Path]) :-
+    goal(Node). 
+search([[Node | Path] | Rest], Heuristic, Solution) :-
+    findall([Next, Node | Path],
+            (move(Node, Next), \+ member(Next, [Node | Path])),
+            Children),
+    evaluate_and_sort(Children, Heuristic, NewChildren),
+    append(Rest, NewChildren, NewAgenda),
+    search(NewAgenda, Heuristic, Solution).
+
+evaluate_and_sort(Nodes, Heuristic, SortedNodes) :-
+    maplist(evaluate(Heuristic), Nodes, EvaluatedNodes),
+    sort(1, @=<, EvaluatedNodes, SortedEvaluatedNodes),
+    pairs_values(SortedEvaluatedNodes, SortedNodes).
+
+evaluate(Heuristic, [Node | Path], H-[Node | Path]) :-
+    call(Heuristic, Node, H).
+
+print_solution([]).
+print_solution([State | Rest]) :-
+    write(State), nl,
+    print_solution(Rest).
+
+test_constant_heuristic :-
+    write('Testing with Heuristic (a): Constant 0'), nl,
+    best_first([black, black, empty, white, white], heuristic_a, Path),
+    print_solution(Path).
+
+test_heuristic_b :-
+    write('Testing with Heuristic (b): Count tiles out of place'), nl,
+    best_first([black, black, empty, white, white], heuristic_b, Path),
+    print_solution(Path).
+
+test_both_heuristics :-
+    test_constant_heuristic,
+    nl,
+    test_heuristic_b.
+
+```
+
+
+![[prolog.png]]
+
+
+****
+
+__11 & 12) Undergraduate Student in CAP4601__
+
+****
+
+__13 A) Why is the language of first-order predicate calculus the basis for most knowledge representation schemes__
+
+First and foremost the language is expressive, it is fairly simple to understand. There are ways of expressing entities, such as `Jill` and `John`, as well as relations between these entities, `parent(Jill, John)`. Additionally there are ways of representing qualifiers, such as exists ($\exists$) and for all ($\forall$), and properties of these, (`female(Jill)`). 
+
+Secondly, there are well defined semantics that provide a clear manner for interpretation as well as it is domain independent. It relys on logical knowledge and reasoning, which can be used within any medium.
+
+__13 B) What was Alan Newell and Herbert Simon’s Logic Theorist?__ 
+
+Alan Newell and Herbert Simon's _logic theorist_ was one of the very first artificial intelligence programs. It was developed in 1956, and serves as a foundational achievement within the field of Artificial intelligence. 
+
+The project was developed with the purpose of simulating human intelligence by solving mathematical theorems. The program used symbolic logic as well as search techniques in order to simulate human intelligence. 
+
+__13 C)  What is a semantic network?__
+
+A semantic network is a representational model that is used to express relationships between entities. Semantic networks are often used to represent complex models such as Artificial intelligence, creating a simpler view of the problem.
+
+__13 D) What was the aim of Roger Schank’s conceptual dependency theory?__ 
+
+Roger Shank's _conceptual dependency theory_ was developed in the 1970s as an attempt to provide a framework in order to model natural languages, in a manner that was language independent. The project aimed to enable computers to better understand human language in an intelligent manner. 
+
+__13 E) What was the purpose of Roger Schank’s theory of scripts?__
+
+The purpose of Robert Schrank's _theory of scripts_ was to model how humans organize and predict events based on recurring patterns and knowledge. It was designed in order to help machines understand human phrases, and knowledge. 
+
+__13 F) What are Marvin Minsky’s frames?__ 
+
+Marvin Minsky frames are structures that attempt to model how humans understand information about the world. They are useful in teaching artificial intelligence reasoning, memory, as well as natural language. 
+
+__13 G) What is John Sowa’s theory of Conceptual Graphs?__ 
+
+John Sowa's theory of _Conceptual Graphs_ is a method of expressing formal reasoning within a graph like structure. It allows us to more effectively express relationships between entities. 
+
+__13 F) What was the aim of Doug Lenat’s CYC project?__
+
+The aim of Doug Lenats CYC project was to create a knowledge base that will allow for understanding and reasoning to be implemented within artificial intelligence systems. It aimed to solve issues of AI not being able to understand apriori knowledge. 
+
+__13 G) What is IBM’s Watson known for?__ 
+
+It was known for its natural language processing, and data analysis capabilities. Watson was able to understand images, audio, as well as text. It operated in a manner that imitated human computation as well, even winning the show Jeopardy! 
+
+****
+
+__14 A) Why are expert systems referred to as a variety of strong problem solving?__
+
+Expert systems are referred to as a form of strong problem-solving because they are trained on domain specific tasks. Expert systems posses a large amount of knowledge about a specific task and know nothing outside of them, this additionally limits the search space making it more effective at solving domain specific problems. They typically posses logical problem solving skills within these specific domains, making them extremely effective problem solving within their specified domain.  
+
+__14 B)  In the construction of expert systems, what is the advantage of separating the inference engine from the knowledge base?__ 
+
+There are a few advantages to seperating the inference engine from the knowledge base within an expert system. 
+
+For one, it allows for the expert system to be _reusable_ across multiple problems. For example the same expert system maybe effective at solving financial problems as well as medical ones depending on their knowledge base.
+
+Additionally, This allows for expert systems to become more _scalable_. Rather than restricting the inference engine to a static knowledge base it can become more dynamic when separated, without requiring the system to be redesigned. 
+
+_Modularity_ is another advantage to separating the knowledge base from the inference engine. This allows the system to be tested on a variety of knowledge bases, potentially leading to higher rates of success within the problem space. 
+
+****
+
+__15 A) Explain what is meant by nonmonotonic reasoning__
+
+Non-monotonic reasoning is a type of reasoning that allows for changes within the conclusion based on newly acquired knowledge. For example, if we are to state all birds can fly, then we revise our statement due to finding out penguins cannot fly. Since we changed our conclusion based on newly acquired knowledge this is considered to be non monotonic reasoning. 
+
+__15 B) What is the role of nonmonotonic reasoning in planning?__ 
+
+Non-monotonic reasoning allows us to handle problems such as reasoning and uncertainty within computational systems. Since we can adjust our conclusions based on newly acquired knowledge this allows us to later redact our statements and learn from them. Non-monotonic reasoning allows our systems to be more dynamic and adapt to newly presented information in a more effective manner.
