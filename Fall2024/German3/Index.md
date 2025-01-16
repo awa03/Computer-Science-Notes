@@ -17,7 +17,7 @@
 - [Week 14](wk14.md)
 
 ### Vocab
-- [day 1](day1.md)
+- [day 1](Fall2024/German3/Vocab/day1.md)
 
 **Self Study Notes will now only be done in a notebook, as such, it will not be published through this medium**
 
