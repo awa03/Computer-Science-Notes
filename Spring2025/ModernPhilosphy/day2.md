@@ -51,6 +51,9 @@
 - __First Mediation__
 	- Reasons given why we can doubt all things
 	- Greatest utility lies in freeing us from prejudice
+	- Free from all prejudices
+	- Is there a complete reliable way of identifying the truth
+	- 
 - __Second Meditation__
 	- I think therefore I am
 	- The mind realizes it is impossible for it to not exist during this meditation
@@ -112,9 +115,18 @@
 >[!More Thoughts]
 >So I am trying to reason about my interpretation, and I thought about the fire example. So it could seem that by my understanding it would be incorrect to say that the mind processes things and creates their form through our observed classification and ascribed value if we have no feeling in our arm, but we see its on the stove then why wouldn't we feel pain. I would like to present both a counter as well as a counter example to this in order to combat this understanding. This understanding presupposes what we mean by the mind. If the mind can be classify things through repeated observation it would follow that a hot stove would not hurt if you had no feeling, since you have either never experienced the __nature__ of the form, or if you lost sense at a later point the stimuli that is associated with the pain would be dominated by senses other than sight or smell. The counter example I would present would be that of phantom pain in people with missing limbs as well. The brain will often sense the feeling as if it were on the other limb. 
 
+- __Why did he want to complete this goal?__
+	- From seeing the world from many perspectives in the army
+	- Reduce all of reality to mathematical things
+	- There is a universal method to problem solving (mechanical philosophy)
+	- He did not want to offend the Aristotelian's
 
 >[!Update]
 >So after doing more research specifically within the [Michael Sugrue](https://youtu.be/_PSRVuQvVuU?si=U6tuals4L1pPpAlk) lectures I have learned that a large criticism of Descartes is that he conflates reality with linguistics. So I would say that I maybe gave him too much credit, but I was fairly on the money with my analysis. 
+
+>[!Refining]
+>Language binds our mind to our reality. If we can conclude our mind exists, and we can conclude that our reality must be understood through this mind. We understand that our mind is using language as a classification for commonalities. It is a generalization of what x is. 
+
 
 ### Galileo
 - Popularized heliocentric
