@@ -38,6 +38,12 @@ Fullstack Dev | [FullStackCSharp](Spring2024/FullStackCSharp/Index.md)
 German 2 | [German](Spring2024/German/Index.md)
 German 3 | [German](Fall2024/German3/Index.md)
 Intro to AI|[AI](Fall2024/AI/Index.md)
+Cybercrime Forensics|[Link](Fall2024/Forensic/Index.md)
+Intro to Data Science|[Link](Fall2024/Data_Science/Index.md)
+Environmental Science|[Link](Spring2025/EnvironmentalScience/index.md)
+Modern Philosophy|[Link](Spring2025/ModernPhilosphy/index.md)
+Operating Systems|[Link](Spring2025/OperatingSystems/index.md)
+Parallel Programming|[Link](Spring2025/ParallelProgramming/index.md)
 
 #### Studying for Fun
 
