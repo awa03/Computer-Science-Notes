@@ -22,21 +22,21 @@ This repository is a compilation of my notes from Florida State University. With
 
 Class | Course Code 
 -|-
-Computer Organization | [CDA3100](Summer2023/CDA3100/Index.md)
-Web Design | [CGS2821](Summer2023/CGS2821/Index.md)
-Object Oriented Programming | [COP3330](Summer2023/COP3330/Index.md)
-Intro To Unix | [COP3353](Summer2023/COP3353/Index.md)
-Screening Science | [HPS3320](Summer2023/HPS3320/Index.md)
-Software Engineering | [CEN4020](Fall2023/CEN4020/Index.md)
-Capstone | [CEN4090L](Fall2023/CEN4090L/Index.md)
-Data Structures | [COP4530](Fall2023/COP4530/Index.md)
-Discrete Math | [MAD2104](Fall2023/MAD2104/Index.md)
-Reasoning and Critical Thinking | [PHI2100](Fall2023/PHI2100/Index.md)
-Other C# Stuff | [C# Stuff/ConsoleApp1](Spring2024/CSharpStuff/ConsoleApp1/Index.md)
-Data Structures 2 | [DataStructures2](Spring2024/DataStructures2/Index.md)
-Fullstack Dev | [FullStackCSharp](Spring2024/FullStackCSharp/Index.md)
-German 2 | [German](Spring2024/German/Index.md)
-German 3 | [German](Fall2024/German3/Index.md)
+Computer Organization | [Link](Summer2023/CDA3100/Index.md)
+Web Design | [Link](Summer2023/CGS2821/Index.md)
+Object Oriented Programming | [Link](Summer2023/COP3330/Index.md)
+Intro To Unix | [Link](Summer2023/COP3353/Index.md)
+Screening Science | [Link](Summer2023/HPS3320/Index.md)
+Software Engineering | [Link](Fall2023/CEN4020/Index.md)
+Capstone | [Link](Fall2023/CEN4090L/Index.md)
+Data Structures | [Link](Fall2023/COP4530/Index.md)
+Discrete Math | [Link](Fall2023/MAD2104/Index.md)
+Reasoning and Critical Thinking | [Link](Fall2023/PHI2100/Index.md)
+Other C# Stuff | [Link](Spring2024/CSharpStuff/ConsoleApp1/Index.md)
+Data Structures 2 | [Link](Spring2024/DataStructures2/Index.md)
+Fullstack Dev | [Link](Spring2024/FullStackCSharp/Index.md)
+German 2 | [Link](Spring2024/German/Index.md)
+German 3 | [Link](Fall2024/German3/Index.md)
 Intro to AI|[AI](Fall2024/AI/Index.md)
 Cybercrime Forensics|[Link](Fall2024/Forensic/Index.md)
 Intro to Data Science|[Link](Fall2024/Data_Science/Index.md)
@@ -53,6 +53,8 @@ I would like to diversify my note set so I will also be adding sections for inde
 | ---------------------------------------------------------------------- | ----------------------------------------------------- |
 | Open CV with python by Example<br>By: Prateek Joshi - PACKT Publishing | [Index](Study_Notes_2024/OpenCV_With_Python/Index.md) |
 | Leetcode Explanations                                                  | [Index](Study_Notes_2024/Leetcode/Index.md)           |
+| Advanced Data Structures                                               | [](Study_Notes_2025/DataStructures/Index.md)           |
+
 
 
 
