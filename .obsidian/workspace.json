@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spring2025/EnvironmentalScience/lec4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "lec4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5042676925659
+    "width": 421.5042676925659,
+    "collapsed": true
   },
   "right": {
     "id": "0911b0718e8147e5",
@@ -177,10 +178,12 @@
   },
   "active": "525754669080a390",
   "lastOpenFiles": [
+    "Spring2025/EnvironmentalScience/index.md",
+    "Spring2025/EnvironmentalScience/lec4.md",
+    "README.md",
     "Study_Notes_2025/DataStructures/Index.md",
     "Spring2025/OperatingSystems/index.md",
     "Spring2025/OperatingSystems/Hardware.md",
-    "README.md",
     "Spring2025/ParallelProgramming/index.md",
     "Study_Notes_2025/DataStructures/BinaryExpressionTree.md",
     "Study_Notes_2025/DataStructures/AbstractSyntaxTree.md",
@@ -194,7 +197,6 @@
     "Spring2025/EnvironmentalScience/lec3.md",
     "Spring2025/EnvironmentalScience/lec2.md",
     "Spring2025/EnvironmentalScience/lec1.md",
-    "Spring2025/EnvironmentalScience/index.md",
     "Spring2025/ModernPhilosphy/index.md",
     "Fall2024/AI/Homework/Final Exam.md",
     "Spring2025/EnvironmentalScience",
@@ -212,7 +214,6 @@
     "Fall2024/AI/Homework/hw3.md",
     "Fall2024/AI/Homework/hw6.md",
     "Fall2024/AI/Homework/hw10.md",
-    "Fall2024/German3/Index.md",
     "Assets/best.png",
     "Assets/planner.png",
     "Assets/bfs.png",
