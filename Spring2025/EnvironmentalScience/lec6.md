@@ -1,0 +1,105 @@
+# Energy
+
+- How is Energy transported around the planet
+	- Atmospheric Circulation
+	- Oceanic Circulation
+- Energy _is the capacity to do work_
+- Energy _can be neither created nor destroyed_
+- Can be converted from one form to another
+	- __Kinetic Energy__ (energy of motion)
+	- __Potential Energy__
+		- Positional energy
+		- Energy in chemical bonds
+		- Energy in electromagnetic radiation (light)
+		- Energy in matter itself
+- The first law of thermodynamics: _total amount of energy in the universe is constant_
+	- But systems within the universe can gain or lose energy
+	- When a vase hits the floor
+		- Sound waves
+		- Motions of pieces
+		- Heat
+- The second law of thermodynamics: _every energy transformation increases disorder (entropy)_ 
+	- Energy tends to go from more usable to less usable forms
+	- Least stable energy form is heat 
+	- Heat is energy contained in random motion of molecules
+
+## Types of Energy
+- __Electromagnetic radiation__: light
+	- Travels at the speed of light (186,000 miles/s)
+	- Amount of energy determined by the wave length
+	- _Electromagnetic spectrum_: Full range of wave lengths
+- __Heat__: kinetic energy of moving molecules
+	- _Temperature_: average kinetic energy of a collection of molecules
+	- Transferred by:
+		- Conduction: direct transfer of heat
+		- Convection: warm (less dense) regions of gas or liquid rise
+		- Radiation: matter loses heat by radiation, producing electromagnetic energy
+		- Latent heat transfer: heat transfer associated with phase transition (melting, freezing, evaporation, condensation)
+- __Chemical Energy__: potential energy associated with the formation or breakage of bonds between atoms
+	- Photosynthesis converts electromagnetic radiation (sunlight into chemical energy (sugar))
+- __Nuclear Energy__: the energy contained in an atoms nucleus
+	- $E = mc^2$ ($Energy = Mass \times SpeedOfLight^2$)
+	- Nuclear fission: splitting the nucleus
+- Most of the earths energy is derived from electromagnetic radiation emitted by the sun
+- Radiates energy back into space (primarily as infrared radiation)
+
+## Atmospheric Circulation
+- Why is the earth so warm and other parts are cold?
+	- The sun rays strike at different parts of the earth at different angles
+	- Sunlight reaching tropical regions arrives nearly perpendicular to the surface. 
+	- Sunlight reaching polar regions arrives at a oblique angle, which spreads over a larger area
+- The _seasons_ are caused by the sun hitting the earth at non consistent angles
+- Earth is _tilted_ 23.5 degrees
+- In polar regions _heat radiation is greater than solar radiation_
+- __Short wave Radiation__:
+	- Solar 
+- __Long wave Radiation__:
+	- Heat 
+- __Density__: mass / volume
+	- usually constant for solids
+	- can change significantly for fluids (and gasses)
+	- __Altered by changes in temperature  and pressure__
+	- increased temp = decreased density 
+	- increased pressure = increased density
+	- Less dense fluids want to rise above more dense ones, take for example hot air balloons
+- The spinning planet force is known as the __Coriolis Effect__
+- The ocean retains more heat than land
+	- Oceans are typically warmer at night than land
+	- During the day it is typically cooler
+	- Sea breezes flow from sea to land during the day
+- __Storms__
+	- Areas of surface heating will lead to rising air
+	- Rising air must be replaced by air from the surrounding areas
+	- The area of rising air is known as a low pressure zone
+	- Coriolis causes the moving air to spiral
+	- Rising air cools, causing humid air to condense
+	- Condensing air leads to cloud formation and potentially precipitation
+- __Hurricanes (tropical cyclones)__: rotating mass of warm humid air 
+	- Condensation of humid air in the hurricanes leads to the release of latent energy
+	- Converted to wind energy
+	- Requiring hot oceanic water
+
+## Ocean Circulation
+- Two important forms of ocean circulation
+	- __Surface currents__: (wind driven circulation)
+		- Rapid
+		- High variable
+	- __Deepwater flow__: (thermohaline circulation)
+		- Overturning ocean
+		- Long-term transport (1000 yr)
+		- driven by dense sinking water
+- Wind driven circulation
+	- Wind transfers energy through friction
+	- _Coriolis effect_ turns water to the right
+	- Leads to _gyres_
+	- __Gyre__: large system of rotating ocean current
+- Water along the eastern boundaries of the ocean are typically colder because of _costal upwelling_
+	- Brings cold, deep, nutrient rich water to the surface
+- __Thermohaline cycle__:
+	- Slow circulation of the deep ocean
+	- Driven by density
+	- Dense water sinks into polar regions
+	- replaced by upwelling in other regions of the world
+	- Redistributes heat around the globe
+	- Large part of why Europe isnt covered in ice
+	

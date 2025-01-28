@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2025/EnvironmentalScience/lec5.md",
+                "file": "Spring2025/ModernPhilosphy/day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lec5"
+              "title": "day2"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "525754669080a390",
   "lastOpenFiles": [
+    "Spring2025/EnvironmentalScience/lec6.md",
     "Spring2025/EnvironmentalScience/index.md",
     "Spring2025/EnvironmentalScience/lec5.md",
     "Spring2025/OperatingSystems/CPUScheduling.md",
@@ -213,7 +214,6 @@
     "Fall2024/German3/wk13.md",
     "Fall2024/AI/Homework/hw1.md",
     "Fall2024/AI/Homework/hw2.md",
-    "Fall2024/AI/Homework/hw3.md",
     "Assets/best.png",
     "Assets/planner.png",
     "Assets/bfs.png",

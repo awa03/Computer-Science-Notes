@@ -127,8 +127,86 @@
 >[!Refining]
 >Language binds our mind to our reality. If we can conclude our mind exists, and we can conclude that our reality must be understood through this mind. We understand that our mind is using language as a classification for commonalities. It is a generalization of what x is. 
 
+- the fact god created me makes it highly plausible i am created in his likeness
+- We can understand that god exists through turning our minds eye in on itself, meaning that I perceive myself and strive for perfection, this concept that I am striving to achieve is thus dependent on another. This other person is god, since he is who I depend on to see these greater indefinite things.
+	- Reasons from this that god cannot be a deceiver
 
-### Galileo
+## Meditation 4
+- The mind is distinct from corporeal things
+	- _corporeal things_ being things like a chair in concept, existing or manifesting in bodily form, material nature, tangible
+- Existence depends on god at every moment
+	- The human mind can know nothing more certain
+- God cannot be deceiving me because deception is indicative of imperfection
+	- The will of deception rests in malice
+	- Not compatible with the idea of god
+- Judgement was received from god
+	- Since he does not wish to deceive me, he has not given me judgment where I can make a mistake when used properly
+	- If I were to only think of god, and focus my attention towards him I would have no cause of error or falsity
+	- We are not perfect because we lack many attributes of god
+	- Our faculty is not infinite like gods, thus we have imperfections
+- _Only I and God Exist_
+- We cannot complain that the will that we were given or anything for that matter is imperfect because we are limited by the bounds of our experience
+	- We can therefore not grasp anything greater
+	- We bare a likeness or image to god
+- divine grace, or natural reason _increases, and strengthens_ our freedom
+- The indifference we feel when a choice cannot be made through reasoning drawing us towards an option is the _lowest grade of freedom_. 
+	- If we were to always see clearly what is true and good we would never have to wonder what choice to make
+- We know we exist by a light that our intellect gave us, not because of some external force
+- Guesses may persuade me to think in one direction but the knowledge that they are guesses pulls me away from them
+- Hold off judgment till understanding something in its entirety, in order to understand them in their entirety
+	- Therefore not _misusing our freedom_
+	- Selecting false when the reality is true leads to an _error_
+	- Selecting true when the reality is true leads to an _sheer luck that I happen upon the truth_
+		- Not without fault
+		- perception on the part of the intellect must always precede a determination on the part of will
+
+> [!NOTE]
+> Descartes is basically saying that if we assume something to be true, and it does in fact end up being true we are still in a fault of some kind because we did not use our intellect to determine this, rather blindly guessed and happened upon the correct answer
+
+- out finite intellect does not understand many things
+- shouldn't question why we don't have an infinite intellect, rather thank him for giving us one at all
+- God has given me a will that has a wider scope than my intellect
+- There is greater perfection in us being able to make errors 
+- _I should never judge anything that I do not clearly understand_
+- Even if I cannot abstain from errors, I must attempt to avoid them in another way, by abstaining from making judgments whenever the truth of the matter is not important
+- Through meditation I can acquire a habit of not erring
+- __Clear Perception must be true__
+	- For god is the author
+	- and god cannot be deceitful
+
+### Mediation 5
+- it is not so much that we discover something new through observing particular rather recalling something we knew beforehand
+	- It seems we aren't noticing things because we have not directed our mental gaze at them
+
+> [!NOTE] 
+> Once again I don't really think much of what he is saying here, he is kind of just saying our eyes focus in on objects.
+
+- __triangle example__
+	- If I think of a triangle I did not fabricate it, it does not depend on my mind 
+	- We envision its nature
+	- demonstrated through features (properties as he states)
+	- We acknowledge these properties when we imagine the triangle, therefore it is not fabricated by me
+	- Patently true because we know these clearly
+- god must exist
+	- I can envision god 
+	- and I cannot envision a mountain without a valley
+	- just because I cannot envision a mountain without a valley doesn't mean one does not exist
+	- Therefore it would be contradictory to say god does not exist because god as a substance exists, because we can envision him.
+	- I am not free to think of god without existence
+- Existence is one of gods perfections 
+- We must reason about our perceptions in order to categorize them
+- We would acknowledge nothing more easily than god if not for prejudices 
+	- biases making us less receptive to arguments
+	- ironically goes on to state because god is so evident no evidence can move me away from him
+- _If anything is evident to my intellect then it is true_
+	- Things can be true when you are asleep 
+	- Every science depends exclusively upon the knowledge of the true god
+	- Proving god through reason
+- things exist, at least in an object of pure mathmatics
+
+### Meditation 6
+
+# Galileo
 - Popularized heliocentric
 	- Copernicus as well
 	- Didn't have much evidence
