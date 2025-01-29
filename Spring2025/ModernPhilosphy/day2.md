@@ -109,7 +109,6 @@
 > This candle in my hand does not possess the classification "smell" or feeling inherently. If I were to stop observing it the candle would not lose these traits, rather it is no longer classified as these observations because these observations are created by the mind.
 
 - Derived what a thing, thought or truth is from its very nature
-- 
 - Deduction is always synthetic. 
 
 >[!More Thoughts]
@@ -174,7 +173,7 @@
 	- For god is the author
 	- and god cannot be deceitful
 
-### Mediation 5
+## Mediation 5
 - it is not so much that we discover something new through observing particular rather recalling something we knew beforehand
 	- It seems we aren't noticing things because we have not directed our mental gaze at them
 
@@ -202,33 +201,19 @@
 	- Things can be true when you are asleep 
 	- Every science depends exclusively upon the knowledge of the true god
 	- Proving god through reason
-- things exist, at least in an object of pure mathmatics
+- things exist, at least in an object of pure mathematics
 
-### Meditation 6
+## Meditation 6
 
-# Galileo
-- Popularized heliocentric
-	- Copernicus as well
-	- Didn't have much evidence
-- Condemned in 1633 
-- Closely related to the church, knew how to work the church
-- Aristotelian originally
-- Invented telescope
-- First Person to observe sunspots
-	- Contrary to traditional views of infinite universe, and perfection by god
-- Jupiter Belts 
-- __The Dialog's and the Two Chief World System__
-	- Condemned for this by the pope and many others
-- Most of what is said about Galileo is false
-- When you take away your senses there are still those properties per say but we cannot quantify them
-- Secondaries are effects within the mind caused by the primary
-	- Red 
-	- White
-	- Bitter
-	- Sweet
-- Primary maybe understood as things we can perceive objectively through senses. 
-	- Shape
-	- Solidity
-	- Motion
-- Stripping an object down to its bones
-- Primary must belong to it because we cant think of something without it
+# In Class Review
+- Unlike bacon, not using empirical analysis, rather a logical one
+- Begins with can I doubt?  
+	- Can I be deceived when following the criteria of understanding if something is true
+		- Senses
+		- Dream argument
+	- We cant take _"Im awake"_ as a basis of certainty
+- When we think a chair or a table as something real there
+	- We can only do this through our minds
+	- The existence of external objects relys on our mind
+		- Existence not reality
+	- 

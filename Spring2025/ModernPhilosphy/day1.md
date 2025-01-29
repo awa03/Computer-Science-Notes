@@ -1,0 +1,26 @@
+# Galileo
+- Popularized heliocentric
+	- Copernicus as well
+	- Didn't have much evidence
+- Condemned in 1633 
+- Closely related to the church, knew how to work the church
+- Aristotelian originally
+- Invented telescope
+- First Person to observe sunspots
+	- Contrary to traditional views of infinite universe, and perfection by god
+- Jupiter Belts 
+- __The Dialog's and the Two Chief World System__
+	- Condemned for this by the pope and many others
+- Most of what is said about Galileo is false
+- When you take away your senses there are still those properties per say but we cannot quantify them
+- Secondaries are effects within the mind caused by the primary
+	- Red 
+	- White
+	- Bitter
+	- Sweet
+- Primary maybe understood as things we can perceive objectively through senses. 
+	- Shape
+	- Solidity
+	- Motion
+- Stripping an object down to its bones
+- Primary must belong to it because we cant think of something without it

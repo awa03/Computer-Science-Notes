@@ -1,1 +1,1 @@
-- [Lecture 1](lec1.md)
+- [Securing Your Server](lec1.md)

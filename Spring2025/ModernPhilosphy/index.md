@@ -1,1 +1,2 @@
+- [Galileo & Bacon](day1.md)
 - [Descartes](day2.md)
