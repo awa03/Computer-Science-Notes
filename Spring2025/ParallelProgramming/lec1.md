@@ -40,10 +40,12 @@
 	- automatically assign IP addresses to devices (using leases)
 	- You can also request a static IP
 
-## DNS 
-- translates to human readable text rather than numbers 
+## DNS
+- translates to human readable text rather than numbers
 - DNS Lookup tools
 	- allow to query DNS directly and examine responses
+- (IP address, Port)
+- 
 
 ## Servers and Clients
 - Servers wait for network connections (and respond with data) 
@@ -79,6 +81,9 @@
 	- used when speed is more important
 	- streaming movies
 	- dns
+- 
+
+
 
 ## Flask Server Hello World
 

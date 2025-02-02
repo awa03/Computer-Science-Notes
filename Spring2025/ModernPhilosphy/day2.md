@@ -239,6 +239,15 @@
 - Judgments from external senses are subject to error
   - Big building appears small from afar
   - Perhaps there is a faculty in me that produced perceptions
+- If I can think a thing and seperate it from it than it must be different substances
+  - even if body is intimately joined with the mind
+- a _substance_ is something that you can percieve independently of other things
+- A __Reality__ as a positive content
+  - heat is the "jiggling of the molecules"
+  - cold isnt a reality
+  - same for good and evil (good being infinite reality, bad being a "lack of good")
+  - hes talking about old news, covered by many people already
+- Everything is in motion always
 
 
 ### Descartes RECAP (Provided by him LOL)
@@ -251,8 +260,6 @@
 > [!NOTE]
 > This is fairly ironic given he needs to imagine not having imagination in order to conclude this
 
-
-
 # In Class Review
 - Unlike bacon, not using empirical analysis, rather a logical one
 - Begins with can I doubt?
@@ -264,3 +271,5 @@
 	- We can only do this through our minds
 	- The existence of external objects relys on our mind
 		- Existence not reality
+    - We have a clear idea of what an infinite intellect is because we know what it is not
+      - used the heat proof
