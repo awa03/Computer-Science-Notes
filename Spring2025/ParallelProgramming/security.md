@@ -208,11 +208,11 @@
 - __activity threads__:
   - gaps identify where more information is needed
   - will be able to identify capability and infrastructure used
-- adversay can be identified still
+- adversary can be identified still
 
 ### Lateral Movement
 - reconissance
-- inital access
+- initial access
 - priviledge escalation
 - lateral movement
 - exfiltaration

@@ -81,9 +81,6 @@
 	- used when speed is more important
 	- streaming movies
 	- dns
--
-
-
 
 ## Flask Server Hello World
 
