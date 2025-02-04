@@ -78,6 +78,8 @@
   - __Each attribute of one substance must be concieved through itself__
     - for an attribute is that which intellect percieves of substance as constituting its essence
   - __God, or substance consisting of infinite attributes, each of which express eternal and infinite essecnce necessarily exists__
+    - the reason a square circle does not exist is indicated by its nature, involves contradiction
+    -
 
 
 
@@ -87,6 +89,7 @@
     - a body, because we can always convieve of another body greater than it.
     - limited by another thought
   - _a substance_: concieved through itself, conception does not require conception of another thing.
+  - _finity_: bounded by limit
   - _mode_: the affections of a substance
     - something else concieved through something else
   - _god_: absolutely infinite being (__You can see Descartes influence lol__)
@@ -98,6 +101,7 @@
     - existence is conceived as an external truth
     - cannot be explicated through duration of time
   - _axioms_: all things that are
+  - a thought cannot be limited by a body
 
 
 # Ethics (Dr. Darren Staloff)
@@ -154,4 +158,11 @@
   - so happiness is creating as much power for yourself as possible
 - life is outside of our hands if we respond to passive emotions
   - __human bondage__: mans lack of power to control their emotions
-  -
+  - to break we need to understand the cause
+- the only thing we can control is our emotional states
+  - remaining a calm charming person
+- universal rational love
+- stoic influences??? (Marcus Aurelius specifically)
+- the ultimate expression of the power is to love everyone even your enemies
+  - this is the way of salvation
+- apply spirituality to the world, that is the way of liberation
