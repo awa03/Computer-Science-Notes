@@ -10,5 +10,6 @@
   ],
   "monospaceFontFamily": "0xProto Nerd Font Mono",
   "textFontFamily": "0xProto Nerd Font Mono",
-  "interfaceFontFamily": "0xProto Nerd Font Mono"
+  "interfaceFontFamily": "0xProto Nerd Font Mono",
+  "showRibbon": false
 }

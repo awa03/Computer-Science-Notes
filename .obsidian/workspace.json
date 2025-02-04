@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring2025/ParallelProgramming/lec1.md",
+                "file": "Spring2025/ModernPhilosphy/day3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lec1"
+              "title": "day3"
             }
           }
         ]
@@ -67,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -178,9 +179,10 @@
   },
   "active": "525754669080a390",
   "lastOpenFiles": [
+    "Spring2025/ParallelProgramming/lec1.md",
+    "Spring2025/ModernPhilosphy/day3.md",
     "Spring2025/OperatingSystems/Hardware.md",
     "Spring2025/ParallelProgramming/index.md",
-    "Spring2025/ParallelProgramming/lec1.md",
     "Spring2025/ModernPhilosphy/day2.md",
     "Spring2025/OperatingSystems/CPUScheduling.md",
     "Spring2025/EnvironmentalScience/lec6.md",
@@ -213,7 +215,6 @@
     "prolog.png",
     "Fall2024/German3/wk13.md",
     "Fall2024/AI/Homework/hw1.md",
-    "Fall2024/AI/Homework/hw2.md",
     "Assets/best.png",
     "Assets/planner.png",
     "Assets/bfs.png",

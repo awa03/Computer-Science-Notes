@@ -34,72 +34,132 @@
   - human bondage and human freedom (power of intellect)
 
 # Spinoza (172-185)
+- besides substances and modes nothing exists
+- god doesn't love anything, rather just exists
+   - there is a way to live according to him 
+- god encompasses our idea of the self
+	- god is infinite modes
+	- the entirety of all intellect
+	- everything exists at around the principle of motion and rest
 - for a given determinate cause an effect must following
   - if no cause no effect will follow (similar to Newton)
 - _knowledge_ of an effect depend on knowledge of cause
 - things which have nothing in common with one another cannot be understood through one another
 - if a thing can be conceived as not existing its essence does not involve existence
 - Propositions
-  - __Substance is by nature prior to its affections__
+  - __Substance is by nature prior to its modification__
   - __Two substance having different attributes have nothing in common__
   - __When things have nothing in common, one cannot be the cause of the other__
+	  - a body cannot create a mind, we can create a body that houses the mind. A mind cannot also create a body. 
   - __Two or more distinct things are distinguished from one another either by the difference of the attributes of the substances or by the difference of the affections of the substance__
-    - nothing exists external to the intellect through which several things can be distinguished from one another
+	- nothing exists external to the intellect through which several things can be distinguished from one another
   - __In the universe there cannot be two or more substance of the same nature or attribute__
-    - if distinguished by a difference of attributes, then cannot be more than one substance of the same attribute
-    - if distinguished by a difference of affections then since substance by nature prior to affections
+	- if distinguished by a difference of attributes, then cannot be more than one substance of the same attribute
+	- if distinguished by a difference of affections then since substance by nature prior to affections
+	- each mode is only a specific moment of one substance
   - __One substance cannot be produced by another substance__
-    - one cannot be produced by another
-    - exists nothing but substances and their affections
-    - if a substance could be the knowledge would depend on the knowledge of the cause, thus not being a substance
+	- one cannot be produced by another
+	- exists nothing but substances and their affections
+	- if a substance could be the knowledge would depend on the knowledge of the cause, thus not being a substance
+	- 
   - __Existence belongs to the nature of substance__
-    - cannot be produced by anything else
-    - essence involves existance, existance belongs to nature
+	- cannot be produced by anything else
+	- essence involves existence, existence belongs to nature
   - __Every substance is necessarily infinite__
-    - cannot be more than one substance having attribute
-    - therefore exist as finite or infinite
-    - since finite is a negation, every substance must be infinite
-    - truth external to the intellect is only in themselves
-    - the existance of a substance in which there are no doubts of its existance is difficult
-    - the existence of a substance is as much an external truth as its essence
-    - the true definition of a thing involves and expresses nothing beyond the nature of the thing
-    - no definition involves or expresses a fixed number of individuals, since it expresses nothing but the nature of the thing defined.
-      - the definition of a triangle expresses nothing but the nature of a triangle (not a fixed number of triangles)
-    - must be a cause for an individual existence
-      - must be evident by nature and definition
-      - must havee its being independently of the thing itself
-    - __a fixed number of individuals exist in nature_
-      - why not __more or less__
-      - cause for existence of each one (20 men example)
-      - each must be external to one another
-    - definition of substance must involve existence
-      - existence of a subject _must be concluded from the definition_
+	- cannot be more than one substance having attribute
+	- therefore exist as finite or infinite
+	- since finite is a negation, every substance must be infinite
+	- truth external to the intellect is only in themselves
+	- the existence of a substance in which there are no doubts of its existence is difficult
+	- the existence of a substance is as much an external truth as its essence
+	- the true definition of a thing involves and expresses nothing beyond the nature of the thing
+	- no definition involves or expresses a fixed number of individuals, since it expresses nothing but the nature of the thing defined.
+	  - the definition of a triangle expresses nothing but the nature of a triangle (not a fixed number of triangles)
+	- must be a cause for an individual existence
+	  - must be evident by nature and definition
+	  - must havee its being independently of the thing itself
+	- if substance wasnt infinite then there is something thats outside of it that presses against it
+		- space for example
+	- __a fixed number of individuals exist in nature_
+	  - why not __more or less__
+	  - cause for existence of each one (20 men example)
+	  - each must be external to one another
+	- definition of substance must involve existence
+	  - existence of a subject _must be concluded from the definition_
   - __The more reality or being a thing has the more attributes it has__
-  - __Each attribute of one substance must be concieved through itself__
-    - for an attribute is that which intellect percieves of substance as constituting its essence
-  - __God, or substance consisting of infinite attributes, each of which express eternal and infinite essecnce necessarily exists__
-    - the reason a square circle does not exist is indicated by its nature, involves contradiction
-    -
-
+		- Spinoza is trying to find a way to understand our ability for action  
+  - __Each attribute of one substance must be conceived through itself__
+	- for an attribute is that which intellect precises of substance as constituting its essence
+  - __God, or substance consisting of infinite attributes, each of which express eternal and infinite essence necessarily exists__
+	- the reason a square circle does not exist is indicated by its nature, involves contradiction
+  - __No attribute can be truly conceived from which it follows that substance can be divided__
+    - we are parts of a substance
+    - part of the same soup
+  - __substance absolutely infinite is indivisible__
+  - __Besides god no substance can be concieved__
+     - because god is infinite there is no room for other substances
+  - __whatever is is within god, god is infinite__
+    - nothing is separate from god
+    - fail to see how all things are beings of one substance
+  - __god infinite nature implies infinite number of things in infinite number of ways to the infinite intellect__
+    - if god is infinite therefore all possibility is infinite as well
+  - __god acts in his own nature only and is compelled by no one__
+    - humans can only make things exist but not provide their essence
+  - __god is the imminent and not the transient cause of all things__
+    - we are thinking of things that exist but our totality is god, cannot deify god 
+  - __god is eternal, all his attributes are eternal__
+  - __gods existence and essence are the same__
+  - __all things attached to any of gods attributes must exist__
+  - __anything that follows from this attribute is nessicarily infinite__
+  - __any mode that is infinite emerges from infinite attribute__
+    - infinite cannot come from finite
+  - __the essence of things produced by god does not involve existence__ 
+  - __god is not only the efficent cause of the existence of thing but also their essence__
+    - god creates essence and existence
+  - __something acts in a particular way has to be caused by gods will__
+  - __a thing which has been determined by god cannot render itself indeterminate__
+    - everything determined by god
+  - __infinite chain of cause and effect__
+  - __no one of these finite causes can come from infinite attributes unless comes from god__
+  - __in nature nothing is contingent everything is determined by divine nature__
+  - __the actual intellect must comprehend the attributes of god and nothing else__
+    - the idea of god must have come from god
+    - we are modifications of gods intellect
+  - __the natura naturata refers to actual intellect along with things like love is dependent on god, and does not cause itself__
+  - __the will cannot be caused a free cause and it is necessary__
+    - determined by cause
+  - __things could have been produced by god in no other order__
+    - if someone suggested it be different that would imply it is imperfect
+  - __the power of god is his essence itself_
+  - __whatever we percieve to be in gods power must exist__
+  - __nothing exists whos nature and exist does not follow__
+    - must produce some effect (even if only taking up space)
+- we can only understand something by the way it came to existence
+- if something does not have an essence it does not exist
+	- we can have essence without __existence__ 
 
 
   ### Definitions (given on 172)
-  - _self caused_: whose essence involves existence, whos nature can be concieved only as existing
+  - _self caused_: whose essence involves existence, whos nature can be conceived only as existing
   - _a thing_: can be said to be finite in its own kind
-    - a body, because we can always convieve of another body greater than it.
-    - limited by another thought
-  - _a substance_: concieved through itself, conception does not require conception of another thing.
+	- a body, because we can always convince of another body greater than it.
+	- limited by another thought
+  - _a substance_: conceived through itself, conception does not require conception of another thing.
+	- a cause in itself
+  - _an attribute_: thought of the mind or extension of the body
   - _finity_: bounded by limit
   - _mode_: the affections of a substance
-    - something else concieved through something else
+	- something else conceived through something else
   - _god_: absolutely infinite being (__You can see Descartes influence lol__)
-    - external and infinite essence
+	- external and infinite essence
   - _absolutely infinite_: infinite attributes
   - _infinite in its kind_: one may deny that it has infinite attributes
   - _free_: exists solely from the necessity of its own nature, determined to action by itself
-  - _eternity_: existence itself as concieved following from the definition of an eternal thing
-    - existence is conceived as an external truth
-    - cannot be explicated through duration of time
+	  - it determines itself
+	  - all determined by the laws of cause and effect
+  - _eternity_: existence itself as conceived following from the definition of an eternal thing
+	- existence is conceived as an external truth
+	- cannot be explicated through duration of time
   - _axioms_: all things that are
   - a thought cannot be limited by a body
 
@@ -118,8 +178,8 @@
   - logically and scientifically explainable
   - Descartes methods were profoundly impactful on spinoza
   - as well as his definitions of substance
-    - propensity for existance
-    - more than one of them?
+	- propensity for existance
+	- more than one of them?
 - one substance (the universe / world)
   - famous contrast to Descartes dualism
   - _this substance is god or nature (Spinoza)_
@@ -153,8 +213,8 @@
 - what is human happiness
   - the well being of the animal
   - more power
-    - strength
-    - stature
+	- strength
+	- stature
   - so happiness is creating as much power for yourself as possible
 - life is outside of our hands if we respond to passive emotions
   - __human bondage__: mans lack of power to control their emotions
