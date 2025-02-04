@@ -1,4 +1,157 @@
 # Spinoza (117-119)
+- Born Amsterdam 1632
+- Parents emigrated from Portugal in 1622
+- Sephardic Jews
+  - Converted to Catholicism
+- attended rabbinical school
+  - learned Hebrew, Latin
+  - Moses Maimonides
+  - Descartes
+- excommunicated from Jewish community 1656
+  - expelled from Amsterdam (1660)
+  - menace to all piety and morals
+- moved to village south of Amsterdam
+  - made lenses
+- moved to Hague 1663
+  - resided here till death in 1677
+- published many works
+  - Metaphysical thoughs
+  - Descartes Principles of Philosophy (I & II)
+  - Demonstrated in the Geometrical Manner (1663)
+  - Theological-Political Treatise (1670) under ficticous publisher Hamburg
+- Deep admiration for Descartes
+  - specifically geometrial methodology
+  - believed he failed to achieve and understanding of human mind
+- __Doctrine of Infinite__
+  - departure from Descartes
+  - our intellect is capable of reaching absolute knowledge
+  - _pure understanding_ has the same nature in humans and God
+- __Infinite Substance__
+  - middleground between Descartes dualism and Hobbes materialism
+  - _Attributes_: mental and corporeal realms
+- __Ethics__: begins with metaphysicss of god and substance
+  - continues with the nature of the mind and its affects
+  - human bondage and human freedom (power of intellect)
 
 # Spinoza (172-185)
-TODO
+- for a given determinate cause an effect must following
+  - if no cause no effect will follow (similar to Newton)
+- _knowledge_ of an effect depend on knowledge of cause
+- things which have nothing in common with one another cannot be understood through one another
+- if a thing can be conceived as not existing its essence does not involve existence
+- Propositions
+  - __Substance is by nature prior to its affections__
+  - __Two substance having different attributes have nothing in common__
+  - __When things have nothing in common, one cannot be the cause of the other__
+  - __Two or more distinct things are distinguished from one another either by the difference of the attributes of the substances or by the difference of the affections of the substance__
+    - nothing exists external to the intellect through which several things can be distinguished from one another
+  - __In the universe there cannot be two or more substance of the same nature or attribute__
+    - if distinguished by a difference of attributes, then cannot be more than one substance of the same attribute
+    - if distinguished by a difference of affections then since substance by nature prior to affections
+  - __One substance cannot be produced by another substance__
+    - one cannot be produced by another
+    - exists nothing but substances and their affections
+    - if a substance could be the knowledge would depend on the knowledge of the cause, thus not being a substance
+  - __Existence belongs to the nature of substance__
+    - cannot be produced by anything else
+    - essence involves existance, existance belongs to nature
+  - __Every substance is necessarily infinite__
+    - cannot be more than one substance having attribute
+    - therefore exist as finite or infinite
+    - since finite is a negation, every substance must be infinite
+    - truth external to the intellect is only in themselves
+    - the existance of a substance in which there are no doubts of its existance is difficult
+    - the existence of a substance is as much an external truth as its essence
+    - the true definition of a thing involves and expresses nothing beyond the nature of the thing
+    - no definition involves or expresses a fixed number of individuals, since it expresses nothing but the nature of the thing defined.
+      - the definition of a triangle expresses nothing but the nature of a triangle (not a fixed number of triangles)
+    - must be a cause for an individual existence
+      - must be evident by nature and definition
+      - must havee its being independently of the thing itself
+    - __a fixed number of individuals exist in nature_
+      - why not __more or less__
+      - cause for existence of each one (20 men example)
+      - each must be external to one another
+    - definition of substance must involve existence
+      - existence of a subject _must be concluded from the definition_
+  - __The more reality or being a thing has the more attributes it has__
+  - __Each attribute of one substance must be concieved through itself__
+    - for an attribute is that which intellect percieves of substance as constituting its essence
+  - __God, or substance consisting of infinite attributes, each of which express eternal and infinite essecnce necessarily exists__
+
+
+
+  ### Definitions (given on 172)
+  - _self caused_: whose essence involves existence, whos nature can be concieved only as existing
+  - _a thing_: can be said to be finite in its own kind
+    - a body, because we can always convieve of another body greater than it.
+    - limited by another thought
+  - _a substance_: concieved through itself, conception does not require conception of another thing.
+  - _mode_: the affections of a substance
+    - something else concieved through something else
+  - _god_: absolutely infinite being (__You can see Descartes influence lol__)
+    - external and infinite essence
+  - _absolutely infinite_: infinite attributes
+  - _infinite in its kind_: one may deny that it has infinite attributes
+  - _free_: exists solely from the necessity of its own nature, determined to action by itself
+  - _eternity_: existence itself as concieved following from the definition of an eternal thing
+    - existence is conceived as an external truth
+    - cannot be explicated through duration of time
+  - _axioms_: all things that are
+
+
+# Ethics (Dr. Darren Staloff)
+- challenged the notion of god and free will
+- rational skeptical mind
+- now with modern science we should question god
+  - why would go care about us
+- rejected things have purposes (teleology)
+  - hubirus to thing, cosmos came about to serve my purposes
+  - the world is a physical pheneomina
+  - no purpose to be forfilled, simply the substance working itself out to the effect
+- if we are in nature
+  - all human action is part of the natural economy
+  - logically and scientifically explainable
+  - Descartes methods were profoundly impactful on spinoza
+  - as well as his definitions of substance
+    - propensity for existance
+    - more than one of them?
+- one substance (the universe / world)
+  - famous contrast to Descartes dualism
+  - _this substance is god or nature (Spinoza)_
+  - his attempt at offering a rational spirituality
+- if one substance what about body and mind?
+  - the same thing but described in 2 ways: _attributes_
+  - (chess example, biologically vs chess perspective)
+  - can add more descriptions to get more attributes
+  - cannot assume they are not the same thing, we are only aware of 2 of these attribute.
+  - there are an infinite amount of attributes
+- not all of nature can be described in terms of mind
+- does go have a mind?
+  - yes, but there is no god outside of us and nature
+  - god is human rationality
+  - which is the same as the human body
+- the causal nexus (what bind world together)
+  - every cause is nessicary
+  - the universe knows no randomness
+  - everything that happens and will happen is set
+  - __determinism__
+- if man is part of nature his choices are determinable
+  - we don't have free will
+  - determined by education, training, etc
+  - our choices are not random, something determined them
+  - otherwise it was irrational
+- if we have all of the neurology and ideas we can predict human action
+- within every organic entity is a will for survival
+  - everything attempts to have as much potency as possible
+  - __principle of association_
+- we respond to stimulus and response
+- what is human happiness
+  - the well being of the animal
+  - more power
+    - strength
+    - stature
+  - so happiness is creating as much power for yourself as possible
+- life is outside of our hands if we respond to passive emotions
+  - __human bondage__: mans lack of power to control their emotions
+  -
