@@ -30,8 +30,7 @@
   - middleground between Descartes dualism and Hobbes materialism
   - _Attributes_: mental and corporeal realms
 - __Ethics__: begins with metaphysicss of god and substance
-  - continues with the nature of the mind and its affects
-  - human bondage and human freedom (power of intellect)
+  - continues with the nature of the mind and its affects - human bondage and human freedom (power of intellect)
 
 # Spinoza (172-185)
 - besides substances and modes nothing exists
@@ -163,6 +162,23 @@
   - _axioms_: all things that are
   - a thought cannot be limited by a body
 
+# Class Notes (Descartes to Spinoza)
+- dont have intellectual perceptions rather physical
+- how something looks is independent of our will
+  - is that thing god?
+- distinction between imagination
+  - pure intellectual vs perceptions
+  - _"given the limits of my knowledge ... I should stick to what is certain to me, and what is certain to me is mathmatics"_
+- nothing has purposes
+  - god has no purpose
+  - we are modes within god
+  - thus we have no purpose
+  - we find freedom in realizing we are not free
+- god is everything
+- god does not have an intellect
+  - we dont have an intellect, we are an intellect and we are a body
+- stoic influence
+- intellect is essentially finite
 
 # Ethics (Dr. Darren Staloff)
 - challenged the notion of god and free will

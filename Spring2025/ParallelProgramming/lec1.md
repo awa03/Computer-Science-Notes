@@ -81,7 +81,7 @@
 	- used when speed is more important
 	- streaming movies
 	- dns
-- 
+-
 
 
 

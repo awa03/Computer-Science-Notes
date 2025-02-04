@@ -273,3 +273,7 @@
 		- Existence not reality
     - We have a clear idea of what an infinite intellect is because we know what it is not
       - used the heat proof
+- if im determined by something within me, then freedom is the ability to accept or reject
+- if we are not certain something is true we should reject its existance
+- not say for certain external object exist
+    - however we can say that they most likely exist
