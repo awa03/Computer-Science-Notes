@@ -1,0 +1,27 @@
+# Exam Review
+- __Virtual Machine__
+  - hides complexity and limitations of hardware from application programmers
+- __Hiding Complexity__
+  - _advantages_: simpler, no physical worries
+  - _disadvantages_: lack of control, false assumptions about black box
+- __General OS Functions__
+  - screen display
+  - storage accesses
+  - coordination amond applications
+- __Coordination__
+  - applications should not crash one another
+  - _address space_: memory addresses that an application can touch
+  - an application should not crash OS
+- __Operating System__
+  - overcomes hardware
+  - protects from one another
+  - allocates resources
+- __Batch System__
+  - collects a batch of jobs before processing
+- __Multiprocessing__
+  - multiple programs can run concurrently
+- __Timeshare systems__
+  - each user can afford to own terminals and interact with machines
+- __Multitasking__
+  - a single user can run multiple programs on the same machine at the same time
+  - __Multiprocessing__

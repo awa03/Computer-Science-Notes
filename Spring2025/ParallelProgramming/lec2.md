@@ -10,7 +10,6 @@
 - IO bounded
   - sending back and forth and not doing much computation
 - CPU bounded
-  -
 
 > [!NOTE]
 > Even though python cpu uses a lock it does not remove race conditions because thread operations are not atomic, meaning that they lock and unlock but each thread is not critical.
