@@ -336,6 +336,10 @@
     - if a certain number is removed the original, and new ones are added object will retain its nature
     - Thesias ship
   - if parts of a thing become greater or lesser proportionally it will retain its nature
+  - the human body can move and effect other bodies
+- _the human mind grows with the perception that must be expirenced by the body_
+  - the mind is comprised of different parts
+  - adapt and change capacity for though
 
 
 [Source Video](https://www.youtube.com/watch?v=hYXoYr8vX8A&list=PLkAvi3BS2utmwQQdz7psaA33DYrVv62I_&index=23)
