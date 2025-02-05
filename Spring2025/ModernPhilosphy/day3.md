@@ -242,3 +242,100 @@
 - the ultimate expression of the power is to love everyone even your enemies
   - this is the way of salvation
 - apply spirituality to the world, that is the way of liberation
+
+
+# Part 2 Spinoza Ethics
+- as humans we can only access 2 of gods attributes
+  - mind / body (extension)
+- critiquing Descartes
+- you cannot be a mind on its own
+
+### Definitions
+- __body__
+  - a mode that expresses the essence of god, insofar as he is the thing being extended
+  - a body is one expression of the broader picture of god itself
+  - determinant
+- __essence and existence__
+  - we can exist without an essence
+  - we cannot have essence without existence
+- __idea__
+  - the minds creation seperate from a perception that is only passive perception through senses
+  - created seperate from our passive perception
+  - comes about through our minds on its own
+- __adequate idea__
+  - an idea without recourse to another idea or external object, considered in itself, possessing properties of a true idea
+  - triangle (don't perfectly exist in nature, still exist)
+- __duration__
+  - definite continuation of existence
+- __reality and perfection__
+  - same thing
+- __individual thing__
+  - things that are finite, if many work together to make a single effect they are all one thing
+- as humans we have an obligation to work together with one another
+- working towards a single goal
+
+### Axioms
+- __humanities essence does not require any one persons existance__
+- __humans think__
+- __a mode of thinking like love or desire depend on the thing that is loved or desired without having another mode of thought__
+- __bodies are affected in many ways__
+- __we only feel and perceive body's and modes of though__
+
+### Propositions
+- _thought is an attribute of god / god is a thinking thing_
+  - because we have the capacity to imagine an infinite being our thoughts are a finite expression of gods  infinite attribute of thought
+- _extension is an attribute of god or god is an extended thing_
+- _in god their nessicarily exists the idea of his essence and of all things that nessicarily follow from his essence_
+  - because god can think of infinite things at once is has the full grasp of those things
+  - god is the same as the idea of his essence
+  - nature itself as being god
+  - everything that exists is of god or nature
+  - everything is in accordance of his essence
+  - god is not humanoid
+- _gods idea while infinite only appears as one_
+  - god is one entity
+  - the infinite intellect percieves many of gods aspects but only as one thing
+- _the mind identify god as its cause only insofar as god is conceived as a thinking thing, and whos thought originates in itself_
+  - thought is only reliant on thought as an attribute of god
+  - emerges from god as a thinking thing rather than being conditioned by thought itself
+- _all modes have god as a cause only sofar as they are ascribed to attributes that are teathered to god_
+  - all attributes are concieved on their own
+  - thus only have god as their cause
+- _the order and connection of ideas is the same as the order and connection of things_
+  - gods thinking and acting are one in the same
+  - the process of thinking and the process of existing in space mirror one another
+    - since they are both of gods will, thus coming from one point
+- _if we have an idea of something that does not exist it exists in the infinite idea of god_
+- _the idea of something existing has god for a cause, not because god is infinite, but is the basis for the infinite chain of ideas which are caused by other ideas_
+  - an idea comes from another idea
+  - god is the cause
+  - god is the originator of this possibility of thought
+- _the being of substance does not imply the existence of humans_
+- _our first thought as humans is the idea of an individual thing existing within the world_a
+  - we must go though the world in order to experience things to have new ideas
+  - we are not born with the capacity for thought
+  - we need a relationship with the world to have thought
+- _anything that happens in the object that is the idea of the mind, must be cognizable by the mind_
+  - both mind and body are inseperable
+  - a degree of connection between them
+- _the object of the idea constituting the human mind is a body_
+  - the body is the object of the idea that constitues the human mind
+  - they are connected
+  - body is either in motion or in rest
+  - some bodys move quicker or slower
+  - bodies distinguish by motion or rest not their substance
+  - all bodies agree to some respect because they are all of same attribute of extension
+  - harmony among bodies, expression's of gods infinite expression
+  - use this to better synchronize us with nature
+  - in our interest to better understand the world
+  - motion of rest of objects are dependent on other objects
+  - needed to be acted upon
+  - getting this from physics
+  - composite bodies can be formed when many objects are together
+  - if we accept this idea ^
+    - if a certain number is removed the original, and new ones are added object will retain its nature
+    - Thesias ship
+  - if parts of a thing become greater or lesser proportionally it will retain its nature
+
+
+[Source Video](https://www.youtube.com/watch?v=hYXoYr8vX8A&list=PLkAvi3BS2utmwQQdz7psaA33DYrVv62I_&index=23)
