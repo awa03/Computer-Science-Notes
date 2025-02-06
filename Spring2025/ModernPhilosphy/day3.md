@@ -138,7 +138,7 @@
 	- we can have essence without __existence__ 
 
 
-  ### Definitions (given on 172)
+### Definitions (given on 172)
   - _self caused_: whose essence involves existence, whos nature can be conceived only as existing
   - _a thing_: can be said to be finite in its own kind
 	- a body, because we can always convince of another body greater than it.
@@ -179,6 +179,7 @@
   - we dont have an intellect, we are an intellect and we are a body
 - stoic influence
 - intellect is essentially finite
+- the thought of an extension that limits another, both expressions of god
 
 # Ethics (Dr. Darren Staloff)
 - challenged the notion of god and free will
