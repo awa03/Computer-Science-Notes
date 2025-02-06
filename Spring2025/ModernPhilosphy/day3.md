@@ -168,7 +168,7 @@
   - is that thing god?
 - distinction between imagination
   - pure intellectual vs perceptions
-  - _"given the limits of my knowledge ... I should stick to what is certain to me, and what is certain to me is mathmatics"_
+  - _"given the limits of my knowledge ... I should stick to what is certain to me, and what is certain to me is mathematics"_
 - nothing has purposes
   - god has no purpose
   - we are modes within god
@@ -180,6 +180,10 @@
 - stoic influence
 - intellect is essentially finite
 - the thought of an extension that limits another, both expressions of god
+- all genuine perception is active
+- _attribute_
+  - what the intellect perceives of substance as constituting its essence
+- god doesnt have a property called extension or intellect
 
 # Ethics (Dr. Darren Staloff)
 - challenged the notion of god and free will
