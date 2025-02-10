@@ -1,0 +1,20 @@
+# Networking Foundations
+- _network_: interconnects devices
+- _personal area network_: PAN
+- _local area network_: LAN
+- _campus area network_: CAN
+- _metropolitan area network_: MAN
+- _wide area network_: WAN
+- networks can be used to monitor devices
+- Network interface card (NIC)
+  - no other device should have the same mac address
+  - vendor code within mac address
+  - mac address is 48 bits
+  - divided into vendor code and unique identifier
+- subnet masks
+- we have ran out of ipv4 devices
+- network address translation (NAT)
+- ipv4: $2^32$
+- ipv6: $2^128$
+- ethernet switch learns where to send address
+- _flooding_: when a switch doesn't know where to send, sends to all ports except the one that recieved the frame
