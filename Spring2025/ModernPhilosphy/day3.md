@@ -199,6 +199,14 @@
 - god has no intellect but he is a thinking thing
 - god nessicarily exists
 - (natura naturata, 185)
+- substance cannot be produced by anything else
+  - therefore self caused
+- existance belongs to the nature of substance
+  - thus must be ifinite or infinite
+  - every substance is infinite
+  - because theres only one substance, if there were 2, they would have to share an attribute to limit one another
+    - through sharing something in common
+- thought and extension cannot limit one another
 
 
 # Ethics (Dr. Darren Staloff)
@@ -207,15 +215,15 @@
 - now with modern science we should question god
   - why would go care about us
 - rejected things have purposes (teleology)
-  - hubirus to thing, cosmos came about to serve my purposes
-  - the world is a physical pheneomina
+  - hubris to thing, cosmos came about to serve my purposes
+  - the world is a physical phenomena
   - no purpose to be forfilled, simply the substance working itself out to the effect
 - if we are in nature
   - all human action is part of the natural economy
   - logically and scientifically explainable
   - Descartes methods were profoundly impactful on spinoza
   - as well as his definitions of substance
-	- propensity for existance
+	- propensity for existence
 	- more than one of them?
 - one substance (the universe / world)
   - famous contrast to Descartes dualism
