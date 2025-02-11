@@ -2,6 +2,12 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+/*
+** Each process has its own address space
+** Virtualized Memory
+** An OS as a virtual machine
+*/
+
 int main(){
     printf("PID: %d\n", getpid());
 

@@ -176,7 +176,7 @@
   - we find freedom in realizing we are not free
 - god is everything
 - god does not have an intellect
-  - we dont have an intellect, we are an intellect and we are a body
+  - we don't have an intellect, we are an intellect and we are a body
 - stoic influence
 - intellect is essentially finite
 - the thought of an extension that limits another, both expressions of god
@@ -185,6 +185,12 @@
   - what the intellect perceives of substance as constituting its essence
 - god doesn't have a property called extension or intellect
 - a thing which has been determined by god to act in a particular way cannot render itself undermined
+
+## Tuesday (FEB 11th)
+- Spinoza attacking Descartes
+  - god create contradiction
+- god is the only substance, being, but in no way like us
+-
 
 
 # Ethics (Dr. Darren Staloff)
