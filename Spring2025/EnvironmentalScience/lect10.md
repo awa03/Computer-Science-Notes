@@ -1,0 +1,39 @@
+# Coral Reefs
+- cover in caribbean declined by >80%
+- _Hermatypic Corals_ - Reef building corals
+   - tend to live deeper, dont form reefs
+- Hermatypic grow in the absence of free-living planktonic prey
+- _Zooxanthellae_: symbiotic algae
+- what does coral get in return?
+  - organic carbon (sugars)
+    - 90 - 99% carbon is transffered to host
+    - Increased calcification (growth)
+  - Removal of Phosphate
+- Zooxanthellae can live outside of the corals for a period of time
+  - allows them to transfer hosts
+  - bleaching is the removal of them
+- corals are slow growing
+  - thus, slowly recover from damage
+- corals compete for light and space
+- _overgrowth_: some grow out shading other corals
+- _overtopping_: some grow rapidly up to gain light and throw shadows over others
+- _direct competition_: some have poisonous tentacles that digest their neighbor's directly
+- corals are colonial organisms composed of zooids
+- sexual reproduction by mass spawning and asexual reproduction
+- __Environment__
+  - topical temperatures
+  - light
+  - hard substrate
+  - low nutrients
+  - salt water
+  - non stagnant water
+  - oxygen
+- fish serve primary herbivores
+  - feed on algae, could otherwise compete for space
+  - reef fish are often territorial
+  - use the reef for protection and food
+- the sea urchin diadema is another herbivore that helps keep algae in check
+- crown of thorns starfish preys upon coral
+- corals have dynamic places
+  - respond well to natural climate change
+  - human action has put them in danger

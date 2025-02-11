@@ -183,7 +183,9 @@
 - all genuine perception is active
 - _attribute_
   - what the intellect perceives of substance as constituting its essence
-- god doesnt have a property called extension or intellect
+- god doesn't have a property called extension or intellect
+- a thing which has been determined by god to act in a particular way cannot render itself undermined
+
 
 # Ethics (Dr. Darren Staloff)
 - challenged the notion of god and free will
