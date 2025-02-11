@@ -194,8 +194,11 @@
   - from a given determinate cause there follows an effect
     - from non no effect will follow
     - if there are multiple substances something must have caused there to be
-    - if something isnt convievable through itself it must be concieved through a cause
-  -
+    - if something isn't conceivable through itself it must be concieved through a cause
+- if we can conceive of something not existing it's essence does not contain existence
+- god has no intellect but he is a thinking thing
+- god nessicarily exists
+- (natura naturata, 185)
 
 
 # Ethics (Dr. Darren Staloff)
