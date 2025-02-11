@@ -79,7 +79,7 @@
 	  - must havee its being independently of the thing itself
 	- if substance wasnt infinite then there is something thats outside of it that presses against it
 		- space for example
-	- __a fixed number of individuals exist in nature_
+	- __a fixed number of individuals exist in nature__
 	  - why not __more or less__
 	  - cause for existence of each one (20 men example)
 	  - each must be external to one another
@@ -129,7 +129,7 @@
     - determined by cause
   - __things could have been produced by god in no other order__
     - if someone suggested it be different that would imply it is imperfect
-  - __the power of god is his essence itself_
+  - __the power of god is his essence itself__
   - __whatever we percieve to be in gods power must exist__
   - __nothing exists whos nature and exist does not follow__
     - must produce some effect (even if only taking up space)
@@ -187,10 +187,15 @@
 - a thing which has been determined by god to act in a particular way cannot render itself undermined
 
 ## Tuesday (FEB 11th)
-- Spinoza attacking Descartes
+- Spinoza` attacking Descartes
   - god create contradiction
 - god is the only substance, being, but in no way like us
--
+- __Axioms__
+  - from a given determinate cause there follows an effect
+    - from non no effect will follow
+    - if there are multiple substances something must have caused there to be
+    - if something isnt convievable through itself it must be concieved through a cause
+  -
 
 
 # Ethics (Dr. Darren Staloff)
@@ -237,7 +242,7 @@
 - if we have all of the neurology and ideas we can predict human action
 - within every organic entity is a will for survival
   - everything attempts to have as much potency as possible
-  - __principle of association_
+  - __principle of association__
 - we respond to stimulus and response
 - what is human happiness
   - the well being of the animal
@@ -324,7 +329,7 @@
   - god is the cause
   - god is the originator of this possibility of thought
 - _the being of substance does not imply the existence of humans_
-- _our first thought as humans is the idea of an individual thing existing within the world_a
+- _our first thought as humans is the idea of an individual thing existing within the world_
   - we must go though the world in order to experience things to have new ideas
   - we are not born with the capacity for thought
   - we need a relationship with the world to have thought
