@@ -1,2 +1,3 @@
 - [Securing Your Server](lec1.md)
 - [Linkedin Learning: Ethical hacking](security.md)
+- [Sockets](lec3.md)

@@ -211,8 +211,14 @@
   - to be determined by ones nature
   - we become and instance of god determining himself
 - every idea we have is determined by other ideas
-- __when we know ourselfes through god__
-
+- __when we know ourselves through god__
+- __knowledge through nature__
+- _what is time?_
+  - a succession in thought
+  - doesn't believe in time in the traditional way
+- if it exists in thought it must exist in parallel within all modes
+- how much of the infinite chain of knowledge do we know?
+  - the chain of causes is infinite
 
 # Ethics (Dr. Darren Staloff)
 - challenged the notion of god and free will
