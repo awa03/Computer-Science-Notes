@@ -207,6 +207,11 @@
   - because theres only one substance, if there were 2, they would have to share an attribute to limit one another
     - through sharing something in common
 - thought and extension cannot limit one another
+- __freedom__
+  - to be determined by ones nature
+  - we become and instance of god determining himself
+- every idea we have is determined by other ideas
+- __when we know ourselfes through god__
 
 
 # Ethics (Dr. Darren Staloff)
