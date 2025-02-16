@@ -1,4 +1,6 @@
 - [Genesis From Hardware To Process](Hardware.md)
 - [Cooperating threads](CooperatingThread.md)
-- [CPU Scheduling](CPUScheduling)
+- [CPU Scheduling](CPUScheduling.md)
 - [Review Lecture](review1.md)
+- [More on Semaphores](MoreOnSemaphores.md)
+- [Deadlocks](Deadlocks.md)
