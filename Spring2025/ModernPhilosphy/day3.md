@@ -409,3 +409,16 @@
   - truth in agreement between ideas and things
   - absolutely necessarymeaning all ideas are true nessicarily
 - __affections_ - meaning
+- __Propositions 1-15__: substance, one substance,god has infinite attributes
+  - attributes concieved through themselves
+  - substance unity, gods unity of indivisibility is singular
+  - all is gods
+- __Gods Causality__
+  - from god follows infinite things in infinite ways
+  - god acts by the necessity of his nature and as constrained by noneeternal, necessary and infinite modes
+  - god acts by necessity of his nature and as constrained by none
+- __Proposition 17___
+  - intellect and the will do not belong to the nature of god
+- __Proposition 18__
+  - god causes things from within, not without
+- __Proposition 21-23__
