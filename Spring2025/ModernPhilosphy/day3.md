@@ -383,3 +383,29 @@
 
 
 [Source Video](https://www.youtube.com/watch?v=hYXoYr8vX8A&list=PLkAvi3BS2utmwQQdz7psaA33DYrVv62I_&index=23)
+
+## Review Sheet Notes
+- limits of possibilities and impossibilities within conception are limits of things themselves
+  - does not hold true for imagination
+- __axiom 2__
+  - conditions of conception are conditions of things
+  - What cannot be conceived through other things must be concievable through itself
+  - _"What cannot be concieved through itself must be concieved through another thing"_
+- __axiom 3__
+  - a cause must have an effect, and an effect must be determined through an effect
+  - determinism
+  - presupposes things are conceivable
+  - everything has a determininant effect
+  - no effect can follow from no cause
+- __axiom 5__
+  - things that have nothing in common with one another cannot be understood through eachother
+  - the conception of one does not involve conception of another
+  - _common features_: ideas contained within several things
+  - _private features_: ideas specific to one thing
+  - these can place limits on conception, and on things themselves
+- __axiom 6__
+  - a true idea must agree with that of which it is the idea
+  - spinoza is nota correspondence theory of truth philosopher
+  - truth in agreement between ideas and things
+  - absolutely necessarymeaning all ideas are true nessicarily
+- __affections_ - meaning
