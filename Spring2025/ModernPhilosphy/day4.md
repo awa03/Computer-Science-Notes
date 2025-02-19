@@ -131,7 +131,7 @@
 - rational method of learning the most basic principles of knowledge of things from our sensory expirence
 - no insight to the inner essence of things by any means
 - knowledge as a usuful way of navigating the world
-- __Analysis vs Synthesis_
+- __Analysis vs Synthesis__
   - _analysis_: reducing some whole part and examining its parts individually
   - _synthesis_: combining parts together into a whole
   - these are opposite processes
