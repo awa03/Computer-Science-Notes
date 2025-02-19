@@ -73,6 +73,50 @@
 ****
 
 ## Bacon
+- born in london 1561
+	- lawyer and politician
+	- parliament in 1584
+	- traditional deduction deduction had produced little scientific knowledge, leading us astray
+- __Man being the servant and interpreter of nature__
+	- beyond his nature he knows nothing
+	- helpless beyond nature
+- __Instruments in assisting in work__
+	- understanding and assisting in life
+- __Human knowledge where the cause is unknown the effect cannot be produced__
+	- nature to be commanded must be obeyed
+- __Our logic gives us stability from error__
+	- does more harm than good, predisposing our expectation, thus making it biased
+- __syllogism__
+	- _consists of_ propositions
+	- propositions consist of words, words are symbols of notions
+	- if notions are confused there can be no firm conclusion made, only hope then lies in true induction
+- __notions__
+	- substance, quality, passion, and essence are __NOT__ notions
+	- rather ill defined, and fantastical
+- __discovering the truth__
+	- there are only two ways
+	- _senses and particulars to general axioms_: proceeds judgement, fly's from senses to general axioms, from these to principles
+	- _derives axioms and particulars from senses and particulars_: gradual rise, unbroken ascent, arrives at the most general axioms last of all. _true induction_
+	- difference between methods of induction is infinite
+	- establishing certainty, through methodical process
+- most conclusions within human reasoning are rash and unsubstantiated, these are examples of common induction
+- __idols and the human mind__
+	1) _tribe_
+		- foundation in human nature
+		- race of men, or the human nature itself
+		- (__false__) sense of man is the measure of things 
+		- make the truth difficult to discern
+		- human understanding is like a false mirror, distorting reality by mingling in a nature of its own (perception)
+	2) _cave_
+		- individual man
+		- their individual life experiences
+	3) _market_
+		- formed by the association with other men
+		- discourse associates with taboo, thus guiding our thinking
+	4) _theater_
+		- immigrated into mans mind from various dogmas
+		- from things such as philosophy's
+	- Idols destroy the senses, and have taken deep root in mans nature
 - __true induction vs common induction__
   - _true_: longer more deliberate way of induction, exploring every possibility
     - the same as common, without making generalizations
@@ -102,11 +146,72 @@
   - asserts a necessary connection between premises regardless of the result
   - an argument is _sound_ if the premise's are true and if it is a valid argument
 - _logically synthetic_: combines premises into a conclusion
+
+
+__What is the relationship between knowledge and power according to Bacon?__
+
+ <details><summary>Answer</summary>knowledge is power, allows us to gain control over nature and through things such as tools we can further this. emphasizes the practical utility of knowledge.</details>
+
+
+__What is Bacon's view of the use of the syllogism in science?__
+
+<details><summary>Answer</summary>Considered it to be inadequate for providing scientific evidence. No match for the subtlety of nature. Disconnected from reality.</details>
+
+
+__What does he say about axioms?__
+<details><summary>Answer</summary>Bit self evident or necessarily true, should be derived from careful observation rather than from generalized limited experience. Believed forming proper notions and axioms through true induction was the remedy to expel false ideas</details>
+
+__What is the difference between common induction and true induction__
+
+<details><summary>Answer</summary>Common induction is what most humans go through in their daily life. The example given in class being the cookie jar. Even though your mom slaps your hand that does not necessarily mean it will always happen (every house, parent, time, etc). True induction is much more rigorous, and involves testing more possibilities ensuring the truth is not generalized.</details>
+
+
+__What is Bacon's view of nature?__
+
+<details><summary>Answer</summary>Nature is a source of knowledge, and we can gain knowledge of its secrets through careful observation. This is the key for advancing human civilization. Nature can be manipulated and controlled through human intervention. It is something like a garden that should be cultivated and improved through human effort, to restore the garden of eaden. Nature is in constant motion, and is the product of god.</details>
+
+__What are the idols? Why are they important? (Describe all four by their titles and explain them)__
+
+<details><summary>Answer</summary>Idols of the tribe describes human nature, and the limitations of human perception and cognition. Meaning our senses do not perfectly mirror the world around us. The Idols of the cave are unique to the individual, arsing from personal experience. The cave representing the prejudices that come from the subjects background and experiences. The Idols of the marketplace are formed from the misuse and misunderstanding of human language within interaction. Words often betray their own purpose, highlighting the imperfections within language. The idols of the theater are false beliefs arising from our philosophical systems or traditional knowledge. These are preexisting theories or dogmas which make it harder to objectively view the world since we have our preexisting notion distorting our perception. </details>
+
 ****
 
 ## Galileo
+- __life__
+	- born 1564 in _Pisa_
+	- Studied mathematics at the University of Pisa
+	- constructed a telescope from observations of the moon
+	- died in 1642 in Arcetri (near Florance)
+- body possessing a shape, not nessicarily conjoined
+- tastes, colors, etc do not exist
+- found through our processing of perception
 - look at regimented rational method in order to learn basic principles
 - only seek to interpret sensory expirence sensory expirence
   - we can free ourselves from illusion by looking to the senses directly to gain knowledge
+- _primary_: mathematical in nature and are thought to be part of essential nature of physical bodies 
+- _secondary_: subjective, in us
+__What are the specific primary and secondary qualities listed by Galileo?__
+
+<details><summary>Answer</summary>Primary qualities are properties of the body that exist independently from any observer. Characteristics such as figure, shape, motion. and spatio-temporal location are primary qualities. Secondary qualities are properties that produce sensations within observers.These are qualities such as taste, color, and sound. These would not exist with out bodies to perceive them</details>
+
+__What is the significance of holding this view for science?__
+
+<details><summary>Answer</summary>This would lead to an emphasis on quantitative properties by focusing on aspects such as size and shape. This would also lead to more objectivity within sciences since perception is not left to muddy the water. This will also separate subjective experience from scientific observation</details>
+
+__How does it differ from older views of the physical world like Aristotle?__
+
+<details><summary>Answer</summary>Galileo focused mainly on quantifiable properties that are measurable and mathematical. Whilst Aristotle took a more quantifiable approach using examples such as hot, cold, wet, etc. Gallielo additionally had a much larger emphasis on mathematical thinking, as opposed to Aristotle. Aristotle was more reliant on syllogistic logic and deductive reasoning than mathematical reasoning.</details>
+
+__How is it different than Bacons view?__
+
+<details><summary>Answer</summary>Galileo was more focused on measurable mathmatical thinking through primary qualities, whereas Bacon did not describe this difference. Bacon additionally aimed to provide a more comprehensive answer of the processes that we should engage in contrasted to Galileos approach was more heavily focused on the scientific applications.</details>
+
+__What argument does he give to try and justify distinction?__
+
+<details><summary>Answer</summary>He gives the argument that primary qualities are inseperable from the body, while secondary ones are not. Since we cannot concieve of a body without qualities such as size, shape, and spacial location they are to be considered primary qualities. We can also observe these through; persistence, universality, deducibility, explanatory power.</details>
+
+__What type of argument does he use to try and justify the fact that primary qualities are really in external bodies but secondary qualities are not? What is his primary argument?__
+
+<details><summary>Answer</summary>We cannot concieve of a body without these primary quantities, such as size, position or shape. Primary quantities also persist even when the object is not being percieved. These also universally apply to bodies, where secondary qualities may not. They can also be deduced through human logic as well as understanding.</details>
 
 ****
