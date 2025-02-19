@@ -73,7 +73,7 @@
 ****
 
 ## Bacon
-- true induction vs common induction
+- __true induction vs common induction__
   - _true_: longer more deliberate way of induction, exploring every possibility
     - the same as common, without making generalizations
     - mother and cookies example
@@ -97,18 +97,16 @@
     - begin with the conclusion and attempt to arrive at the premise.
   - _induction_: combine the premises to form the conclusion, __sythesis_
     - our dog has traits that resemble a dog, therefore he is a dog
+    - never be sure of correctness, because all premises have not been explored (_true induction_)
 - _syllogism_: said to be true if all premises are true (_syllogistic figures_) and therefore the conclusion must be true as well
   - asserts a necessary connection between premises regardless of the result
   - an argument is _sound_ if the premise's are true and if it is a valid argument
--
-
+- _logically synthetic_: combines premises into a conclusion
 ****
 
 ## Galileo
 - look at regimented rational method in order to learn basic principles
 - only seek to interpret sensory expirence sensory expirence
   - we can free ourselves from illusion by looking to the senses directly to gain knowledge
--
-
 
 ****
