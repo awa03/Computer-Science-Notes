@@ -1,3 +1,4 @@
 - [Galileo & Bacon](day1.md)
 - [Descartes](day2.md)
 - [Spinoza](day3.md)
+- [Exam Review](day4.md)

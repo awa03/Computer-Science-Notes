@@ -63,6 +63,6 @@ lawyer(int j){
   - no sharing, using independent threads
   - allocate resources at the start
 
-```c
+```
 
 ```
