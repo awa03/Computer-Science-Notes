@@ -60,20 +60,55 @@
 	- determined by that which is outside of us
 	- all in _human bondage_
 	- _a way of salvation_: understanding the cause of them, when we see the necessity of judgments they lose their power on us
+- Follower of Descartes
+	- knowledge begins with pure intellect
+	- sense experience is unreliable, and full of error
+	- geometry and mathematics provide us a path to divine understanding
+- from god follows infinite things in infinite ways
+- god is single
+- all is god
+- god causes things from within
+- the essence of modes does not involve existence
+- _substance_: necessarily exists, infinite and eternal, the cause of itself, cannot be produced by anything else
+	- the entire universe as one all encompassing reality
+- _attributes_: infinitely many attributes of a substance, humans can only perceive of thought and extension, each attribute expresses the essence of substance in a different way
+	- the realm of ideas, consciousness, and mental processes
+	- the physical spatial dimensions of reality
+- _modes_: affections of substance, dependent on substance for existence, particular things that we experience in the world, the same mode can be conceived through different attributes
+	- infinite modes: the law of motion and rest in the physical world
+	- finite mode: a book or a tree
+- _essence_: refers to the fundamental nature of a thing, can be expressed through infinitely many attributes, each attribute constitutes the essence of substance in a unique way
+	- the essence of a substance: infinite and eternal nature expressed through all of its attributes
+	- the essence of a human being: desire insofar as it determines a persons actions
+- uses inertia as a model for his chaining theory
 
-### Spinoza Ethics (pt. 1)
+### Spinoza Ethics (pt. 2)
 
-
+- considering human interaction with nature and how our mind interacts with it
+- we can only access 2 of gods infinite attributes
+	- thought (mind) and extension (body)
 
 ****
 
 ## Descartes
 - intellect, the will has made a judgment
+- _perception_: every act of awareness what so ever. That he is aware of something rather than "I have sensed it"
+- _reality_: the whatness or content of an idea or concept. This is described as what is "positive" in our thought of it. This is closely related to our essence. 
+	- _essence_: a chair for example is a collection of all the "realities" we think in it
+- __Two Types of Reality__
+	- _objective reality_: the reality contained in my mental concept or the idea of a thing, the reality represented in the idea
+	- _formal reality_: the same reality but as in the existing thing itself
+- quantitatively something with more inner complexity or number of parts has more reality than something with less (car vs chair for example)
+- _not all thoughts are realities_
+	- all thoughts with any meaning must hold ground (serve as a reference) in reality. 
+	- some things can be negations of reality
+	- for example cold, cold is not a thing rather an absence of heat. this is a negation of a reality
+	- when we think of anything we do we represent absolute realities and then negate some aspects of it. 
 
 ****
 
 ## Bacon
-- born in london 1561
+- born in London 1561
 	- lawyer and politician
 	- parliament in 1584
 	- traditional deduction deduction had produced little scientific knowledge, leading us astray
@@ -149,12 +184,10 @@
 
 
 __What is the relationship between knowledge and power according to Bacon?__
-
  <details><summary>Answer</summary>knowledge is power, allows us to gain control over nature and through things such as tools we can further this. emphasizes the practical utility of knowledge.</details>
 
 
 __What is Bacon's view of the use of the syllogism in science?__
-
 <details><summary>Answer</summary>Considered it to be inadequate for providing scientific evidence. No match for the subtlety of nature. Disconnected from reality.</details>
 
 
@@ -162,16 +195,13 @@ __What does he say about axioms?__
 <details><summary>Answer</summary>Bit self evident or necessarily true, should be derived from careful observation rather than from generalized limited experience. Believed forming proper notions and axioms through true induction was the remedy to expel false ideas</details>
 
 __What is the difference between common induction and true induction__
-
 <details><summary>Answer</summary>Common induction is what most humans go through in their daily life. The example given in class being the cookie jar. Even though your mom slaps your hand that does not necessarily mean it will always happen (every house, parent, time, etc). True induction is much more rigorous, and involves testing more possibilities ensuring the truth is not generalized.</details>
 
 
 __What is Bacon's view of nature?__
-
 <details><summary>Answer</summary>Nature is a source of knowledge, and we can gain knowledge of its secrets through careful observation. This is the key for advancing human civilization. Nature can be manipulated and controlled through human intervention. It is something like a garden that should be cultivated and improved through human effort, to restore the garden of eaden. Nature is in constant motion, and is the product of god.</details>
 
 __What are the idols? Why are they important? (Describe all four by their titles and explain them)__
-
 <details><summary>Answer</summary>Idols of the tribe describes human nature, and the limitations of human perception and cognition. Meaning our senses do not perfectly mirror the world around us. The Idols of the cave are unique to the individual, arsing from personal experience. The cave representing the prejudices that come from the subjects background and experiences. The Idols of the marketplace are formed from the misuse and misunderstanding of human language within interaction. Words often betray their own purpose, highlighting the imperfections within language. The idols of the theater are false beliefs arising from our philosophical systems or traditional knowledge. These are preexisting theories or dogmas which make it harder to objectively view the world since we have our preexisting notion distorting our perception. </details>
 
 ****
@@ -191,27 +221,21 @@ __What are the idols? Why are they important? (Describe all four by their titles
 - _primary_: mathematical in nature and are thought to be part of essential nature of physical bodies 
 - _secondary_: subjective, in us
 __What are the specific primary and secondary qualities listed by Galileo?__
-
 <details><summary>Answer</summary>Primary qualities are properties of the body that exist independently from any observer. Characteristics such as figure, shape, motion. and spatio-temporal location are primary qualities. Secondary qualities are properties that produce sensations within observers.These are qualities such as taste, color, and sound. These would not exist with out bodies to perceive them</details>
 
 __What is the significance of holding this view for science?__
-
 <details><summary>Answer</summary>This would lead to an emphasis on quantitative properties by focusing on aspects such as size and shape. This would also lead to more objectivity within sciences since perception is not left to muddy the water. This will also separate subjective experience from scientific observation</details>
 
 __How does it differ from older views of the physical world like Aristotle?__
-
 <details><summary>Answer</summary>Galileo focused mainly on quantifiable properties that are measurable and mathematical. Whilst Aristotle took a more quantifiable approach using examples such as hot, cold, wet, etc. Gallielo additionally had a much larger emphasis on mathematical thinking, as opposed to Aristotle. Aristotle was more reliant on syllogistic logic and deductive reasoning than mathematical reasoning.</details>
 
 __How is it different than Bacons view?__
-
 <details><summary>Answer</summary>Galileo was more focused on measurable mathmatical thinking through primary qualities, whereas Bacon did not describe this difference. Bacon additionally aimed to provide a more comprehensive answer of the processes that we should engage in contrasted to Galileos approach was more heavily focused on the scientific applications.</details>
 
 __What argument does he give to try and justify distinction?__
-
 <details><summary>Answer</summary>He gives the argument that primary qualities are inseperable from the body, while secondary ones are not. Since we cannot concieve of a body without qualities such as size, shape, and spacial location they are to be considered primary qualities. We can also observe these through; persistence, universality, deducibility, explanatory power.</details>
 
 __What type of argument does he use to try and justify the fact that primary qualities are really in external bodies but secondary qualities are not? What is his primary argument?__
-
 <details><summary>Answer</summary>We cannot concieve of a body without these primary quantities, such as size, position or shape. Primary quantities also persist even when the object is not being percieved. These also universally apply to bodies, where secondary qualities may not. They can also be deduced through human logic as well as understanding.</details>
 
 ****
