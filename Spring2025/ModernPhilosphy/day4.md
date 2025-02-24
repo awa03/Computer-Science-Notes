@@ -82,11 +82,31 @@
 	- the essence of a human being: desire insofar as it determines a persons actions
 - uses inertia as a model for his chaining theory
 
-### Spinoza Ethics (pt. 2)
+### Spinoza Ethics
 
 - considering human interaction with nature and how our mind interacts with it
 - we can only access 2 of gods infinite attributes
 	- thought (mind) and extension (body)
+- everything happens for a reason
+	- nothing cannot abide by the laws of god
+- an _individual thing_ can work together to make a single effect which is still then _one thing_ 
+- _extension_ is an attribute of god
+  - god only exists within our minds
+- thought is only reliant on god
+- all modes have god as a cause, so far as they are ascribed to attributes with god as a cause
+  - only possible to have a mode because of god
+- the order and connection of ideas are the same as the order and connection of things
+  - originating from the same point
+- if we have an idea of something that doesnt exist
+  - it exists in the infinite idea of god
+  - an attribute of thought
+  - can belong to the infinite possibility of gods thought
+- god is affected by another idea, we can say god is the cause
+  - if we think of something god is the originator of this thought
+- the being of substance does not imply human existence
+- as humans our capacity for thought has to go through the world in order to create new thoughts
+- anything that happens in the body must be cognizable by the mind
+  - connection between them
 
 ****
 
