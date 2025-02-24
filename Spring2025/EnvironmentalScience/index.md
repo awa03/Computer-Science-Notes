@@ -4,3 +4,4 @@
 - [Critical Thinking Environmental Science](lec4.md)
 - [The Unique Earth](lec5.md)
 - [Energy](lec6.md)
+- [Carbon Cycle](lec7.md)
