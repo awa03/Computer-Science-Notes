@@ -2,3 +2,4 @@
 - [Descartes](day2.md)
 - [Spinoza](day3.md)
 - [Exam Review](day4.md)
+- [Leibniz](day5.md)

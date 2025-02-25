@@ -1,3 +1,6 @@
 - [Securing Your Server](lec1.md)
 - [Linkedin Learning: Ethical hacking](security.md)
+- [Python Threads](lec2.md)
 - [Sockets](lec3.md)
+- [Networking](Networking.md)
+- [Ubuntu Server](ubuntu.md)
