@@ -15,6 +15,12 @@
 - argues against descartes that extension cannot constitute the essence of any substance and rehabilitates substantial forms as the essence of the extended subject
 - every substance must represent the whole universe from a certain point of view
 - there will be a perfect agreement among substances, producing the same effect that would be noticed if they communicated through the transmition of qualities of species
+- nothing in our mind that we are not actually concious of perceiving
+  - doctrine of _petites perceptions_
+  - at any moment there is an infinity of perceptions in us which we do not consciously perceive
+  - the present is filled with the future and laden with the past
+  - everything conspires together
+  - death maybe a state similar to sleep
 
 
 ### Leibniz Notes (252 - 263)
