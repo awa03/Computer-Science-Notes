@@ -62,3 +62,29 @@
 - law of continuity: nature does not make jumps
 - evilness must suppose apparent flaws in every possible world (__so god isnt perfect??__, not what he said but really dude)
 - in a true proposition the predicate is contained in the subject (ugh this is just bound by linguistics again.)
+
+### Class Notes
+- very influential to calculus
+- catholic
+- trying to build a complete system
+- early life mechanist
+  - in a similar way to Descartes and Spinoza philosphical inspiration
+- __reality__
+  - positive content: the essence is what corresponds to reality
+  - if something has a essence that concept maybe made up of mutliple realities
+  - add something key to his proof of gods existance
+  - to be a genuine reality, when you can speak of something infinitely without contridiction
+- we can ascribe to god only genuine realities
+- __metaphysically perfect__: being of the highest degree
+  - when he talks about metaphysical he is talking about the _essence of things_
+  - meaning the essence is perfect if something is _metaphysically perfect_
+- you can be morally good or bad
+  - moral philosophy has to do with a philosophy of the will
+- the world is rational and well ordered
+  - therefore there is a god
+- if god only did good things then we would have no reason to praise god
+  - in spinoza or descartes we are therefore more like puppets
+    - no reason to praise him
+  - active expressions of god, standback and see him as a seperate being, judging god as if we were god
+- god like a great calculator, using this to maximize the world with the greatest unity (like an arcitect)
+- god does nothing without a reason
