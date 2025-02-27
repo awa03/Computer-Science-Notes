@@ -85,8 +85,41 @@
   - snow is very reflective
   - sea ice as well is very reflective
   - clouds
--
-
+- Atmospheric circulation
+  - the sun rays strike different parts of the earth at different angles
+  - sunlight reaching tropical regions arrive nearly perpendicular to the surface
+  - sunlight reaching polar regions arrive at a very oblique angle, which is spread over a larger area
+    - provides less energy per unit area
+  - causes seasons
+- in polar regions the outgoing long wave (heat) radiation is greater than the incoming short-wave (solar) raditation
+- in tropical regions the outgoing long wave radiation is less than the incoming short wave radiation
+- fluid motion transports heat around the globe (why we arent seeing large spikes rather a average out)
+- How atmospheric circulation works?
+  - density (__mass / volume__)
+    - usually constant for solids
+    - density can change with pressure
+  - less dense fluids want to rise above
+    - water boiling example
+    - hot air balloons
+- spinning planet exerts an apparent force called the _Coriolis effect_
+  - moving ball thrown on merry-go-round
+- Storms
+  - areas of surface heating lead to rising air
+  - causes humid air to condense, expanding
+  - cools air, precipitation
+- formation and sustence of hurricanes requires hot oceanic water
+- Oceanic circulation
+  - _surface current_: wind driven
+    - rapid
+    - high variable
+  - _deepwater flow_: thermohaline circulation
+    - oceanic overturning
+    - much slower (over 10000 years)
+- Wind driven circulation
+  - wind transfers some of its energy through friction
+  - Coriolis effect turns the water to the right
+  - oceanic influenced by the shape of continents that prevent water from transiting the entire globe
+- _Gyre_: A large system of rotating ocean current
 
 *****
 
