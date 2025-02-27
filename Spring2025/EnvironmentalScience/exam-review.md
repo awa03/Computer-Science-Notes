@@ -1,0 +1,133 @@
+# Lecture 1
+- Stage 1
+  - Early period of hunter and gatherers
+  - total population < a few million
+- Stage 2
+  - Rise in agriculture
+  - allowed for increase in population density and increase human populations
+  - total population 5 million in 10,000 bc to about 100 million in A.D. 1 from A.D. 1000 the population increased to 200-300 million
+- Stage 3
+  - industrial revolution
+  - improvements in health and food security led to rapid increase in  population
+  - Total population about 900 million in 1800, doubling in a century and then 3 billion by 1960
+- Stage 4
+  - currently
+  - allowed for increase in population density and increase in the human population
+  - now over 8 billion
+- Logistic growth
+  - s shaped curve
+  - growth increases exponentiall only temporarily to the inflection point
+- most important statistic in population growth is _total fertility rate_
+- Four types of population
+  - Pyramid: population with many yound and high death rate (_short average lifetime_)
+  - Inverted pyramid: population with a large elderly population and small youth (_declining growth_)
+  - Column: birth rate and death rate are low, little change in population size
+  - Column with bulge: event in the pat caused a high birth or death rate for some age group
+- __Human Carrying Capacity__ limiting factors
+  - short term: affect population immediately
+    - food shortages
+  - intermediate: affect population for 1-10 years
+    - desertification
+    - dispersal of pollutants
+  - long term: effects not apparent until after 10 years
+
+****
+
+# Lecture 6
+- energy is the capacity to do work
+- connot be created or destroyed
+- can be converted from one form to another
+  - kenetic energy
+  - potential energy
+    - positional energy (gravitational)
+    - energy in kenetic bonds
+    - energy in electromagnetic radiation
+- __first law of thermodynamics__: the total amount of energy in the universe is constant
+- __second law__: every energy transformation increases disorder (entropy)
+  - more usable forms to less usable forms
+  - least usable form is _heat_
+    - random motion of molecules
+- __Electromagnetic Radiation__: light
+  - amount of energy is determined by the wave length
+  - the full range of wavelengths is called the spectrum
+  - uv radiation has a shorter wave length
+- __Heat__: another form of energy
+  - flows from a higher temp body to a lower temp body
+  - related to _temperature_
+    - $tempChange * mass$
+  - conduction: direct transfer
+  - convection: regions of gas or liquid rise
+  - radiation: matter loses heat by radiation, producing electromagnetic energy
+  - latent heat transfer: associated with phase transitions (melting, freezing, etc)
+- __chemical energy__: potential energy associated with the formation or breakage of bonds between atoms
+- photsynthesis converts energy
+- Nuclear energy: energy contained within an atoms nucleus
+  - $E = mc^{2}$
+  - Nuclear fission: splitting the nucleus
+  - Nuclear fusion: combining two nuclei
+- (energy) if the amount going in is greater the earth will heat
+- a small increase in temperature will lead to a large increase in energy
+- earths energy balance
+  - slight imbalance lead to temperature changes
+  - some of the light from the sun is reflected (30%)
+  - the other 70% is absorbed
+    - the portion that can heat up our planet
+- what causes imbalances
+  - reflectivity
+  - insulation
+  - absorption
+- Greenhouse gasses
+  - clear to visible light
+  - absorb infared radiation
+  - let energy come in, prevent it from leaving
+  - Water vapor, methane, carbon dioxide, etc
+- Albedo, the reflectivity of an object
+  - snow is very reflective
+  - sea ice as well is very reflective
+  - clouds
+-
+
+
+*****
+
+# Lecture 7
+- __Element__: a substance that cannot be broken down into simpler substances
+  - composed of atoms that have the same atomic number
+  - which means they have the same number of protons in their nucleus
+  - Carbon
+  - Hydrogen
+  - Oxygen
+  - Nitrogen
+- __Isotope__: Atoms of an element with different numbers of neutrons
+  - different isotopes of an element will behave very similarly but have crucial differences in fractionation and chemical reaction rates
+  - some isotopes are radioactive, meaning they will spontaneously decay or break apart (_releasing energe_)
+- __Ion__: Electrially charged molecules or atoms
+- __Covalent bonds__: strong bonds formed by sharing electrons
+  - can be equal sharing
+  - or unequal
+- __Ionic bonds__: strong bonds formed when one atom transfers its electrons to another
+- __Dipole (Hydrogen) Bounds__: Weak bonds formed between polar molecules
+- Carbohydrates
+  - carbon
+  - hydrogen
+  - oxygen
+  - includes sugars
+- Lipids (fats and oils)
+  - long chains of carbon and hydrogren, and short region with one or more oxygen atoms
+  - form most cellular membrains
+  - also used as energy storage
+- hydrocarbons
+  - organic molecules comprised entirely of C & Human
+  - methane
+  - ethane
+  - propane
+- Macromolecules: combinations of small organic molecules
+- Polysaccharides: polymers (__chains_) of simple sugars
+- proteins: polymers of amino acids
+- Rocks and Soil
+  - continually created, maintained, and changed and destroyed
+- Geologic Cycles
+  - tectonic: formation of mountains
+  - hydroloic: water
+  - rock: weathering
+  - biogeochemical

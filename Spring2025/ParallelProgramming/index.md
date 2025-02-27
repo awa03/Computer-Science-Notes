@@ -4,3 +4,5 @@
 - [Sockets](lec3.md)
 - [Networking](Networking.md)
 - [Ubuntu Server](ubuntu.md)
+- [Sockets to Parallelism](lec4.md)
+- [Servers, WSGI & Flask](lec5.md)
