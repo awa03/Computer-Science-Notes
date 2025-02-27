@@ -120,6 +120,10 @@
   - Coriolis effect turns the water to the right
   - oceanic influenced by the shape of continents that prevent water from transiting the entire globe
 - _Gyre_: A large system of rotating ocean current
+  - transport cold and warm water
+  - play a role in warming the poles and cooling the tropics
+- water along Eastern boundaries is typically colder
+
 
 *****
 
