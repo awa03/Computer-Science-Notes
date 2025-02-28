@@ -43,6 +43,7 @@
   - safer shutdown
   - check battery capacity, and the shutdown strategy
 
+
 > [!NOTE]
 > I should make my old desktop a server, do that for a fun side project. I have ubuntu already on it so it shouldnt be hard
 > buttt I should reinstall the server version instead
