@@ -1,0 +1,36 @@
+# Security and Protection
+- __Security__: policy (_what will be done_) of authorizing accesses
+  - prevents intentional misuses of the system
+- __Protection__: mechanisms (_how something will be done_) implemented to enforce the specialized policy
+    - prevents accidental and intentional misuses
+- _Confidentiality_: secret data remains secret
+- _Integrity_: unauthorized users should not be able to modify data
+- _Availability_: nobody can make a system unusable
+- Encryption
+  - Uses a key to transform the data
+  - Difficult to reverse without the key
+- UNIX stores encrypted passwords in `/etc/passwd`
+  - uses one way transformers
+  - required only lower-case, 5 letter passwords
+  - require more complex password
+- __Private key__ encryption of data
+  - Encrypt(key, plaintext) = Cipher text
+- __Eavesdropping__: listeners approach
+  - tap into the ethernet and see everything
+  - countermeasure: pressurize cables
+- Abuse of privilege:
+  - if the superuser is evil, not much you can do
+- Imposter: breaks into the system by pretending to be someone else
+  - recorded voice and facial image
+  - countermeasure: behavioral monitoring to look for suspicious activities
+- Trojan horse: seemingly innocent program performs an unexpected function
+  - spyware is a variation that download ads, create popup windows and steal user information
+  - countermeasure: integrity checking
+- Salami attack: builds up an attack one-bit at a time
+  - partial pennies to a bank account
+  - countermeasure: code reviews
+- Logic Bombs: a programmer secretly insert a piece of code into production system
+- Denial of Service attacks: aim to reduce system availability
+  - throttle the system
+  - randomware: can encrypt important files until a random is paid
+  - countedmeasure: versioned backup

@@ -4,3 +4,6 @@
 - [Review Lecture](review1.md)
 - [More on Semaphores](MoreOnSemaphores.md)
 - [Deadlocks](Deadlocks.md)
+- [Transactions and Reliability](Transactions-Reliability.md)
+- [Security and Protection](Security.md)
+- [Cashtags](Cashtags.md)
